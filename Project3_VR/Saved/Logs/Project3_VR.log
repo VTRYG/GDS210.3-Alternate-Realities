@@ -845,3 +845,778 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.31-04.15.41:683][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
 [2020.03.31-04.15.41:808][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.03.31-04.15.48:395][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.28.22:055][590]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.31-04.28.22:068][590]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/brody/OneDrive/Desktop/alleyway2 fbx.fbx)
+[2020.03.31-04.28.22:207][590]LogFbx: Loading FBX Scene from C:/Users/brody/OneDrive/Desktop/alleyway2 fbx.fbx
+[2020.03.31-04.28.22:238][590]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.31-04.28.26:448][590]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.03.31-04.28.26:985][590]LogMaterial: Display: Missing cached shader map for material Color_C09, compiling. 
+[2020.03.31-04.28.27:251][590]LogMaterial: Display: Missing cached shader map for material Color_J04, compiling. 
+[2020.03.31-04.28.27:274][590]LogMaterial: Display: Missing cached shader map for material Color_C10, compiling. 
+[2020.03.31-04.28.27:299][590]LogMaterial: Display: Missing cached shader map for material Color_D02, compiling. 
+[2020.03.31-04.28.27:325][590]LogMaterial: Display: Missing cached shader map for material Color_D07, compiling. 
+[2020.03.31-04.28.27:351][590]LogMaterial: Display: Missing cached shader map for material Color_D08, compiling. 
+[2020.03.31-04.28.27:377][590]LogMaterial: Display: Missing cached shader map for material Color_G09, compiling. 
+[2020.03.31-04.28.27:404][590]LogMaterial: Display: Missing cached shader map for material Color_A07, compiling. 
+[2020.03.31-04.28.27:431][590]LogMaterial: Display: Missing cached shader map for material Color_M06, compiling. 
+[2020.03.31-04.28.27:537][590]LogMaterial: Display: Missing cached shader map for material Color_A08, compiling. 
+[2020.03.31-04.28.27:560][590]LogMaterial: Display: Missing cached shader map for material Color_H02, compiling. 
+[2020.03.31-04.28.27:590][590]LogMaterial: Display: Missing cached shader map for material Color_H04, compiling. 
+[2020.03.31-04.28.27:614][590]LogMaterial: Display: Missing cached shader map for material Color_F08, compiling. 
+[2020.03.31-04.28.27:636][590]LogMaterial: Display: Missing cached shader map for material Color_A10, compiling. 
+[2020.03.31-04.28.27:664][590]LogMaterial: Display: Missing cached shader map for material Color_G10, compiling. 
+[2020.03.31-04.28.27:686][590]LogMaterial: Display: Missing cached shader map for material Color_I04, compiling. 
+[2020.03.31-04.28.27:713][590]LogMaterial: Display: Missing cached shader map for material Color_G11, compiling. 
+[2020.03.31-04.28.27:734][590]LogMaterial: Display: Missing cached shader map for material Color_G12, compiling. 
+[2020.03.31-04.28.27:811][590]LogMaterial: Display: Missing cached shader map for material Color_K02, compiling. 
+[2020.03.31-04.28.27:835][590]LogMaterial: Display: Missing cached shader map for material Color_I06, compiling. 
+[2020.03.31-04.28.27:858][590]LogMaterial: Display: Missing cached shader map for material Color_M09, compiling. 
+[2020.03.31-04.28.27:886][590]LogMaterial: Display: Missing cached shader map for material Color_K04, compiling. 
+[2020.03.31-04.28.27:908][590]LogMaterial: Display: Missing cached shader map for material Color_H09, compiling. 
+[2020.03.31-04.28.27:931][590]LogMaterial: Display: Missing cached shader map for material FrontColor1, compiling. 
+[2020.03.31-04.28.27:954][590]LogMaterial: Display: Missing cached shader map for material Color_K09, compiling. 
+[2020.03.31-04.28.27:976][590]LogMaterial: Display: Missing cached shader map for material Color_E04, compiling. 
+[2020.03.31-04.28.28:001][590]LogMaterial: Display: Missing cached shader map for material Color_K10, compiling. 
+[2020.03.31-04.28.28:096][590]LogMaterial: Display: Missing cached shader map for material Color_E06, compiling. 
+[2020.03.31-04.28.28:126][590]LogMaterial: Display: Missing cached shader map for material Color_L02, compiling. 
+[2020.03.31-04.28.28:153][590]LogMaterial: Display: Missing cached shader map for material Color_L05, compiling. 
+[2020.03.31-04.28.28:166][590]LogFbx: Display: Triangulating static mesh yeeee1:Mesh1Group1Model
+[2020.03.31-04.28.28:338][590]LogStaticMesh: Building static mesh alleyway2_fbx...
+[2020.03.31-04.28.28:452][590]LogStaticMesh: Built static mesh [0.14s] /Game/alleyway2_fbx.alleyway2_fbx
+[2020.03.31-04.28.28:789][590]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.03.31-04.28.28:917][590]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/brody/OneDrive/Desktop/allyway road fbx.fbx)
+[2020.03.31-04.28.28:938][590]LogFbx: Loading FBX Scene from C:/Users/brody/OneDrive/Desktop/allyway road fbx.fbx
+[2020.03.31-04.28.28:945][590]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.31-04.28.28:960][590]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.03.31-04.28.28:983][590]LogStaticMesh: Building static mesh allyway_road_fbx...
+[2020.03.31-04.28.29:000][590]LogStaticMesh: Built static mesh [0.02s] /Game/allyway_road_fbx.allyway_road_fbx
+[2020.03.31-04.28.29:006][590]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.03.31-04.28.29:014][590]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/brody/OneDrive/Desktop/allyway1 fbx.fbx)
+[2020.03.31-04.28.29:025][590]LogFbx: Loading FBX Scene from C:/Users/brody/OneDrive/Desktop/allyway1 fbx.fbx
+[2020.03.31-04.28.29:041][590]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.31-04.28.29:056][590]LogMaterial: Display: Missing cached shader map for material Color_D05, compiling. 
+[2020.03.31-04.28.29:079][590]LogMaterial: Display: Missing cached shader map for material Color_B05, compiling. 
+[2020.03.31-04.28.29:153][590]LogMaterial: Display: Missing cached shader map for material Color_E08, compiling. 
+[2020.03.31-04.28.29:177][590]LogMaterial: Display: Missing cached shader map for material Color_C04, compiling. 
+[2020.03.31-04.28.29:202][590]LogMaterial: Display: Missing cached shader map for material Color_E09, compiling. 
+[2020.03.31-04.28.29:226][590]LogMaterial: Display: Missing cached shader map for material Color_H05, compiling. 
+[2020.03.31-04.28.29:257][590]LogMaterial: Display: Missing cached shader map for material Color_M05, compiling. 
+[2020.03.31-04.28.29:285][590]LogMaterial: Display: Missing cached shader map for material Color_J06, compiling. 
+[2020.03.31-04.28.29:308][590]LogMaterial: Display: Missing cached shader map for material Color_F07, compiling. 
+[2020.03.31-04.28.29:339][590]LogMaterial: Display: Missing cached shader map for material Color_H07, compiling. 
+[2020.03.31-04.28.29:363][590]LogMaterial: Display: Missing cached shader map for material Color_I03, compiling. 
+[2020.03.31-04.28.29:439][590]LogMaterial: Display: Missing cached shader map for material Color_A09, compiling. 
+[2020.03.31-04.28.29:462][590]LogMaterial: Display: Missing cached shader map for material Color_H08, compiling. 
+[2020.03.31-04.28.29:489][590]LogMaterial: Display: Missing cached shader map for material Color_I05, compiling. 
+[2020.03.31-04.28.29:514][590]LogMaterial: Display: Missing cached shader map for material Color_I08, compiling. 
+[2020.03.31-04.28.29:542][590]LogMaterial: Display: Missing cached shader map for material Color_H10, compiling. 
+[2020.03.31-04.28.29:568][590]LogMaterial: Display: Missing cached shader map for material Color_H12, compiling. 
+[2020.03.31-04.28.29:587][590]LogFbx: Display: Triangulating static mesh reee2:Mesh1Group1Model
+[2020.03.31-04.28.29:684][590]LogStaticMesh: Building static mesh allyway1_fbx...
+[2020.03.31-04.28.29:791][590]LogStaticMesh: Built static mesh [0.11s] /Game/allyway1_fbx.allyway1_fbx
+[2020.03.31-04.28.29:810][590]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.03.31-04.28.37:399][316]LogSlate: Window 'Message Log' being destroyed
+[2020.03.31-04.28.37:403][316]LogSlate: Window 'Message Log' being destroyed
+[2020.03.31-04.29.40:948][346]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/HubWorld.HubWorld
+[2020.03.31-04.29.40:990][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.03.31-04.29.46:721][346]LogSlate: Window 'Save Content' being destroyed
+[2020.03.31-04.29.47:200][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/alleyway2_fbx6C72283C4E5803FAC2F801BCE5C48617.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/alleyway2_fbx.uasset'
+[2020.03.31-04.29.47:565][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/allyway1_fbxECBB89224D1C0B855B9E3B9C962DA109.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/allyway1_fbx.uasset'
+[2020.03.31-04.29.47:787][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/allyway_road_fbxBB14AEBE46B3F4CBCCB676839B045037.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/allyway_road_fbx.uasset'
+[2020.03.31-04.29.47:814][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_A07" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_A07.uasset" SILENT=true
+[2020.03.31-04.29.47:832][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_A07F1D9F26C497E4FDBF4FF0CB4ECD8B722.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_A07.uasset'
+[2020.03.31-04.29.47:850][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_A08" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_A08.uasset" SILENT=true
+[2020.03.31-04.29.47:867][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_A081D87527D48C82756ED291C969B2FBEB1.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_A08.uasset'
+[2020.03.31-04.30.55:159][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_A09" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_A09.uasset" SILENT=true
+[2020.03.31-04.30.55:192][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_A09447F938D45AB917ACCBAA682583770F1.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_A09.uasset'
+[2020.03.31-04.30.55:214][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_A10" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_A10.uasset" SILENT=true
+[2020.03.31-04.30.55:533][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_A105B34993C4EADFC081C13739D34F8864F.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_A10.uasset'
+[2020.03.31-04.30.55:690][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_B05" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_B05.uasset" SILENT=true
+[2020.03.31-04.30.55:707][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_B05F8F3556A4B1D2091B3437D8E2076D6D1.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_B05.uasset'
+[2020.03.31-04.30.55:726][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_C04" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_C04.uasset" SILENT=true
+[2020.03.31-04.30.55:744][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_C048BBF8E2F4133BB822E421B842E5458B5.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_C04.uasset'
+[2020.03.31-04.30.55:768][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_C09" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_C09.uasset" SILENT=true
+[2020.03.31-04.30.55:788][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_C0915C825D64F0B3A66EE78F98EFB227852.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_C09.uasset'
+[2020.03.31-04.30.55:810][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_C10" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_C10.uasset" SILENT=true
+[2020.03.31-04.30.55:828][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_C106E7E824449E8845D207658831A7362D7.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_C10.uasset'
+[2020.03.31-04.30.55:853][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_D02" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_D02.uasset" SILENT=true
+[2020.03.31-04.30.55:872][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_D0200C7BE044B714B0600A2AF8CD0EB5BE3.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_D02.uasset'
+[2020.03.31-04.30.56:014][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_D05" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_D05.uasset" SILENT=true
+[2020.03.31-04.30.56:032][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_D058BC2FD584A1F1770C9D1D6924162A507.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_D05.uasset'
+[2020.03.31-04.30.56:056][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_D07" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_D07.uasset" SILENT=true
+[2020.03.31-04.30.56:073][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_D07B16FBED245F4278111A8AD84C1D4ADCD.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_D07.uasset'
+[2020.03.31-04.30.56:094][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_D08" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_D08.uasset" SILENT=true
+[2020.03.31-04.30.56:113][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_D08448B0F0F46E524394CF50AAC90ECF4C3.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_D08.uasset'
+[2020.03.31-04.30.56:133][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_E04" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_E04.uasset" SILENT=true
+[2020.03.31-04.30.56:152][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_E0448973CFF48ECD2A9539007881281C8CB.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_E04.uasset'
+[2020.03.31-04.30.56:174][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_E06" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_E06.uasset" SILENT=true
+[2020.03.31-04.30.56:191][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_E0678371AE349F750CE3D0668B45568D47F.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_E06.uasset'
+[2020.03.31-04.30.56:213][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_E08" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_E08.uasset" SILENT=true
+[2020.03.31-04.30.56:327][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_E08C9EA028F4BEA0EAA0477F481CF5FDD52.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_E08.uasset'
+[2020.03.31-04.30.56:348][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_E09" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_E09.uasset" SILENT=true
+[2020.03.31-04.30.56:365][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_E09B2317E7A405514F7BE9044A9662D7C2C.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_E09.uasset'
+[2020.03.31-04.30.56:387][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_F07" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_F07.uasset" SILENT=true
+[2020.03.31-04.30.56:406][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_F07BBC87DE848EDE4ADFF3891945C31CBB0.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_F07.uasset'
+[2020.03.31-04.30.56:427][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_F08" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_F08.uasset" SILENT=true
+[2020.03.31-04.30.56:448][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_F08EFC1535A41238A049E5FB78F688BD92F.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_F08.uasset'
+[2020.03.31-04.30.56:468][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_G09" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_G09.uasset" SILENT=true
+[2020.03.31-04.30.56:486][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_G09C45BD4514B2C1361250F38A06AB74440.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_G09.uasset'
+[2020.03.31-04.30.56:510][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_G10" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_G10.uasset" SILENT=true
+[2020.03.31-04.30.56:652][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_G1006A3DFD1401851B4396DEA86D0DE2CEE.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_G10.uasset'
+[2020.03.31-04.30.56:672][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_G11" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_G11.uasset" SILENT=true
+[2020.03.31-04.30.56:691][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_G114AD8EBB24589F602A0BF6CA846A4E000.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_G11.uasset'
+[2020.03.31-04.30.56:711][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_G12" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_G12.uasset" SILENT=true
+[2020.03.31-04.30.56:729][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_G122B502001468A3A35A7B67C84D7926E4A.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_G12.uasset'
+[2020.03.31-04.30.56:750][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_H02" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_H02.uasset" SILENT=true
+[2020.03.31-04.30.56:767][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_H02EA70E05E4EFC7CD3208F53AED068A0E7.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_H02.uasset'
+[2020.03.31-04.30.56:788][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_H04" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_H04.uasset" SILENT=true
+[2020.03.31-04.30.56:804][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_H04952C3DEF41572A9E1E81DBB6A780C655.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_H04.uasset'
+[2020.03.31-04.30.56:825][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_H05" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_H05.uasset" SILENT=true
+[2020.03.31-04.30.56:842][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_H058AC24F49468C6A6ED212B2BCF263BBF2.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_H05.uasset'
+[2020.03.31-04.30.56:862][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_H07" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_H07.uasset" SILENT=true
+[2020.03.31-04.30.56:998][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_H0727A56C854557E1011BA9DE925B371FE8.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_H07.uasset'
+[2020.03.31-04.30.58:258][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_H08" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_H08.uasset" SILENT=true
+[2020.03.31-04.30.58:275][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_H081FC4AD9C45E4BE982C70C4AB6233C38D.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_H08.uasset'
+[2020.03.31-04.30.58:294][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_H09" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_H09.uasset" SILENT=true
+[2020.03.31-04.30.58:312][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_H096789314B4F5A3D57935218874E60D0A3.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_H09.uasset'
+[2020.03.31-04.31.04:703][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_H10" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_H10.uasset" SILENT=true
+[2020.03.31-04.31.04:722][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_H1073F947FA4CAFE218F5ED90B1B9693100.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_H10.uasset'
+[2020.03.31-04.31.05:857][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_H12" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_H12.uasset" SILENT=true
+[2020.03.31-04.31.05:874][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_H12612259AB4EF5E2E2D4E46D9E80B2E4A2.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_H12.uasset'
+[2020.03.31-04.31.05:893][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_I03" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_I03.uasset" SILENT=true
+[2020.03.31-04.31.05:910][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_I032F33517D46A3680587F0BCBD9E23516F.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_I03.uasset'
+[2020.03.31-04.31.06:067][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_I04" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_I04.uasset" SILENT=true
+[2020.03.31-04.31.06:086][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_I042557F97645D4AF311C319DB96BB7728D.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_I04.uasset'
+[2020.03.31-04.31.06:107][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_I05" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_I05.uasset" SILENT=true
+[2020.03.31-04.31.06:124][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_I05DEE19191470BCD4838BCA6A0EF2C395D.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_I05.uasset'
+[2020.03.31-04.31.06:143][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_I06" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_I06.uasset" SILENT=true
+[2020.03.31-04.31.06:162][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_I06B3241E564CB5CCF28BC46F89C76A8D81.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_I06.uasset'
+[2020.03.31-04.31.06:182][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_I08" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_I08.uasset" SILENT=true
+[2020.03.31-04.31.06:200][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_I08B572238642A57CEA0B889F840E080D49.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_I08.uasset'
+[2020.03.31-04.31.06:219][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_J04" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_J04.uasset" SILENT=true
+[2020.03.31-04.31.06:236][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_J04F410408C401DE9A535F266BE61047DB2.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_J04.uasset'
+[2020.03.31-04.31.06:256][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_J06" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_J06.uasset" SILENT=true
+[2020.03.31-04.31.06:405][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_J06C33948CE496F0A93084003A0AE1BBED6.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_J06.uasset'
+[2020.03.31-04.31.06:424][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_K02" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_K02.uasset" SILENT=true
+[2020.03.31-04.31.06:441][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_K02EBC6214B47A30B1A09422496C5BD1182.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_K02.uasset'
+[2020.03.31-04.31.06:462][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_K04" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_K04.uasset" SILENT=true
+[2020.03.31-04.31.06:480][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_K04524B347C4AAAE77896F5EB8698140536.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_K04.uasset'
+[2020.03.31-04.31.06:498][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_K09" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_K09.uasset" SILENT=true
+[2020.03.31-04.31.06:517][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_K098DA9F695498C1DF08EE84195F9FC7251.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_K09.uasset'
+[2020.03.31-04.31.06:537][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_K10" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_K10.uasset" SILENT=true
+[2020.03.31-04.31.06:555][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_K10373E832F4FE41573CCE990AE4CDF4E2F.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_K10.uasset'
+[2020.03.31-04.31.06:576][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_L02" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_L02.uasset" SILENT=true
+[2020.03.31-04.31.06:595][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_L027E0463BD4EE77BC13AD0EEAC330901FF.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_L02.uasset'
+[2020.03.31-04.31.06:615][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_L05" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_L05.uasset" SILENT=true
+[2020.03.31-04.31.06:721][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_L052025EF6D47CF6F3B65DBEDB3BD599502.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_L05.uasset'
+[2020.03.31-04.31.06:742][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_M05" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_M05.uasset" SILENT=true
+[2020.03.31-04.31.06:759][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_M05A9653A03446619047944B198A12AF017.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_M05.uasset'
+[2020.03.31-04.31.06:787][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_M06" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_M06.uasset" SILENT=true
+[2020.03.31-04.31.06:804][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_M066082128F4DEBAB986D305199ECCC1343.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_M06.uasset'
+[2020.03.31-04.31.06:826][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Color_M09" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_M09.uasset" SILENT=true
+[2020.03.31-04.31.06:844][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_M09608213CB4E10A5F1568A809132824311.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Color_M09.uasset'
+[2020.03.31-04.31.06:864][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FrontColor1" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/FrontColor1.uasset" SILENT=true
+[2020.03.31-04.31.06:882][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/FrontColor10AE67D3B4C24546B1F8BD5872026D273.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/FrontColor1.uasset'
+[2020.03.31-04.31.06:904][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert1" FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/lambert1.uasset" SILENT=true
+[2020.03.31-04.31.07:042][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/lambert13969F02B4DBAE90C7A4C00B9AD08E732.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/lambert1.uasset'
+[2020.03.31-04.31.07:076][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.03.31-04.31.07:674][346]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/HubWorld8255D1F5493C960FA7A9E39599C06FB8.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Scenes/HubWorld.umap'
+[2020.03.31-04.31.07:682][346]LogFileHelpers: Saving map 'HubWorld' took 0.632
+[2020.03.31-04.31.07:698][346]Cmd: MAP LOAD FILE="G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Scenes/HubWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.31-04.31.07:698][346]LightingResults: New page: Lighting Build
+[2020.03.31-04.31.07:698][346]LoadErrors: New page: Loading map: HubWorld.umap
+[2020.03.31-04.31.07:708][346]MapCheck: New page: Map Check
+[2020.03.31-04.31.07:708][346]LightingResults: New page: Lighting Build
+[2020.03.31-04.31.07:730][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.03.31-04.31.07:819][346]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.31-04.31.07:819][346]LogAIModule: Creating AISystem for world HubWorld
+[2020.03.31-04.31.07:839][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.03.31-04.31.07:873][346]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.31-04.31.07:874][346]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2020.03.31-04.31.07:875][346]LogFileHelpers: Loading map 'HubWorld' took 0.192
+[2020.03.31-04.31.08:053][347]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.03.31-04.31.20:346][737]LogEditorViewport: Clicking Background
+[2020.03.31-04.31.24:786][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.31.25:860][394]LogEditorViewport: Clicking Background
+[2020.03.31-04.31.27:176][544]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.31-04.31.28:858][744]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.31-04.31.30:719][959]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.03.31-04.31.31:399][ 34]LogEditorViewport: Clicking Background
+[2020.03.31-04.31.33:738][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.31.41:086][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.31.41:614][244]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (33.562 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.03.31-04.31.44:069][536]LogEditorViewport: Clicking Background
+[2020.03.31-04.31.45:244][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.32.07:477][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.32.10:717][654]Cmd: DELETE
+[2020.03.31-04.32.10:717][654]Cmd: ACTOR DELETE
+[2020.03.31-04.32.11:327][654]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.03.31-04.32.11:349][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.03.31-04.32.11:349][654]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.03.31-04.32.14:611][ 39]Cmd: TRANSACTION UNDO
+[2020.03.31-04.32.14:611][ 39]LogEditorTransaction: Undo Create Actors
+[2020.03.31-04.32.15:447][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.32.19:543][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.32.21:116][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.32.37:612][747]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.31-04.33.11:697][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.33.14:142][993]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Rendering/LightingAndShadows/LightTypes/SkyLight/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2020.03.31-04.33.28:370][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.33.59:454][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.34.14:594][678]LogActorFactory: Actor Factory created Cube
+[2020.03.31-04.34.14:598][678]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.03.31-04.34.14:896][704]LogActorFactory: Actor Factory created Cube
+[2020.03.31-04.34.25:758][131]LogEditorViewport: Clicking Background
+[2020.03.31-04.34.25:766][131]LogEditorViewport: Clicking Background
+[2020.03.31-04.34.27:962][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.03.31-04.34.41:387][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.34.42:606][955]Cmd: DELETE
+[2020.03.31-04.34.42:606][955]Cmd: ACTOR DELETE
+[2020.03.31-04.34.42:607][955]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.31-04.34.42:628][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.03.31-04.34.42:629][955]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.03.31-04.34.50:989][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.35.02:165][984]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.03.31-04.35.02:532][ 24]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.03.31-04.35.05:206][339]Cmd: TRANSACTION UNDO
+[2020.03.31-04.35.05:206][339]LogEditorTransaction: Undo Move Actors
+[2020.03.31-04.35.09:424][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.35.15:878][584]LogActorFactory: Actor Factory created Plane
+[2020.03.31-04.35.16:584][667]LogActorFactory: Actor Factory created Plane
+[2020.03.31-04.35.31:636][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.35.35:474][840]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.31-04.35.38:033][129]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.31-04.35.45:143][971]LogEditorViewport: Clicking Background
+[2020.03.31-04.35.45:651][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.03.31-04.35.48:939][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.35.50:667][532]LogActorFactory: Actor Factory created alleyway2_fbx
+[2020.03.31-04.35.51:043][573]LogActorFactory: Actor Factory created alleyway2_fbx
+[2020.03.31-04.35.59:522][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.36.04:532][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.36.11:703][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.36.14:133][271]Cmd: DELETE
+[2020.03.31-04.36.14:133][271]Cmd: ACTOR DELETE
+[2020.03.31-04.36.14:135][271]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.31-04.36.14:135][271]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.03.31-04.36.14:135][271]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.31-04.36.14:136][271]LogEditorActor: Deleted Actor: SkyLight
+[2020.03.31-04.36.14:155][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.03.31-04.36.14:155][271]LogEditorActor: Deleted 4 Actors (0.022 secs)
+[2020.03.31-04.37.49:048][848]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.31-04.37.53:664][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.38.33:401][466]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.31-04.38.39:380][172]Cmd: DELETE
+[2020.03.31-04.38.39:380][172]Cmd: ACTOR DELETE
+[2020.03.31-04.38.39:381][172]LogEditorActor: Deleted Actor: Brush
+[2020.03.31-04.38.39:397][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.03.31-04.38.39:398][172]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.03.31-04.38.41:248][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.38.41:801][455]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.31-04.38.47:295][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.39.03:075][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.39.24:150][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.39.40:846][357]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.31-04.39.41:362][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.03.31-04.39.41:895][357]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/HubWorld_Auto127A64A424EEB176B44636082C9160581.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/Scenes/HubWorld_Auto1.umap'
+[2020.03.31-04.39.41:955][357]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/HubWorld' took 0.616
+[2020.03.31-04.39.41:955][357]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.616
+[2020.03.31-04.39.48:221][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.39.51:363][461]Cmd: DELETE
+[2020.03.31-04.39.51:363][461]Cmd: ACTOR DELETE
+[2020.03.31-04.39.51:364][461]LogEditorActor: Deleted Actor: Brush
+[2020.03.31-04.39.51:382][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.03.31-04.39.51:384][461]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.03.31-04.40.34:334][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.40.47:444][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.41.15:938][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.41.26:743][995]LogEditorViewport: Clicking Background
+[2020.03.31-04.41.31:556][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.42.26:542][485]Cmd: TRANSACTION UNDO
+[2020.03.31-04.42.26:542][485]LogEditorTransaction: Undo Scale Actors
+[2020.03.31-04.42.55:713][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.42.55:856][647]LogActorFactory: Actor Factory created alleyway2_fbx
+[2020.03.31-04.42.56:605][736]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.31-04.42.57:127][793]LogActorFactory: Actor Factory created allyway1_fbx
+[2020.03.31-04.42.57:583][831]LogActorFactory: Actor Factory created allyway1_fbx
+[2020.03.31-04.42.58:779][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.42.58:901][962]LogActorFactory: Actor Factory created alleyway2_fbx
+[2020.03.31-04.42.59:313][991]LogActorFactory: Actor Factory created alleyway2_fbx
+[2020.03.31-04.43.00:102][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.43.00:236][ 74]LogActorFactory: Actor Factory created allyway_road_fbx
+[2020.03.31-04.43.00:564][104]LogActorFactory: Actor Factory created allyway_road_fbx
+[2020.03.31-04.43.07:382][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (alleyway2_fbx)
+[2020.03.31-04.43.10:603][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (allyway1_fbx)
+[2020.03.31-04.43.34:486][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.43.44:868][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.44.06:086][583]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.31-04.44.41:504][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.44.55:462][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.44.57:224][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (allyway1_fbx)
+[2020.03.31-04.44.57:290][536]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.03.31-04.44.58:225][567]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.03.31-04.44.58:288][573]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (allyway1_fbx)
+[2020.03.31-04.45.02:171][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.45.02:335][986]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/alleyway2_fbx.alleyway2_fbx
+[2020.03.31-04.45.02:791][986]LogMaterial: Display: Missing cached shader map for material M_SkyBox, compiling. 
+[2020.03.31-04.45.02:873][986]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2020.03.31-04.45.14:021][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.45.14:113][896]LogSlate: Window 'alleyway2_fbx' being destroyed
+[2020.03.31-04.45.14:117][896]LogSlate: Window 'alleyway2_fbx' being destroyed
+[2020.03.31-04.45.15:501][ 21]LogSlate: Took 0.032873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.31-04.45.17:010][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.45.17:141][163]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/alleyway2_fbx.alleyway2_fbx
+[2020.03.31-04.45.22:343][530]LogRenderer: Reallocating scene render targets to support 1432x920 Format 26 NumSamples 1 (Frame:360).
+[2020.03.31-04.46.01:676][ 62]LogEditorFactories: Performing atomic reimport of [C:/Users/brody/OneDrive/Desktop/alleyway2 fbx.fbx]
+[2020.03.31-04.46.01:705][ 62]LogFbx: Loading FBX Scene from C:/Users/brody/OneDrive/Desktop/alleyway2 fbx.fbx
+[2020.03.31-04.46.01:713][ 62]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.31-04.46.01:720][ 62]LogFbx: Display: Triangulating static mesh yeeee1:Mesh1Group1Model
+[2020.03.31-04.46.01:769][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.31-04.46.01:772][ 62]LogStaticMesh: Building static mesh alleyway2_fbx...
+[2020.03.31-04.46.01:824][ 62]LogStaticMesh: Built static mesh [0.05s] /Game/alleyway2_fbx.alleyway2_fbx
+[2020.03.31-04.46.01:840][ 62]LogEditorFactories: -- imported successfully
+[2020.03.31-04.46.01:843][ 62]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.03.31-04.46.06:235][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.46.09:840][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (allyway1_fbx)
+[2020.03.31-04.46.16:943][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (allyway1_fbx)
+[2020.03.31-04.46.32:347][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.46.42:924][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.46.42:992][877]LogSlate: Window 'alleyway2_fbx' being destroyed
+[2020.03.31-04.46.42:995][877]LogSlate: Window 'alleyway2_fbx' being destroyed
+[2020.03.31-04.46.46:253][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.48.11:605][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (alleyway2_fbx)
+[2020.03.31-04.48.16:727][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.48.26:704][548]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.03.31-04.49.42:255][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.03.31-04.49.42:854][620]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/HubWorld_Auto2A70EBECE43FC92D65EACC0ABB951F47D.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/Scenes/HubWorld_Auto2.umap'
+[2020.03.31-04.49.42:862][620]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/HubWorld' took 0.631
+[2020.03.31-04.49.42:862][620]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.631
+[2020.03.31-04.49.42:863][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/alleyway2_fbx] ([1] browsable assets)...
+[2020.03.31-04.49.42:880][620]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/alleyway2_fbx.alleyway2_fbx]
+[2020.03.31-04.49.42:881][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/alleyway2_fbx]
+[2020.03.31-04.49.43:377][620]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/alleyway2_fbx_Auto2CADDAFC043E6881828CE93A5BDB1773E.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/alleyway2_fbx_Auto2.uasset'
+[2020.03.31-04.49.43:379][620]LogFileHelpers: Auto-saving content packages took 0.515
+[2020.03.31-04.51.43:669][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.51.51:307][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.51.55:150][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.57.33:367][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-04.57.55:883][223]Cmd: DELETE
+[2020.03.31-04.57.55:883][223]Cmd: ACTOR DELETE
+[2020.03.31-04.57.55:885][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.31-04.57.55:885][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.31-04.57.55:885][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.31-04.57.55:916][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.03.31-04.57.55:917][223]LogEditorActor: Deleted 3 Actors (0.034 secs)
+[2020.03.31-04.59.44:959][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.03.31-04.59.45:548][898]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/HubWorld_Auto36091009046057A79B53D0B936AACC4F2.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/Scenes/HubWorld_Auto3.umap'
+[2020.03.31-04.59.45:556][898]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/HubWorld' took 0.614
+[2020.03.31-04.59.45:556][898]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.614
+[2020.03.31-05.08.35:841][180]Cmd: TRANSACTION UNDO
+[2020.03.31-05.08.35:841][180]LogEditorTransaction: Undo Rotate Actors
+[2020.03.31-05.08.36:460][244]Cmd: TRANSACTION UNDO
+[2020.03.31-05.08.36:460][244]LogEditorTransaction: Undo Select Brush Surface
+[2020.03.31-05.08.50:926][957]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2020.03.31-05.08.51:722][ 48]LogEditorViewport: Clicking Background
+[2020.03.31-05.09.56:779][450]LogEditorViewport: Clicking Background
+[2020.03.31-05.10.04:938][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-05.10.08:046][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.03.31-05.10.14:444][670]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.31-05.10.15:047][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.03.31-05.10.15:067][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.03.31-05.10.15:087][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.03.31-05.10.15:106][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.03.31-05.10.15:126][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.03.31-05.10.15:147][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.03.31-05.10.15:165][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.03.31-05.10.15:185][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.03.31-05.10.15:205][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.03.31-05.10.15:224][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.03.31-05.10.15:244][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.03.31-05.10.15:264][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.03.31-05.10.15:288][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.03.31-05.10.15:307][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.03.31-05.10.15:327][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.03.31-05.10.15:347][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.03.31-05.10.15:367][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.03.31-05.10.15:387][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.03.31-05.10.15:407][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.03.31-05.10.15:427][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.03.31-05.10.15:446][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.03.31-05.10.15:466][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.03.31-05.10.15:485][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.03.31-05.10.15:505][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.03.31-05.10.15:526][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.31-05.10.15:545][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.03.31-05.10.15:566][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.03.31-05.10.15:585][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.03.31-05.10.15:606][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.03.31-05.10.15:626][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.03.31-05.10.15:645][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.03.31-05.10.15:664][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.03.31-05.10.15:683][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.03.31-05.10.15:703][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.03.31-05.10.15:722][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.03.31-05.10.15:741][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.03.31-05.10.15:761][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.03.31-05.10.15:783][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.03.31-05.10.15:802][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.03.31-05.10.15:822][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.03.31-05.10.15:842][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.03.31-05.10.15:862][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.03.31-05.10.15:882][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.03.31-05.10.15:902][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.03.31-05.10.15:921][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.31-05.10.15:939][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.03.31-05.10.15:959][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.03.31-05.10.15:979][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.03.31-05.10.16:003][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.03.31-05.10.16:025][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.03.31-05.10.16:044][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.03.31-05.10.16:068][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.03.31-05.10.16:088][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.03.31-05.10.56:291][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-05.10.56:429][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.31-05.10.56:755][173]LogSavePackage: Moving 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Saved/HubWorldF94844BB4A92E53A66A8C2B6B158989D.tmp' to 'G:/School/Trimester 4/GDS210/Project 3/GDS210.3 Alternate Realities/GDS210.3-Alternate-Realities/Project3_VR/Content/Scenes/HubWorld.umap'
+[2020.03.31-05.11.07:214][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.03.31-05.11.07:779][413]LogSlate: Window 'Project3_VR - Unreal Editor' being destroyed
+[2020.03.31-05.11.08:023][414]Cmd: QUIT_EDITOR
+[2020.03.31-05.11.08:062][414]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.31-05.11.08:075][414]LogExit: Preparing to exit.
+[2020.03.31-05.11.09:060][414]LogExit: Editor shut down
+[2020.03.31-05.11.09:061][414]LogExit: Transaction tracking system shut down
+[2020.03.31-05.11.09:401][414]LogExit: Object subsystem successfully closed.
+[2020.03.31-05.11.09:422][414]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.31-05.11.09:432][414]LogD3D11RHI: Shutdown
+[2020.03.31-05.11.09:433][414]LogD3D11RHI: CleanupD3DDevice
+[2020.03.31-05.11.09:433][414]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.31-05.11.09:433][414]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.31-05.11.09:433][414]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.31-05.11.09:433][414]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.31-05.11.09:433][414]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.31-05.11.09:433][414]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.31-05.11.09:524][414]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.03.31-05.11.09:538][414]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (648)
+[2020.03.31-05.11.09:538][414]LogModuleManager: Shutting down and abandoning module WorldBrowser (646)
+[2020.03.31-05.11.09:538][414]LogModuleManager: Shutting down and abandoning module MeshBuilder (644)
+[2020.03.31-05.11.09:538][414]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2020.03.31-05.11.09:538][414]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2020.03.31-05.11.09:538][414]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2020.03.31-05.11.09:539][414]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2020.03.31-05.11.09:539][414]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2020.03.31-05.11.09:539][414]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2020.03.31-05.11.09:539][414]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2020.03.31-05.11.09:539][414]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.03.31-05.11.09:540][414]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.03.31-05.11.09:541][414]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.03.31-05.11.09:541][414]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.03.31-05.11.09:541][414]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.03.31-05.11.09:541][414]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.03.31-05.11.09:541][414]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.03.31-05.11.09:541][414]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.03.31-05.11.09:541][414]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.03.31-05.11.09:541][414]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.03.31-05.11.09:541][414]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.03.31-05.11.09:541][414]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.03.31-05.11.09:541][414]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.03.31-05.11.09:541][414]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.03.31-05.11.09:541][414]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.03.31-05.11.09:541][414]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.03.31-05.11.09:541][414]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.03.31-05.11.09:559][414]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.03.31-05.11.09:559][414]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.03.31-05.11.09:559][414]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.03.31-05.11.09:559][414]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.03.31-05.11.09:560][414]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.03.31-05.11.09:560][414]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.03.31-05.11.09:666][414]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.03.31-05.11.09:666][414]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.03.31-05.11.09:666][414]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.03.31-05.11.09:666][414]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.03.31-05.11.09:666][414]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.03.31-05.11.09:666][414]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.03.31-05.11.09:666][414]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.03.31-05.11.09:666][414]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.03.31-05.11.09:667][414]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.03.31-05.11.09:667][414]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.03.31-05.11.09:667][414]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.03.31-05.11.09:667][414]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.03.31-05.11.09:667][414]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.03.31-05.11.09:667][414]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.03.31-05.11.09:667][414]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.03.31-05.11.09:667][414]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.03.31-05.11.09:668][414]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.03.31-05.11.09:668][414]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.03.31-05.11.09:668][414]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.03.31-05.11.09:668][414]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.03.31-05.11.09:668][414]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.03.31-05.11.09:668][414]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.03.31-05.11.09:668][414]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.03.31-05.11.09:702][414]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.03.31-05.11.09:702][414]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.03.31-05.11.09:702][414]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.03.31-05.11.09:702][414]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.03.31-05.11.09:702][414]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.03.31-05.11.09:702][414]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.03.31-05.11.09:702][414]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.03.31-05.11.09:702][414]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.03.31-05.11.09:702][414]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.03.31-05.11.09:702][414]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.03.31-05.11.09:702][414]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.03.31-05.11.09:702][414]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.03.31-05.11.09:703][414]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.03.31-05.11.09:708][414]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.03.31-05.11.09:927][414]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.03.31-05.11.09:928][414]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.03.31-05.11.09:929][414]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.03.31-05.11.09:929][414]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.03.31-05.11.09:929][414]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.03.31-05.11.09:929][414]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.03.31-05.11.09:929][414]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.03.31-05.11.09:929][414]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.03.31-05.11.09:929][414]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.03.31-05.11.09:929][414]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.03.31-05.11.09:929][414]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.03.31-05.11.09:929][414]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.03.31-05.11.09:929][414]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.03.31-05.11.09:929][414]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.03.31-05.11.09:929][414]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.03.31-05.11.09:929][414]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.03.31-05.11.09:929][414]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.03.31-05.11.09:929][414]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.03.31-05.11.09:929][414]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.03.31-05.11.09:929][414]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.03.31-05.11.10:053][414]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.03.31-05.11.10:153][414]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.03.31-05.11.10:153][414]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.03.31-05.11.10:153][414]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.03.31-05.11.10:153][414]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.03.31-05.11.10:153][414]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.03.31-05.11.10:153][414]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.31-05.11.10:153][414]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.03.31-05.11.10:153][414]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.03.31-05.11.10:153][414]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.03.31-05.11.10:153][414]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.03.31-05.11.10:153][414]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.03.31-05.11.10:153][414]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.03.31-05.11.10:153][414]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.03.31-05.11.10:153][414]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.03.31-05.11.10:154][414]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.03.31-05.11.10:154][414]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.03.31-05.11.10:154][414]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.03.31-05.11.10:154][414]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.03.31-05.11.10:155][414]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.03.31-05.11.10:158][414]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.03.31-05.11.10:158][414]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.03.31-05.11.10:158][414]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.03.31-05.11.10:158][414]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.03.31-05.11.10:158][414]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.03.31-05.11.10:158][414]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.03.31-05.11.10:158][414]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.03.31-05.11.10:158][414]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.03.31-05.11.10:158][414]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.03.31-05.11.10:158][414]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.03.31-05.11.10:158][414]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.03.31-05.11.10:158][414]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.03.31-05.11.10:158][414]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.03.31-05.11.10:158][414]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.03.31-05.11.10:158][414]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.03.31-05.11.10:158][414]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.03.31-05.11.10:158][414]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.03.31-05.11.10:159][414]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.03.31-05.11.10:159][414]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.03.31-05.11.10:159][414]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.03.31-05.11.10:159][414]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.03.31-05.11.10:159][414]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.03.31-05.11.10:159][414]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.03.31-05.11.10:159][414]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.03.31-05.11.10:159][414]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.03.31-05.11.10:159][414]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.03.31-05.11.10:159][414]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.03.31-05.11.10:165][414]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.03.31-05.11.10:165][414]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.03.31-05.11.10:165][414]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.03.31-05.11.10:165][414]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.03.31-05.11.10:165][414]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.03.31-05.11.10:165][414]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.03.31-05.11.10:165][414]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.03.31-05.11.10:165][414]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.03.31-05.11.10:165][414]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.03.31-05.11.10:165][414]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.03.31-05.11.10:165][414]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.03.31-05.11.10:165][414]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.03.31-05.11.10:165][414]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.03.31-05.11.10:165][414]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.03.31-05.11.10:165][414]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.03.31-05.11.10:165][414]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.03.31-05.11.10:310][414]LogDerivedDataCache: Shutdown
+[2020.03.31-05.11.10:310][414]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.03.31-05.11.10:311][414]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.03.31-05.11.10:311][414]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.03.31-05.11.10:311][414]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.03.31-05.11.10:311][414]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.03.31-05.11.10:311][414]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.03.31-05.11.10:311][414]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.03.31-05.11.10:311][414]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.03.31-05.11.10:312][414]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.03.31-05.11.10:312][414]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.03.31-05.11.10:312][414]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.03.31-05.11.10:313][414]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.03.31-05.11.10:313][414]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.03.31-05.11.10:313][414]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.03.31-05.11.10:313][414]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.03.31-05.11.10:313][414]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.03.31-05.11.10:313][414]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.03.31-05.11.10:313][414]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.03.31-05.11.10:338][414]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.03.31-05.11.10:338][414]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.03.31-05.11.10:339][414]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.03.31-05.11.10:339][414]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.03.31-05.11.10:339][414]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.03.31-05.11.10:345][414]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.03.31-05.11.10:345][414]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.03.31-05.11.10:352][414]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.03.31-05.11.10:352][414]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.03.31-05.11.10:563][414]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.03.31-05.11.10:563][414]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.03.31-05.11.10:563][414]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.03.31-05.11.10:563][414]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.03.31-05.11.10:563][414]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.03.31-05.11.10:563][414]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.03.31-05.11.10:563][414]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.03.31-05.11.10:563][414]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.03.31-05.11.10:563][414]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.03.31-05.11.10:563][414]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.03.31-05.11.10:563][414]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.03.31-05.11.10:564][414]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.03.31-05.11.10:564][414]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.03.31-05.11.10:564][414]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.03.31-05.11.10:564][414]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.31-05.11.10:564][414]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.03.31-05.11.10:564][414]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.03.31-05.11.10:564][414]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.03.31-05.11.10:564][414]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.03.31-05.11.10:564][414]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.03.31-05.11.10:565][414]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.03.31-05.11.10:565][414]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.03.31-05.11.10:580][414]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.03.31-05.11.10:580][414]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.31-05.11.10:580][414]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD588D511-46BD-C419-C5E6-819CEAB78AC8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=b1cd316e47aa7d1cccbb17a3c776b5ac%7Cca8df977df1244d5a7b9e02b1dd9ecc4%7C12e1fe79-90ce-4473-8d9d-14f302f17214&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.03.31-05.11.10:614][414]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.03.31-05.11.10:622][414]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.03.31-05.11.10:624][414]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.03.31-05.11.10:631][414]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.03.31-05.11.10:631][414]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.03.31-05.11.10:633][414]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.03.31-05.11.10:634][414]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.03.31-05.11.10:634][414]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.03.31-05.11.10:635][414]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.03.31-05.11.10:635][414]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.03.31-05.11.10:635][414]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.03.31-05.11.10:635][414]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.03.31-05.11.10:636][414]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.03.31-05.11.10:636][414]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.03.31-05.11.10:636][414]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.03.31-05.11.10:636][414]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.03.31-05.11.10:636][414]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.03.31-05.11.10:636][414]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.03.31-05.11.10:636][414]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.03.31-05.11.10:636][414]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.03.31-05.11.10:636][414]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.03.31-05.11.10:636][414]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.03.31-05.11.10:636][414]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.03.31-05.11.10:636][414]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.03.31-05.11.10:641][414]LogExit: Exiting.
+[2020.03.31-05.11.10:653][414]Log file closed, 03/31/20 13:11:10

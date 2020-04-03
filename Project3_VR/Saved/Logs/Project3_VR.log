@@ -668,3 +668,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.03-03.38.05:392][116]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
 [2020.04.03-03.38.07:756][400]LogSlate: Window 'Content Browser' being destroyed
 [2020.04.03-03.38.07:760][400]LogSlate: Window 'Content Browser' being destroyed
+[2020.04.03-03.39.34:427][365]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/Maps/StartupMap_BuiltData'
+[2020.04.03-03.39.34:427][365]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/Maps/StartupMap_BuiltData' while loading NULL.
+[2020.04.03-03.39.34:429][365]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/Maps/StartupMap_BuiltData'
+[2020.04.03-03.39.34:429][365]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/Maps/StartupMap_BuiltData' while loading NULL.
+[2020.04.03-03.39.34:435][365]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/Maps/StartupMap_BuiltData'
+[2020.04.03-03.39.34:435][365]LoadErrors: Failed to load /Game/VirtualRealityBP/Maps/StartupMap_BuiltData.StartupMap_BuiltData Referenced by PersistentLevel
+[2020.04.03-03.39.34:435][365]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/Maps/StartupMap_BuiltData' while loading NULL.
+[2020.04.03-03.39.34:438][365]LogAIModule: Creating AISystem for world StartupMap
+[2020.04.03-03.39.56:367][993]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-03.39.59:109][322]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-03.39.59:931][322]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.03-03.41.06:194][252]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.03-03.41.06:197][252]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.03-03.41.11:015][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-03.41.11:123][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/HubWorld" FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Scenes/HubWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.03-03.41.11:146][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.04.03-03.41.11:265][840]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/HubWorld6D86349C4D6E78223964D0AF8F6BDC6D.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Scenes/HubWorld.umap'

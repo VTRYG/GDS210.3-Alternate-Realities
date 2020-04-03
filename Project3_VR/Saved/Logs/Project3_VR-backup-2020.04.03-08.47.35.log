@@ -1,0 +1,1345 @@
+﻿Log file open, 04/03/20 16:10:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project3_VR
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.407993
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: H:/Unreal Engine 4/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.03-08.10.08:731][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.03-08.10.08:731][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.03-08.10.08:732][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.03-08.10.08:732][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.03-08.10.08:732][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.03-08.10.08:732][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.03-08.10.08:732][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.03-08.10.08:732][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.03-08.10.08:732][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.03-08.10.08:732][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.03-08.10.08:732][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.03-08.10.08:732][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.03-08.10.08:732][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.03-08.10.08:732][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.03-08.10.08:732][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.03-08.10.08:732][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.03-08.10.08:732][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.03-08.10.08:732][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.03-08.10.08:732][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.03-08.10.08:732][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.03-08.10.08:733][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-08.10.08:733][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.03-08.10.08:733][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.03-08.10.08:733][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-08.10.08:733][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.04.03-08.10.08:733][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-08.10.08:733][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.03-08.10.08:733][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.03-08.10.08:733][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.03-08.10.08:733][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.03-08.10.08:733][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.03-08.10.08:733][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.03-08.10.08:733][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.03-08.10.08:734][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.03-08.10.08:734][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.03-08.10.08:734][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.03-08.10.08:759][  0]LogHAL: Display: Platform has ~ 16 GB [17135808512 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.03-08.10.08:759][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.04.03-08.10.08:759][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.03-08.10.08:759][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-08.10.08:759][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.03-08.10.08:759][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.03-08.10.08:759][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-08.10.08:759][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.04.03-08.10.08:759][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-08.10.08:759][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.03-08.10.08:759][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.03-08.10.08:759][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.03-08.10.08:759][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.03-08.10.08:759][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.03-08.10.08:759][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.03-08.10.08:759][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.03-08.10.08:760][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.03-08.10.08:761][  0]LogInit: Computer: PC
+[2020.04.03-08.10.08:761][  0]LogInit: User: David
+[2020.04.03-08.10.08:761][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.03-08.10.08:761][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.03-08.10.08:761][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.04.03-08.10.08:761][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.03-08.10.08:761][  0]LogMemory: Process Physical Memory: 98.72 MB used, 98.72 MB peak
+[2020.04.03-08.10.08:761][  0]LogMemory: Process Virtual Memory: 89.84 MB used, 89.84 MB peak
+[2020.04.03-08.10.08:761][  0]LogMemory: Physical Memory: 9449.71 MB used,  6892.27 MB free, 16341.98 MB total
+[2020.04.03-08.10.08:761][  0]LogMemory: Virtual Memory: 4660.49 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.04.03-08.10.09:024][  0]LogInit: Using OS detected language (en-GB).
+[2020.04.03-08.10.09:024][  0]LogInit: Using OS detected locale (en-AU).
+[2020.04.03-08.10.09:024][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.04.03-08.10.09:367][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.03-08.10.09:540][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.03-08.10.09:540][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.03-08.10.09:786][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.03-08.10.09:786][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.03-08.10.09:847][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.04.03-08.10.09:847][  0]LogD3D11RHI:       8088/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.03-08.10.09:850][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.03-08.10.09:850][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.03-08.10.09:850][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.03-08.10.09:857][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.03-08.10.09:857][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.03-08.10.09:857][  0]LogWindows: EnumDisplayDevices:
+[2020.04.03-08.10.09:857][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.04.03-08.10.09:857][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.04.03-08.10.09:858][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.04.03-08.10.09:858][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.04.03-08.10.09:858][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.03-08.10.09:858][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.04.03-08.10.09:858][  0]LogD3D11RHI:   Driver Version: 440.97 (internal:26.21.14.4097, unified:440.97)
+[2020.04.03-08.10.09:858][  0]LogD3D11RHI:      Driver Date: 10-16-2019
+[2020.04.03-08.10.09:858][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.04.03-08.10.09:891][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.03-08.10.09:907][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.03-08.10.09:908][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.03-08.10.09:908][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.03-08.10.09:915][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.03-08.10.10:322][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.03-08.10.10:342][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.03-08.10.10:353][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.03-08.10.10:375][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.03-08.10.10:403][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.03-08.10.10:419][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.03-08.10.10:444][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.03-08.10.10:463][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.03-08.10.10:477][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.03-08.10.10:568][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.03-08.10.10:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.03-08.10.10:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.03-08.10.10:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.03-08.10.10:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.03-08.10.10:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.03-08.10.10:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.03-08.10.10:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.03-08.10.10:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.03-08.10.10:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.03-08.10.10:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.03-08.10.10:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.03-08.10.10:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.03-08.10.10:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.03-08.10.10:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.03-08.10.10:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.03-08.10.10:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.03-08.10.10:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.03-08.10.10:581][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.03-08.10.10:680][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.03-08.10.10:680][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.03-08.10.10:708][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.03-08.10.10:709][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.03-08.10.10:731][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.03-08.10.10:747][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.03-08.10.10:766][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.03-08.10.10:786][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.03-08.10.10:838][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.03-08.10.10:838][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.03-08.10.10:838][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.03-08.10.10:896][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.03-08.10.11:200][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Intermediate/Shaders/WorkingDirectory/25016/).
+[2020.04.03-08.10.11:200][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/David/AppData/Local/Temp/UnrealShaderWorkingDir/8EDA110746C296E1F7B474B9DED35978/'.
+[2020.04.03-08.10.11:212][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.03-08.10.11:212][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.03-08.10.11:212][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.03-08.10.12:127][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.03-08.10.12:364][  0]LogDerivedDataCache: Loaded boot cache 0.24s 72MB C:/Users/David/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.03-08.10.12:364][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/David/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.04.03-08.10.12:364][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.03-08.10.12:364][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.03-08.10.12:364][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.03-08.10.12:364][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.03-08.10.12:375][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.03-08.10.12:375][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.03-08.10.12:375][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.03-08.10.12:387][  0]LogDerivedDataCache: Using Local data cache path C:/Users/David/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.03-08.10.12:387][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.03-08.10.12:387][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.03-08.10.12:404][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.03-08.10.12:405][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.03-08.10.12:438][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.03-08.10.12:943][  0]LogAssetRegistry: FAssetRegistry took 0.0316 seconds to start up
+[2020.04.03-08.10.13:219][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.03-08.10.13:469][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.03-08.10.13:469][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.03-08.10.13:469][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.03-08.10.13:469][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.03-08.10.13:469][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.03-08.10.13:476][  0]LogNetVersion: Project3_VR 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 867328552)
+[2020.04.03-08.10.13:817][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.040126 seconds
+[2020.04.03-08.10.13:824][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.04.03-08.10.13:824][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.04.03-08.10.13:824][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.03-08.10.26:061][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.03-08.10.26:085][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.03-08.10.26:363][  0]SourceControl: Source control is disabled
+[2020.04.03-08.10.26:364][  0]SourceControl: Source control is disabled
+[2020.04.03-08.10.26:394][  0]SourceControl: Source control is disabled
+[2020.04.03-08.10.26:404][  0]SourceControl: Source control is disabled
+[2020.04.03-08.10.26:774][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.03-08.10.27:017][  0]LogOcInput: OculusInput pre-init called
+[2020.04.03-08.10.27:624][  0]LogEngine: Initializing Engine...
+[2020.04.03-08.10.27:624][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.03-08.10.27:625][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.03-08.10.27:797][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.03-08.10.27:865][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.03-08.10.27:881][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.03-08.10.27:902][  0]LogInit: FAudioDevice initialized.
+[2020.04.03-08.10.27:902][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.03-08.10.27:971][  0]LogDerivedDataCache: Saved boot cache 0.07s 72MB C:/Users/David/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.03-08.10.27:981][  0]LogInit: Texture streaming: Enabled
+[2020.04.03-08.10.28:028][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.03-08.10.28:097][  0]LogInit: Transaction tracking system initialized
+[2020.04.03-08.10.28:225][  0]BlueprintLog: New page: Editor Load
+[2020.04.03-08.10.28:698][  0]LocalizationService: Localization service is disabled
+[2020.04.03-08.10.29:311][  0]LogFileCache: Scanning file cache for directory 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/' took 0.02s
+[2020.04.03-08.10.29:311][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.03-08.10.29:311][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.03-08.10.30:625][  0]SourceControl: Source control is disabled
+[2020.04.03-08.10.30:625][  0]Cmd: MAP LOAD FILE="C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/Scenes/HubWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.03-08.10.30:626][  0]LogEditorServer: Warning: Can't find file 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/Scenes/HubWorld.umap'
+[2020.04.03-08.10.30:626][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.03-08.10.30:626][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2020.04.03-08.10.30:626][  0]LogFileHelpers: Loading map 'HubWorld' took 0.001
+[2020.04.03-08.10.30:761][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-08.10.30:767][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-08.10.30:771][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-08.10.30:777][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-08.10.30:793][  0]LogCollectionManager: Loaded 0 collections in 0.000687 seconds
+[2020.04.03-08.10.30:830][  0]LogFileCache: Scanning file cache for directory 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Collections/' took 0.01s
+[2020.04.03-08.10.30:830][  0]LogFileCache: Scanning file cache for directory 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/Developers/David/Collections/' took 0.00s
+[2020.04.03-08.10.30:830][  0]LogFileCache: Scanning file cache for directory 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/Collections/' took 0.01s
+[2020.04.03-08.10.30:830][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.04.03-08.10.30:836][  0]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 2732 classes and 659 folders.
+[2020.04.03-08.10.30:862][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.03-08.10.30:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.30:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.30:938][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.30:943][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.30:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.30:952][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.30:956][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.30:961][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.30:967][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.30:973][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.30:978][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.30:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.30:988][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.30:994][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.31:000][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.31:005][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.31:027][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.31:032][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.31:036][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.31:041][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.31:046][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.31:050][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.31:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.31:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.31:065][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.31:070][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.03-08.10.31:314][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.03-08.10.31:338][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.04.03-08.10.31:379][  0]LogSlate: Took 0.014342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.03-08.10.31:389][  0]LogSlate: Took 0.008646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.03-08.10.31:411][  0]LogSlate: Took 0.018004 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.03-08.10.31:465][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 26 NumSamples 1 (Frame:1).
+[2020.04.03-08.10.31:596][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.03-08.10.31:596][  0]LogLoad: (Engine Initialization) Total time: 28.57 seconds
+[2020.04.03-08.10.31:596][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.03-08.10.31:631][  0]LogAssetRegistry: Asset discovery search completed in 18.7107 seconds
+[2020.04.03-08.10.31:633][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.04.03-08.10.31:633][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000031 seconds (updated 0 objects)
+[2020.04.03-08.10.31:634][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.03-08.10.31:679][  0]LogSlate: Took 0.021173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.03-08.26.55:318][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-08.26.55:441][198]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-08.26.55:445][198]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-08.26.56:830][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-08.26.57:008][360]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.03-08.26.57:308][360]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.03-08.26.57:320][360]LogAssetEditorManager: Opening Asset editor for World /Game/MiniGame1/MiniGame1.MiniGame1
+[2020.04.03-08.26.57:348][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.04.03-08.26.57:349][360]Cmd: MAP LOAD FILE="C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.03-08.26.57:350][360]LightingResults: New page: Lighting Build
+[2020.04.03-08.26.57:363][360]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2020.04.03-08.26.57:363][360]LoadErrors: New page: Loading map: MiniGame1.umap
+[2020.04.03-08.26.57:364][360]MapCheck: New page: Map Check
+[2020.04.03-08.26.57:364][360]LightingResults: New page: Lighting Build
+[2020.04.03-08.26.57:386][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.04.03-08.26.57:394][360]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.03-08.26.57:420][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.04.03-08.26.57:439][360]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.03-08.26.57:439][360]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2020.04.03-08.26.57:439][360]LogFileHelpers: Loading map 'MiniGame1' took 0.090
+[2020.04.03-08.27.08:233][135]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/David/Documents/Greybox GDS210.obj)
+[2020.04.03-08.27.08:242][135]LogFbx: Loading FBX Scene from C:/Users/David/Documents/Greybox GDS210.obj
+[2020.04.03-08.27.08:252][135]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.03-08.30.08:661][135]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.03-08.30.08:990][135]LogMaterial: Display: Missing cached shader map for material Mesh10_Group12_Group3_Group2_ModelMat, compiling. 
+[2020.04.03-08.30.09:029][135]LogFbx: Display: Triangulating static mesh Mesh10_Group12_Group3_Group2_Model
+[2020.04.03-08.30.09:039][135]LogMaterial: Display: Missing cached shader map for material Mesh11_Group13_Group3_Group2_ModelMat, compiling. 
+[2020.04.03-08.30.09:050][135]LogFbx: Display: Triangulating static mesh Mesh11_Group13_Group3_Group2_Model
+[2020.04.03-08.30.09:061][135]LogMaterial: Display: Missing cached shader map for material Mesh12_Group14_Group3_Group2_ModelMat, compiling. 
+[2020.04.03-08.30.09:072][135]LogFbx: Display: Triangulating static mesh Mesh12_Group14_Group3_Group2_Model
+[2020.04.03-08.30.09:078][135]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model...
+[2020.04.03-08.30.09:081][135]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model.Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model
+[2020.04.03-08.30.09:081][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model.Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model.
+[2020.04.03-08.30.09:081][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model.Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.09:090][135]LogMaterial: Display: Missing cached shader map for material Mesh13_Group2_ModelMat, compiling. 
+[2020.04.03-08.30.09:103][135]LogFbx: Display: Triangulating static mesh Mesh13_Group2_Model
+[2020.04.03-08.30.09:109][135]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh13_Group2_Model...
+[2020.04.03-08.30.09:115][135]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/Greybox_GDS210_Mesh13_Group2_Model.Greybox_GDS210_Mesh13_Group2_Model
+[2020.04.03-08.30.09:132][135]LogMaterial: Display: Missing cached shader map for material Mesh14_Group15_ModelMat, compiling. 
+[2020.04.03-08.30.09:149][135]LogFbx: Display: Triangulating static mesh Mesh14_Group15_Model
+[2020.04.03-08.30.09:157][135]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh14_Group15_Model...
+[2020.04.03-08.30.09:159][135]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Greybox_GDS210_Mesh14_Group15_Model.Greybox_GDS210_Mesh14_Group15_Model
+[2020.04.03-08.30.09:159][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh14_Group15_Model.Greybox_GDS210_Mesh14_Group15_Model.
+[2020.04.03-08.30.09:159][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh14_Group15_Model.Greybox_GDS210_Mesh14_Group15_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.09:170][135]LogMaterial: Display: Missing cached shader map for material Mesh15_Group16_ModelMat, compiling. 
+[2020.04.03-08.30.09:185][135]LogFbx: Display: Triangulating static mesh Mesh15_Group16_Model
+[2020.04.03-08.30.09:191][135]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh15_Group16_Model...
+[2020.04.03-08.30.09:192][135]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Greybox_GDS210_Mesh15_Group16_Model.Greybox_GDS210_Mesh15_Group16_Model
+[2020.04.03-08.30.09:192][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh15_Group16_Model.Greybox_GDS210_Mesh15_Group16_Model.
+[2020.04.03-08.30.09:192][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh15_Group16_Model.Greybox_GDS210_Mesh15_Group16_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.09:201][135]LogMaterial: Display: Missing cached shader map for material Mesh16_Group18_Group17_ModelMat, compiling. 
+[2020.04.03-08.30.09:212][135]LogFbx: Display: Triangulating static mesh Mesh16_Group18_Group17_Model
+[2020.04.03-08.30.09:226][135]LogMaterial: Display: Missing cached shader map for material Mesh17_Group19_Group17_ModelMat, compiling. 
+[2020.04.03-08.30.09:241][135]LogFbx: Display: Triangulating static mesh Mesh17_Group19_Group17_Model
+[2020.04.03-08.30.09:248][135]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh17_Group19_Group17_Model...
+[2020.04.03-08.30.09:250][135]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Greybox_GDS210_Mesh17_Group19_Group17_Model.Greybox_GDS210_Mesh17_Group19_Group17_Model
+[2020.04.03-08.30.09:250][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh17_Group19_Group17_Model.Greybox_GDS210_Mesh17_Group19_Group17_Model.
+[2020.04.03-08.30.09:251][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh17_Group19_Group17_Model.Greybox_GDS210_Mesh17_Group19_Group17_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.09:263][135]LogMaterial: Display: Missing cached shader map for material Mesh18_Group20_Group17_ModelMat, compiling. 
+[2020.04.03-08.30.09:278][135]LogFbx: Display: Triangulating static mesh Mesh18_Group20_Group17_Model
+[2020.04.03-08.30.09:298][135]LogMaterial: Display: Missing cached shader map for material Mesh19_Group21_Group17_ModelMat, compiling. 
+[2020.04.03-08.30.09:314][135]LogFbx: Display: Triangulating static mesh Mesh19_Group21_Group17_Model
+[2020.04.03-08.30.09:321][135]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh19_Group21_Group17_Model...
+[2020.04.03-08.30.09:324][135]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Greybox_GDS210_Mesh19_Group21_Group17_Model.Greybox_GDS210_Mesh19_Group21_Group17_Model
+[2020.04.03-08.30.09:324][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh19_Group21_Group17_Model.Greybox_GDS210_Mesh19_Group21_Group17_Model.
+[2020.04.03-08.30.09:324][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh19_Group21_Group17_Model.Greybox_GDS210_Mesh19_Group21_Group17_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.09:337][135]LogMaterial: Display: Missing cached shader map for material Mesh1_Group1_ModelMat, compiling. 
+[2020.04.03-08.30.09:358][135]LogFbx: Display: Triangulating static mesh Mesh1_Group1_Model
+[2020.04.03-08.30.09:361][135]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh1_Group1_Model...
+[2020.04.03-08.30.09:363][135]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Greybox_GDS210_Mesh1_Group1_Model.Greybox_GDS210_Mesh1_Group1_Model
+[2020.04.03-08.30.09:364][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh1_Group1_Model.Greybox_GDS210_Mesh1_Group1_Model.
+[2020.04.03-08.30.09:364][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh1_Group1_Model.Greybox_GDS210_Mesh1_Group1_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.09:380][135]LogMaterial: Display: Missing cached shader map for material Mesh20_Group22_Group17_ModelMat, compiling. 
+[2020.04.03-08.30.09:398][135]LogFbx: Display: Triangulating static mesh Mesh20_Group22_Group17_Model
+[2020.04.03-08.30.09:405][135]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh20_Group22_Group17_Model...
+[2020.04.03-08.30.09:408][135]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Greybox_GDS210_Mesh20_Group22_Group17_Model.Greybox_GDS210_Mesh20_Group22_Group17_Model
+[2020.04.03-08.30.09:408][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh20_Group22_Group17_Model.Greybox_GDS210_Mesh20_Group22_Group17_Model.
+[2020.04.03-08.30.09:409][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh20_Group22_Group17_Model.Greybox_GDS210_Mesh20_Group22_Group17_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.09:422][135]LogMaterial: Display: Missing cached shader map for material Mesh21_Group23_Group17_ModelMat, compiling. 
+[2020.04.03-08.30.09:443][135]LogFbx: Display: Triangulating static mesh Mesh21_Group23_Group17_Model
+[2020.04.03-08.30.09:449][135]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh21_Group23_Group17_Model...
+[2020.04.03-08.30.09:451][135]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Greybox_GDS210_Mesh21_Group23_Group17_Model.Greybox_GDS210_Mesh21_Group23_Group17_Model
+[2020.04.03-08.30.09:452][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh21_Group23_Group17_Model.Greybox_GDS210_Mesh21_Group23_Group17_Model.
+[2020.04.03-08.30.09:452][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh21_Group23_Group17_Model.Greybox_GDS210_Mesh21_Group23_Group17_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.09:467][135]LogMaterial: Display: Missing cached shader map for material Mesh22_Group17_ModelMat, compiling. 
+[2020.04.03-08.30.09:485][135]LogFbx: Display: Triangulating static mesh Mesh22_Group17_Model
+[2020.04.03-08.30.09:491][135]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh22_Group17_Model...
+[2020.04.03-08.30.09:498][135]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/Greybox_GDS210_Mesh22_Group17_Model.Greybox_GDS210_Mesh22_Group17_Model
+[2020.04.03-08.30.09:499][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh22_Group17_Model.Greybox_GDS210_Mesh22_Group17_Model.
+[2020.04.03-08.30.09:499][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh22_Group17_Model.Greybox_GDS210_Mesh22_Group17_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.09:499][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh22_Group17_Model.Greybox_GDS210_Mesh22_Group17_Model.
+[2020.04.03-08.30.09:500][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh22_Group17_Model.Greybox_GDS210_Mesh22_Group17_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.09:520][135]LogMaterial: Display: Missing cached shader map for material Mesh23_Group24_ModelMat, compiling. 
+[2020.04.03-08.30.09:536][135]LogFbx: Display: Triangulating static mesh Mesh23_Group24_Model
+[2020.04.03-08.30.09:546][135]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh23_Group24_Model...
+[2020.04.03-08.30.09:548][135]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Greybox_GDS210_Mesh23_Group24_Model.Greybox_GDS210_Mesh23_Group24_Model
+[2020.04.03-08.30.09:548][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh23_Group24_Model.Greybox_GDS210_Mesh23_Group24_Model.
+[2020.04.03-08.30.09:548][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh23_Group24_Model.Greybox_GDS210_Mesh23_Group24_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.09:565][135]LogMaterial: Display: Missing cached shader map for material Mesh24_Group25_ModelMat, compiling. 
+[2020.04.03-08.30.09:583][135]LogFbx: Display: Triangulating static mesh Mesh24_Group25_Model
+[2020.04.03-08.30.09:589][135]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh24_Group25_Model...
+[2020.04.03-08.30.09:591][135]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Greybox_GDS210_Mesh24_Group25_Model.Greybox_GDS210_Mesh24_Group25_Model
+[2020.04.03-08.30.09:591][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh24_Group25_Model.Greybox_GDS210_Mesh24_Group25_Model.
+[2020.04.03-08.30.09:591][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh24_Group25_Model.Greybox_GDS210_Mesh24_Group25_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.09:605][135]LogMaterial: Display: Missing cached shader map for material Mesh25_Group26_ModelMat, compiling. 
+[2020.04.03-08.30.09:622][135]LogFbx: Display: Triangulating static mesh Mesh25_Group26_Model
+[2020.04.03-08.30.09:628][135]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh25_Group26_Model...
+[2020.04.03-08.30.09:630][135]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Greybox_GDS210_Mesh25_Group26_Model.Greybox_GDS210_Mesh25_Group26_Model
+[2020.04.03-08.30.09:630][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh25_Group26_Model.Greybox_GDS210_Mesh25_Group26_Model.
+[2020.04.03-08.30.09:630][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh25_Group26_Model.Greybox_GDS210_Mesh25_Group26_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.09:645][135]LogMaterial: Display: Missing cached shader map for material Mesh26_Group27_ModelMat, compiling. 
+[2020.04.03-08.30.09:661][135]LogFbx: Display: Triangulating static mesh Mesh26_Group27_Model
+[2020.04.03-08.30.09:667][135]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh26_Group27_Model...
+[2020.04.03-08.30.09:669][135]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Greybox_GDS210_Mesh26_Group27_Model.Greybox_GDS210_Mesh26_Group27_Model
+[2020.04.03-08.30.09:669][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh26_Group27_Model.Greybox_GDS210_Mesh26_Group27_Model.
+[2020.04.03-08.30.09:669][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh26_Group27_Model.Greybox_GDS210_Mesh26_Group27_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.09:683][135]LogMaterial: Display: Missing cached shader map for material Mesh27_ModelMat, compiling. 
+[2020.04.03-08.30.09:701][135]LogFbx: Display: Triangulating static mesh Mesh27_Model
+[2020.04.03-08.30.09:708][135]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh27_Model...
+[2020.04.03-08.30.09:718][135]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/Greybox_GDS210_Mesh27_Model.Greybox_GDS210_Mesh27_Model
+[2020.04.03-08.30.09:718][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh27_Model.Greybox_GDS210_Mesh27_Model.
+[2020.04.03-08.30.09:718][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh27_Model.Greybox_GDS210_Mesh27_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.09:731][135]LogMaterial: Display: Missing cached shader map for material Mesh2_Group4_Group3_Group2_ModelMat, compiling. 
+[2020.04.03-08.30.09:749][135]LogFbx: Display: Triangulating static mesh Mesh2_Group4_Group3_Group2_Model
+[2020.04.03-08.30.09:770][135]LogMaterial: Display: Missing cached shader map for material Mesh3_Group5_Group3_Group2_ModelMat, compiling. 
+[2020.04.03-08.30.09:790][135]LogFbx: Display: Triangulating static mesh Mesh3_Group5_Group3_Group2_Model
+[2020.04.03-08.30.09:809][135]LogMaterial: Display: Missing cached shader map for material Mesh4_Group6_Group3_Group2_ModelMat, compiling. 
+[2020.04.03-08.30.09:829][135]LogFbx: Display: Triangulating static mesh Mesh4_Group6_Group3_Group2_Model
+[2020.04.03-08.30.09:851][135]LogMaterial: Display: Missing cached shader map for material Mesh5_Group7_Group3_Group2_ModelMat, compiling. 
+[2020.04.03-08.30.09:870][135]LogFbx: Display: Triangulating static mesh Mesh5_Group7_Group3_Group2_Model
+[2020.04.03-08.30.09:893][135]LogMaterial: Display: Missing cached shader map for material Mesh6_Group8_Group3_Group2_ModelMat, compiling. 
+[2020.04.03-08.30.09:913][135]LogFbx: Display: Triangulating static mesh Mesh6_Group8_Group3_Group2_Model
+[2020.04.03-08.30.09:933][135]LogMaterial: Display: Missing cached shader map for material Mesh7_Group9_Group3_Group2_ModelMat, compiling. 
+[2020.04.03-08.30.09:952][135]LogFbx: Display: Triangulating static mesh Mesh7_Group9_Group3_Group2_Model
+[2020.04.03-08.30.09:969][135]LogMaterial: Display: Missing cached shader map for material Mesh8_Group10_Group3_Group2_ModelMat, compiling. 
+[2020.04.03-08.30.09:989][135]LogFbx: Display: Triangulating static mesh Mesh8_Group10_Group3_Group2_Model
+[2020.04.03-08.30.10:003][135]LogMaterial: Display: Missing cached shader map for material Mesh9_Group11_Group3_Group2_ModelMat, compiling. 
+[2020.04.03-08.30.10:021][135]LogFbx: Display: Triangulating static mesh Mesh9_Group11_Group3_Group2_Model
+[2020.04.03-08.30.10:030][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh14_Group15_Model.Greybox_GDS210_Mesh14_Group15_Model.
+[2020.04.03-08.30.10:030][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh14_Group15_Model.Greybox_GDS210_Mesh14_Group15_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.10:031][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh15_Group16_Model.Greybox_GDS210_Mesh15_Group16_Model.
+[2020.04.03-08.30.10:031][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh15_Group16_Model.Greybox_GDS210_Mesh15_Group16_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.10:032][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh17_Group19_Group17_Model.Greybox_GDS210_Mesh17_Group19_Group17_Model.
+[2020.04.03-08.30.10:032][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh17_Group19_Group17_Model.Greybox_GDS210_Mesh17_Group19_Group17_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.10:034][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh19_Group21_Group17_Model.Greybox_GDS210_Mesh19_Group21_Group17_Model.
+[2020.04.03-08.30.10:034][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh19_Group21_Group17_Model.Greybox_GDS210_Mesh19_Group21_Group17_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.10:035][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh1_Group1_Model.Greybox_GDS210_Mesh1_Group1_Model.
+[2020.04.03-08.30.10:035][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh1_Group1_Model.Greybox_GDS210_Mesh1_Group1_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.10:036][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh20_Group22_Group17_Model.Greybox_GDS210_Mesh20_Group22_Group17_Model.
+[2020.04.03-08.30.10:036][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh20_Group22_Group17_Model.Greybox_GDS210_Mesh20_Group22_Group17_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.10:038][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh21_Group23_Group17_Model.Greybox_GDS210_Mesh21_Group23_Group17_Model.
+[2020.04.03-08.30.10:038][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh21_Group23_Group17_Model.Greybox_GDS210_Mesh21_Group23_Group17_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.10:039][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh22_Group17_Model.Greybox_GDS210_Mesh22_Group17_Model.
+[2020.04.03-08.30.10:039][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh22_Group17_Model.Greybox_GDS210_Mesh22_Group17_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.10:040][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh23_Group24_Model.Greybox_GDS210_Mesh23_Group24_Model.
+[2020.04.03-08.30.10:041][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh23_Group24_Model.Greybox_GDS210_Mesh23_Group24_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.10:042][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh24_Group25_Model.Greybox_GDS210_Mesh24_Group25_Model.
+[2020.04.03-08.30.10:042][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh24_Group25_Model.Greybox_GDS210_Mesh24_Group25_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.10:043][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh25_Group26_Model.Greybox_GDS210_Mesh25_Group26_Model.
+[2020.04.03-08.30.10:043][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh25_Group26_Model.Greybox_GDS210_Mesh25_Group26_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.10:044][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh26_Group27_Model.Greybox_GDS210_Mesh26_Group27_Model.
+[2020.04.03-08.30.10:044][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh26_Group27_Model.Greybox_GDS210_Mesh26_Group27_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.10:047][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh27_Model.Greybox_GDS210_Mesh27_Model.
+[2020.04.03-08.30.10:047][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh27_Model.Greybox_GDS210_Mesh27_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.10:052][135]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.03-08.30.10:052][135]FBXImport: Error: Greybox_GDS210_Mesh10_Group12_Group3_Group2_Model could not be created because all of its polygons are degenerate. 
+[2020.04.03-08.30.10:052][135]FBXImport: Error: Greybox_GDS210_Mesh11_Group13_Group3_Group2_Model could not be created because all of its polygons are degenerate. 
+[2020.04.03-08.30.10:052][135]FBXImport: Error: Greybox_GDS210_Mesh16_Group18_Group17_Model could not be created because all of its polygons are degenerate. 
+[2020.04.03-08.30.10:052][135]FBXImport: Error: Greybox_GDS210_Mesh18_Group20_Group17_Model could not be created because all of its polygons are degenerate. 
+[2020.04.03-08.30.10:052][135]FBXImport: Error: Greybox_GDS210_Mesh2_Group4_Group3_Group2_Model could not be created because all of its polygons are degenerate. 
+[2020.04.03-08.30.10:052][135]FBXImport: Error: Greybox_GDS210_Mesh3_Group5_Group3_Group2_Model could not be created because all of its polygons are degenerate. 
+[2020.04.03-08.30.10:052][135]FBXImport: Error: Greybox_GDS210_Mesh4_Group6_Group3_Group2_Model could not be created because all of its polygons are degenerate. 
+[2020.04.03-08.30.10:052][135]FBXImport: Error: Greybox_GDS210_Mesh5_Group7_Group3_Group2_Model could not be created because all of its polygons are degenerate. 
+[2020.04.03-08.30.10:053][135]FBXImport: Error: Greybox_GDS210_Mesh6_Group8_Group3_Group2_Model could not be created because all of its polygons are degenerate. 
+[2020.04.03-08.30.10:053][135]FBXImport: Error: Greybox_GDS210_Mesh7_Group9_Group3_Group2_Model could not be created because all of its polygons are degenerate. 
+[2020.04.03-08.30.10:053][135]FBXImport: Error: Greybox_GDS210_Mesh8_Group10_Group3_Group2_Model could not be created because all of its polygons are degenerate. 
+[2020.04.03-08.30.10:053][135]FBXImport: Error: Greybox_GDS210_Mesh9_Group11_Group3_Group2_Model could not be created because all of its polygons are degenerate. 
+[2020.04.03-08.30.10:072][135]LogPhysics: Warning: Failed to cook TriMesh: /Game/MiniGame1/Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model.Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model.
+[2020.04.03-08.30.10:072][135]LogPhysics: Warning: Attempt to build physics data for /Game/MiniGame1/Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model.Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model:BodySetup_0 when we are unable to.
+[2020.04.03-08.30.10:462][135]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.04.03-08.30.10:462][135]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.04.03-08.30.10:463][135]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.04.03-08.30.10:463][135]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.04.03-08.30.10:465][135]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.04.03-08.30.10:466][135]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.04.03-08.30.10:466][135]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.04.03-08.30.10:466][135]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.04.03-08.30.10:466][135]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.04.03-08.30.10:466][135]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.04.03-08.30.10:466][135]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.04.03-08.30.10:467][135]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.04.03-08.30.10:547][136]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.03-08.30.10:547][136]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.03-08.30.12:342][242]LogShaderCompilers: Display: Shaders left to compile 510
+[2020.04.03-08.30.12:372][244]LogShaderCompilers: Display: Shaders left to compile 500
+[2020.04.03-08.30.12:472][250]LogShaderCompilers: Display: Shaders left to compile 490
+[2020.04.03-08.30.12:501][252]LogShaderCompilers: Display: Shaders left to compile 480
+[2020.04.03-08.30.16:185][463]LogShaderCompilers: Display: Shaders left to compile 470
+[2020.04.03-08.30.16:280][468]LogShaderCompilers: Display: Shaders left to compile 460
+[2020.04.03-08.30.16:326][471]LogShaderCompilers: Display: Shaders left to compile 450
+[2020.04.03-08.30.16:417][476]LogShaderCompilers: Display: Shaders left to compile 440
+[2020.04.03-08.30.16:605][485]LogShaderCompilers: Display: Shaders left to compile 430
+[2020.04.03-08.30.17:220][511]LogShaderCompilers: Display: Shaders left to compile 420
+[2020.04.03-08.30.17:581][531]LogShaderCompilers: Display: Shaders left to compile 410
+[2020.04.03-08.30.18:172][561]LogShaderCompilers: Display: Shaders left to compile 400
+[2020.04.03-08.30.19:483][629]LogShaderCompilers: Display: Shaders left to compile 390
+[2020.04.03-08.30.19:863][640]LogShaderCompilers: Display: Shaders left to compile 380
+[2020.04.03-08.30.19:989][644]LogShaderCompilers: Display: Shaders left to compile 370
+[2020.04.03-08.30.20:994][699]LogShaderCompilers: Display: Shaders left to compile 360
+[2020.04.03-08.30.21:585][729]LogShaderCompilers: Display: Shaders left to compile 350
+[2020.04.03-08.30.21:889][743]LogShaderCompilers: Display: Shaders left to compile 340
+[2020.04.03-08.30.22:806][787]LogShaderCompilers: Display: Shaders left to compile 330
+[2020.04.03-08.30.23:224][808]LogShaderCompilers: Display: Shaders left to compile 320
+[2020.04.03-08.30.23:983][846]LogShaderCompilers: Display: Shaders left to compile 310
+[2020.04.03-08.30.24:242][860]LogShaderCompilers: Display: Shaders left to compile 300
+[2020.04.03-08.30.24:621][876]LogShaderCompilers: Display: Shaders left to compile 290
+[2020.04.03-08.30.25:284][923]LogShaderCompilers: Display: Shaders left to compile 280
+[2020.04.03-08.30.25:829][967]LogShaderCompilers: Display: Shaders left to compile 270
+[2020.04.03-08.30.25:860][969]LogShaderCompilers: Display: Shaders left to compile 260
+[2020.04.03-08.30.26:743][ 45]LogShaderCompilers: Display: Shaders left to compile 250
+[2020.04.03-08.30.27:653][103]LogShaderCompilers: Display: Shaders left to compile 240
+[2020.04.03-08.30.28:252][140]LogShaderCompilers: Display: Shaders left to compile 230
+[2020.04.03-08.30.29:554][219]LogShaderCompilers: Display: Shaders left to compile 220
+[2020.04.03-08.30.29:837][233]LogShaderCompilers: Display: Shaders left to compile 210
+[2020.04.03-08.30.30:255][256]LogShaderCompilers: Display: Shaders left to compile 200
+[2020.04.03-08.30.30:255][256]LogShaderCompilers: Display: Shaders left to compile 190
+[2020.04.03-08.30.30:443][265]LogShaderCompilers: Display: Shaders left to compile 180
+[2020.04.03-08.30.31:062][297]LogShaderCompilers: Display: Shaders left to compile 170
+[2020.04.03-08.30.31:471][325]LogShaderCompilers: Display: Shaders left to compile 160
+[2020.04.03-08.30.31:610][335]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (21.064 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.03-08.30.32:608][407]LogShaderCompilers: Display: Shaders left to compile 150
+[2020.04.03-08.30.32:959][432]LogShaderCompilers: Display: Shaders left to compile 140
+[2020.04.03-08.30.33:992][514]LogShaderCompilers: Display: Shaders left to compile 130
+[2020.04.03-08.30.34:042][518]LogShaderCompilers: Display: Shaders left to compile 120
+[2020.04.03-08.30.35:922][652]LogShaderCompilers: Display: Shaders left to compile 110
+[2020.04.03-08.30.36:448][688]LogShaderCompilers: Display: Shaders left to compile 100
+[2020.04.03-08.30.36:470][689]LogShaderCompilers: Display: Shaders left to compile 90
+[2020.04.03-08.30.36:612][699]LogShaderCompilers: Display: Shaders left to compile 80
+[2020.04.03-08.30.37:751][778]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.04.03-08.30.38:087][801]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.04.03-08.30.38:569][834]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.04.03-08.30.39:307][881]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.03-08.30.39:628][902]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.03-08.30.40:762][979]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.03-08.30.42:001][ 65]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.03-08.30.57:505][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-08.30.57:584][824]LogActorFactory: Actor Factory created Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model
+[2020.04.03-08.30.58:589][937]LogActorFactory: Actor Factory created Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model
+[2020.04.03-08.31.10:302][275]Cmd: TRANSACTION UNDO
+[2020.04.03-08.31.10:302][275]LogEditorTransaction: Undo Move Actors
+[2020.04.03-08.31.10:935][336]Cmd: TRANSACTION UNDO
+[2020.04.03-08.31.10:935][336]LogEditorTransaction: Undo Move Actors
+[2020.04.03-08.31.13:509][632]Cmd: TRANSACTION UNDO
+[2020.04.03-08.31.13:509][632]LogEditorTransaction: Undo Create Actors
+[2020.04.03-08.36.57:124][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.04.03-08.36.57:124][913]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MiniGame1/MiniGame1' took 0.023
+[2020.04.03-08.36.57:158][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh9_Group11_Group3_Group2_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.57:186][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh9_Group11_Group3_Group2_ModelMat.Mesh9_Group11_Group3_Group2_ModelMat]
+[2020.04.03-08.36.57:186][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh9_Group11_Group3_Group2_ModelMat]
+[2020.04.03-08.36.57:235][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh9_Group11_Group3_Group2_Mode5DA691E842C87F8737F7FE9EF53CBDA0.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh9_Group11_Group3_Group2_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.57:236][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model] ([1] browsable assets)...
+[2020.04.03-08.36.57:247][913]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame1/Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model.Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model]
+[2020.04.03-08.36.57:247][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model]
+[2020.04.03-08.36.57:283][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Greybox_GDS210_Mesh12_Group14_GrC9D79E6846CC120032F1449E54853159.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model_Auto1.uasset'
+[2020.04.03-08.36.57:284][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh10_Group12_Group3_Group2_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.57:295][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh10_Group12_Group3_Group2_ModelMat.Mesh10_Group12_Group3_Group2_ModelMat]
+[2020.04.03-08.36.57:295][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh10_Group12_Group3_Group2_ModelMat]
+[2020.04.03-08.36.57:308][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh10_Group12_Group3_Group2_ModC7127461447F1A0A63DD30B57E18D748.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh10_Group12_Group3_Group2_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.57:309][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh11_Group13_Group3_Group2_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.57:321][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh11_Group13_Group3_Group2_ModelMat.Mesh11_Group13_Group3_Group2_ModelMat]
+[2020.04.03-08.36.57:321][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh11_Group13_Group3_Group2_ModelMat]
+[2020.04.03-08.36.57:337][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh11_Group13_Group3_Group2_ModB2783D804846F6832239279C3E5A87AD.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh11_Group13_Group3_Group2_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.57:338][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh12_Group14_Group3_Group2_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.57:349][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh12_Group14_Group3_Group2_ModelMat.Mesh12_Group14_Group3_Group2_ModelMat]
+[2020.04.03-08.36.57:349][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh12_Group14_Group3_Group2_ModelMat]
+[2020.04.03-08.36.57:363][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh12_Group14_Group3_Group2_ModB45668C0460B806B370538966BEE6C70.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh12_Group14_Group3_Group2_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.57:364][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Greybox_GDS210_Mesh13_Group2_Model] ([1] browsable assets)...
+[2020.04.03-08.36.57:374][913]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame1/Greybox_GDS210_Mesh13_Group2_Model.Greybox_GDS210_Mesh13_Group2_Model]
+[2020.04.03-08.36.57:374][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Greybox_GDS210_Mesh13_Group2_Model]
+[2020.04.03-08.36.57:388][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Greybox_GDS210_Mesh13_Group2_Mod40A0887B4AACBC3C2ACB0DB57FC73A90.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Greybox_GDS210_Mesh13_Group2_Model_Auto1.uasset'
+[2020.04.03-08.36.57:389][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh13_Group2_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.57:403][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh13_Group2_ModelMat.Mesh13_Group2_ModelMat]
+[2020.04.03-08.36.57:403][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh13_Group2_ModelMat]
+[2020.04.03-08.36.57:418][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh13_Group2_ModelMat_Auto1F7AF40334683A74F74832493A64668C0.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh13_Group2_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.57:419][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Greybox_GDS210_Mesh14_Group15_Model] ([1] browsable assets)...
+[2020.04.03-08.36.57:430][913]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame1/Greybox_GDS210_Mesh14_Group15_Model.Greybox_GDS210_Mesh14_Group15_Model]
+[2020.04.03-08.36.57:430][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Greybox_GDS210_Mesh14_Group15_Model]
+[2020.04.03-08.36.57:443][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Greybox_GDS210_Mesh14_Group15_Mo2C2DF23A47F8192630B4AA82AF5AB8F9.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Greybox_GDS210_Mesh14_Group15_Model_Auto1.uasset'
+[2020.04.03-08.36.57:444][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh14_Group15_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.57:455][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh14_Group15_ModelMat.Mesh14_Group15_ModelMat]
+[2020.04.03-08.36.57:455][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh14_Group15_ModelMat]
+[2020.04.03-08.36.57:469][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh14_Group15_ModelMat_Auto10E57E4004A099AB77279C7A0BFFD1CF0.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh14_Group15_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.57:470][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Greybox_GDS210_Mesh15_Group16_Model] ([1] browsable assets)...
+[2020.04.03-08.36.57:485][913]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame1/Greybox_GDS210_Mesh15_Group16_Model.Greybox_GDS210_Mesh15_Group16_Model]
+[2020.04.03-08.36.57:485][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Greybox_GDS210_Mesh15_Group16_Model]
+[2020.04.03-08.36.57:499][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Greybox_GDS210_Mesh15_Group16_Mo8127962D48E9359351644F9BC5D258D5.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Greybox_GDS210_Mesh15_Group16_Model_Auto1.uasset'
+[2020.04.03-08.36.57:500][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh15_Group16_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.57:511][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh15_Group16_ModelMat.Mesh15_Group16_ModelMat]
+[2020.04.03-08.36.57:511][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh15_Group16_ModelMat]
+[2020.04.03-08.36.57:525][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh15_Group16_ModelMat_Auto1C8236E1D479746265766F589D91976A7.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh15_Group16_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.57:526][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Greybox_GDS210_Mesh17_Group19_Group17_Model] ([1] browsable assets)...
+[2020.04.03-08.36.57:540][913]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame1/Greybox_GDS210_Mesh17_Group19_Group17_Model.Greybox_GDS210_Mesh17_Group19_Group17_Model]
+[2020.04.03-08.36.57:540][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Greybox_GDS210_Mesh17_Group19_Group17_Model]
+[2020.04.03-08.36.57:554][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Greybox_GDS210_Mesh17_Group19_Gr8F16A4664FAE63C836F3CAB9C695905F.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Greybox_GDS210_Mesh17_Group19_Group17_Model_Auto1.uasset'
+[2020.04.03-08.36.57:555][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh16_Group18_Group17_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.57:567][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh16_Group18_Group17_ModelMat.Mesh16_Group18_Group17_ModelMat]
+[2020.04.03-08.36.57:567][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh16_Group18_Group17_ModelMat]
+[2020.04.03-08.36.57:581][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh16_Group18_Group17_ModelMat_F15A748C4579F81F71004BB599CD2327.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh16_Group18_Group17_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.57:582][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh17_Group19_Group17_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.57:593][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh17_Group19_Group17_ModelMat.Mesh17_Group19_Group17_ModelMat]
+[2020.04.03-08.36.57:593][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh17_Group19_Group17_ModelMat]
+[2020.04.03-08.36.57:608][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh17_Group19_Group17_ModelMat_8192D6E84A3BF0CD57FD90AA4B2575A1.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh17_Group19_Group17_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.57:609][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Greybox_GDS210_Mesh19_Group21_Group17_Model] ([1] browsable assets)...
+[2020.04.03-08.36.57:620][913]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame1/Greybox_GDS210_Mesh19_Group21_Group17_Model.Greybox_GDS210_Mesh19_Group21_Group17_Model]
+[2020.04.03-08.36.57:620][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Greybox_GDS210_Mesh19_Group21_Group17_Model]
+[2020.04.03-08.36.57:634][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Greybox_GDS210_Mesh19_Group21_Gr53194CE7448F8D1127EDC181786BFB33.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Greybox_GDS210_Mesh19_Group21_Group17_Model_Auto1.uasset'
+[2020.04.03-08.36.57:635][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh18_Group20_Group17_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.57:645][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh18_Group20_Group17_ModelMat.Mesh18_Group20_Group17_ModelMat]
+[2020.04.03-08.36.57:645][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh18_Group20_Group17_ModelMat]
+[2020.04.03-08.36.57:659][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh18_Group20_Group17_ModelMat_292BDC9C468EF47B14CE79AADB8944CA.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh18_Group20_Group17_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.57:660][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh19_Group21_Group17_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.57:671][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh19_Group21_Group17_ModelMat.Mesh19_Group21_Group17_ModelMat]
+[2020.04.03-08.36.57:671][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh19_Group21_Group17_ModelMat]
+[2020.04.03-08.36.57:686][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh19_Group21_Group17_ModelMat_EE0E6DC24433759EF16F708E1A48E0E3.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh19_Group21_Group17_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.57:687][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Greybox_GDS210_Mesh1_Group1_Model] ([1] browsable assets)...
+[2020.04.03-08.36.57:697][913]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame1/Greybox_GDS210_Mesh1_Group1_Model.Greybox_GDS210_Mesh1_Group1_Model]
+[2020.04.03-08.36.57:697][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Greybox_GDS210_Mesh1_Group1_Model]
+[2020.04.03-08.36.57:711][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Greybox_GDS210_Mesh1_Group1_ModeBCD0D9664EA6494EBBCB309A22C984C5.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Greybox_GDS210_Mesh1_Group1_Model_Auto1.uasset'
+[2020.04.03-08.36.57:711][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh1_Group1_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.57:723][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh1_Group1_ModelMat.Mesh1_Group1_ModelMat]
+[2020.04.03-08.36.57:723][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh1_Group1_ModelMat]
+[2020.04.03-08.36.57:740][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh1_Group1_ModelMat_Auto131B7B9854704A5038A3CBBB862BDB37D.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh1_Group1_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.57:740][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Greybox_GDS210_Mesh20_Group22_Group17_Model] ([1] browsable assets)...
+[2020.04.03-08.36.57:753][913]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame1/Greybox_GDS210_Mesh20_Group22_Group17_Model.Greybox_GDS210_Mesh20_Group22_Group17_Model]
+[2020.04.03-08.36.57:753][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Greybox_GDS210_Mesh20_Group22_Group17_Model]
+[2020.04.03-08.36.57:767][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Greybox_GDS210_Mesh20_Group22_GrD2B84A684D0B3DA652930CA6DAAE9C01.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Greybox_GDS210_Mesh20_Group22_Group17_Model_Auto1.uasset'
+[2020.04.03-08.36.57:768][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh20_Group22_Group17_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.57:778][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh20_Group22_Group17_ModelMat.Mesh20_Group22_Group17_ModelMat]
+[2020.04.03-08.36.57:778][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh20_Group22_Group17_ModelMat]
+[2020.04.03-08.36.57:792][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh20_Group22_Group17_ModelMat_C9CB48D1475A23A220465E9AFC52EB57.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh20_Group22_Group17_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.57:793][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Greybox_GDS210_Mesh21_Group23_Group17_Model] ([1] browsable assets)...
+[2020.04.03-08.36.57:804][913]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame1/Greybox_GDS210_Mesh21_Group23_Group17_Model.Greybox_GDS210_Mesh21_Group23_Group17_Model]
+[2020.04.03-08.36.57:804][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Greybox_GDS210_Mesh21_Group23_Group17_Model]
+[2020.04.03-08.36.57:820][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Greybox_GDS210_Mesh21_Group23_Gr971714304F86010B72035B9B9D3EA1FF.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Greybox_GDS210_Mesh21_Group23_Group17_Model_Auto1.uasset'
+[2020.04.03-08.36.57:821][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh21_Group23_Group17_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.57:831][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh21_Group23_Group17_ModelMat.Mesh21_Group23_Group17_ModelMat]
+[2020.04.03-08.36.57:831][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh21_Group23_Group17_ModelMat]
+[2020.04.03-08.36.57:845][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh21_Group23_Group17_ModelMat_72DFCF1F427D6BD61DD4528701E4F983.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh21_Group23_Group17_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.57:846][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Greybox_GDS210_Mesh22_Group17_Model] ([1] browsable assets)...
+[2020.04.03-08.36.57:856][913]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame1/Greybox_GDS210_Mesh22_Group17_Model.Greybox_GDS210_Mesh22_Group17_Model]
+[2020.04.03-08.36.57:856][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Greybox_GDS210_Mesh22_Group17_Model]
+[2020.04.03-08.36.57:872][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Greybox_GDS210_Mesh22_Group17_Mo8DFAACA14B16018CD0D550AB25EB5BFA.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Greybox_GDS210_Mesh22_Group17_Model_Auto1.uasset'
+[2020.04.03-08.36.57:873][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh22_Group17_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.57:887][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh22_Group17_ModelMat.Mesh22_Group17_ModelMat]
+[2020.04.03-08.36.57:887][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh22_Group17_ModelMat]
+[2020.04.03-08.36.57:901][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh22_Group17_ModelMat_Auto1A0D029CE4237503C6085C9B947E73B51.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh22_Group17_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.57:901][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Greybox_GDS210_Mesh23_Group24_Model] ([1] browsable assets)...
+[2020.04.03-08.36.57:912][913]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame1/Greybox_GDS210_Mesh23_Group24_Model.Greybox_GDS210_Mesh23_Group24_Model]
+[2020.04.03-08.36.57:912][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Greybox_GDS210_Mesh23_Group24_Model]
+[2020.04.03-08.36.57:926][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Greybox_GDS210_Mesh23_Group24_MoD3CAC8A347346274AD714499D145166E.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Greybox_GDS210_Mesh23_Group24_Model_Auto1.uasset'
+[2020.04.03-08.36.57:927][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh23_Group24_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.57:941][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh23_Group24_ModelMat.Mesh23_Group24_ModelMat]
+[2020.04.03-08.36.57:941][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh23_Group24_ModelMat]
+[2020.04.03-08.36.57:956][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh23_Group24_ModelMat_Auto1D4FDEEDF4F09D9415535E18429F39DBB.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh23_Group24_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.57:957][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Greybox_GDS210_Mesh24_Group25_Model] ([1] browsable assets)...
+[2020.04.03-08.36.57:971][913]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame1/Greybox_GDS210_Mesh24_Group25_Model.Greybox_GDS210_Mesh24_Group25_Model]
+[2020.04.03-08.36.57:971][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Greybox_GDS210_Mesh24_Group25_Model]
+[2020.04.03-08.36.57:984][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Greybox_GDS210_Mesh24_Group25_Mo23C8421F43C5699A06C3F29E6C704F06.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Greybox_GDS210_Mesh24_Group25_Model_Auto1.uasset'
+[2020.04.03-08.36.57:986][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh24_Group25_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.57:997][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh24_Group25_ModelMat.Mesh24_Group25_ModelMat]
+[2020.04.03-08.36.57:997][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh24_Group25_ModelMat]
+[2020.04.03-08.36.58:014][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh24_Group25_ModelMat_Auto19CBF1049474841F24E88D9A5ADA4DD9E.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh24_Group25_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.58:015][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Greybox_GDS210_Mesh25_Group26_Model] ([1] browsable assets)...
+[2020.04.03-08.36.58:026][913]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame1/Greybox_GDS210_Mesh25_Group26_Model.Greybox_GDS210_Mesh25_Group26_Model]
+[2020.04.03-08.36.58:026][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Greybox_GDS210_Mesh25_Group26_Model]
+[2020.04.03-08.36.58:040][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Greybox_GDS210_Mesh25_Group26_MoC1FEA27E40BEA49C69AFD8BC3A65F225.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Greybox_GDS210_Mesh25_Group26_Model_Auto1.uasset'
+[2020.04.03-08.36.58:041][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh25_Group26_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.58:053][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh25_Group26_ModelMat.Mesh25_Group26_ModelMat]
+[2020.04.03-08.36.58:054][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh25_Group26_ModelMat]
+[2020.04.03-08.36.58:069][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh25_Group26_ModelMat_Auto12747D6F049E73D37A9C78BBAF83DF2A1.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh25_Group26_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.58:070][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Greybox_GDS210_Mesh26_Group27_Model] ([1] browsable assets)...
+[2020.04.03-08.36.58:081][913]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame1/Greybox_GDS210_Mesh26_Group27_Model.Greybox_GDS210_Mesh26_Group27_Model]
+[2020.04.03-08.36.58:081][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Greybox_GDS210_Mesh26_Group27_Model]
+[2020.04.03-08.36.58:095][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Greybox_GDS210_Mesh26_Group27_Mo83CFDF074114633D9FC9C19A2CD20E46.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Greybox_GDS210_Mesh26_Group27_Model_Auto1.uasset'
+[2020.04.03-08.36.58:096][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh26_Group27_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.58:106][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh26_Group27_ModelMat.Mesh26_Group27_ModelMat]
+[2020.04.03-08.36.58:106][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh26_Group27_ModelMat]
+[2020.04.03-08.36.58:120][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh26_Group27_ModelMat_Auto1C3BAB9A0400D6FD49038ED927C5DD96D.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh26_Group27_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.58:121][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Greybox_GDS210_Mesh27_Model] ([1] browsable assets)...
+[2020.04.03-08.36.58:133][913]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame1/Greybox_GDS210_Mesh27_Model.Greybox_GDS210_Mesh27_Model]
+[2020.04.03-08.36.58:133][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Greybox_GDS210_Mesh27_Model]
+[2020.04.03-08.36.58:149][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Greybox_GDS210_Mesh27_Model_Auto4D72C3894F8F5C47A775E0AF31BEC0DB.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Greybox_GDS210_Mesh27_Model_Auto1.uasset'
+[2020.04.03-08.36.58:150][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh27_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.58:160][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh27_ModelMat.Mesh27_ModelMat]
+[2020.04.03-08.36.58:160][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh27_ModelMat]
+[2020.04.03-08.36.58:175][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh27_ModelMat_Auto1123B9B0E4DF1A1C7C6BF2FBCED9AD65E.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh27_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.58:176][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh8_Group10_Group3_Group2_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.58:187][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh8_Group10_Group3_Group2_ModelMat.Mesh8_Group10_Group3_Group2_ModelMat]
+[2020.04.03-08.36.58:187][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh8_Group10_Group3_Group2_ModelMat]
+[2020.04.03-08.36.58:201][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh8_Group10_Group3_Group2_Mode8640528049AC969024C43EB760C3004E.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh8_Group10_Group3_Group2_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.58:201][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh2_Group4_Group3_Group2_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.58:212][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh2_Group4_Group3_Group2_ModelMat.Mesh2_Group4_Group3_Group2_ModelMat]
+[2020.04.03-08.36.58:212][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh2_Group4_Group3_Group2_ModelMat]
+[2020.04.03-08.36.58:226][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh2_Group4_Group3_Group2_Model4E0D7DC3455DF6635691B589046ACF00.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh2_Group4_Group3_Group2_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.58:227][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh3_Group5_Group3_Group2_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.58:238][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh3_Group5_Group3_Group2_ModelMat.Mesh3_Group5_Group3_Group2_ModelMat]
+[2020.04.03-08.36.58:238][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh3_Group5_Group3_Group2_ModelMat]
+[2020.04.03-08.36.58:252][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh3_Group5_Group3_Group2_Model869BE7644C887C7DF25FBCB3BEB78D49.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh3_Group5_Group3_Group2_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.58:253][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh4_Group6_Group3_Group2_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.58:264][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh4_Group6_Group3_Group2_ModelMat.Mesh4_Group6_Group3_Group2_ModelMat]
+[2020.04.03-08.36.58:264][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh4_Group6_Group3_Group2_ModelMat]
+[2020.04.03-08.36.58:280][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh4_Group6_Group3_Group2_Model7CA314C041CBD409A839CEA29BB1020E.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh4_Group6_Group3_Group2_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.58:282][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh5_Group7_Group3_Group2_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.58:292][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh5_Group7_Group3_Group2_ModelMat.Mesh5_Group7_Group3_Group2_ModelMat]
+[2020.04.03-08.36.58:292][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh5_Group7_Group3_Group2_ModelMat]
+[2020.04.03-08.36.58:307][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh5_Group7_Group3_Group2_ModelE6CC60AF47673E3D9DDD19B6049D8EF2.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh5_Group7_Group3_Group2_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.58:308][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh6_Group8_Group3_Group2_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.58:319][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh6_Group8_Group3_Group2_ModelMat.Mesh6_Group8_Group3_Group2_ModelMat]
+[2020.04.03-08.36.58:319][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh6_Group8_Group3_Group2_ModelMat]
+[2020.04.03-08.36.58:336][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh6_Group8_Group3_Group2_ModelEBE4A05E409DDFAFF7BB4F9124705D26.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh6_Group8_Group3_Group2_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.58:338][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/Mesh7_Group9_Group3_Group2_ModelMat] ([1] browsable assets)...
+[2020.04.03-08.36.58:348][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/Mesh7_Group9_Group3_Group2_ModelMat.Mesh7_Group9_Group3_Group2_ModelMat]
+[2020.04.03-08.36.58:348][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/Mesh7_Group9_Group3_Group2_ModelMat]
+[2020.04.03-08.36.58:362][913]LogSavePackage: Moving 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Mesh7_Group9_Group3_Group2_Model8022186F470A3B465D3CC88A9847AE8E.tmp' to 'C:/Users/David/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/Mesh7_Group9_Group3_Group2_ModelMat_Auto1.uasset'
+[2020.04.03-08.36.58:363][913]LogFileHelpers: Auto-saving content packages took 1.239
+[2020.04.03-08.46.58:459][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.04.03-08.46.58:459][714]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MiniGame1/MiniGame1' took 0.023
+[2020.04.03-08.47.19:688][778]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-08.47.29:622][456]Cmd: TRANSACTION UNDO
+[2020.04.03-08.47.29:622][456]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.03-08.47.30:076][505]Cmd: TRANSACTION UNDO
+[2020.04.03-08.47.30:076][505]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.03-08.47.30:537][559]Cmd: TRANSACTION UNDO
+[2020.04.03-08.47.30:537][559]LogEditorTransaction: Undo Edit X
+[2020.04.03-08.47.31:065][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-08.47.31:138][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.04.03-08.47.33:002][628]LogSlate: Window 'Save Content' being destroyed
+[2020.04.03-08.47.33:057][628]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-08.47.33:060][628]LogSlate: Window 'Project3_VR - Unreal Editor' being destroyed
+[2020.04.03-08.47.33:224][629]Cmd: QUIT_EDITOR
+[2020.04.03-08.47.33:237][629]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.03-08.47.33:247][629]LogExit: Preparing to exit.
+[2020.04.03-08.47.34:377][629]LogExit: Editor shut down
+[2020.04.03-08.47.34:377][629]LogExit: Transaction tracking system shut down
+[2020.04.03-08.47.34:513][629]LogExit: Object subsystem successfully closed.
+[2020.04.03-08.47.34:534][629]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.03-08.47.34:539][629]LogD3D11RHI: Shutdown
+[2020.04.03-08.47.34:539][629]LogD3D11RHI: CleanupD3DDevice
+[2020.04.03-08.47.34:540][629]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.04.03-08.47.34:540][629]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.03-08.47.34:540][629]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.04.03-08.47.34:540][629]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.03-08.47.34:540][629]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.04.03-08.47.34:540][629]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.03-08.47.34:595][629]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.04.03-08.47.34:604][629]LogModuleManager: Shutting down and abandoning module MeshBuilder (644)
+[2020.04.03-08.47.34:604][629]LogModuleManager: Shutting down and abandoning module StatsViewer (642)
+[2020.04.03-08.47.34:604][629]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (640)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module SceneOutliner (638)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module AddContentDialog (636)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module WidgetCarousel (635)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module EditorWidgets (632)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module CollectionManager (630)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.04.03-08.47.34:605][629]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.04.03-08.47.34:606][629]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.04.03-08.47.35:125][629]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.04.03-08.47.35:125][629]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.04.03-08.47.35:125][629]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.04.03-08.47.35:125][629]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.04.03-08.47.35:125][629]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.04.03-08.47.35:125][629]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.04.03-08.47.35:125][629]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.04.03-08.47.35:125][629]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.04.03-08.47.35:125][629]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.04.03-08.47.35:125][629]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.04.03-08.47.35:125][629]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.04.03-08.47.35:125][629]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.04.03-08.47.35:125][629]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.04.03-08.47.35:125][629]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.04.03-08.47.35:125][629]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.04.03-08.47.35:125][629]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.04.03-08.47.35:126][629]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.04.03-08.47.35:126][629]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.04.03-08.47.35:126][629]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.04.03-08.47.35:126][629]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.04.03-08.47.35:126][629]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.04.03-08.47.35:126][629]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.04.03-08.47.35:126][629]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.04.03-08.47.35:181][629]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.04.03-08.47.35:181][629]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.04.03-08.47.35:181][629]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.04.03-08.47.35:181][629]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.04.03-08.47.35:181][629]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.04.03-08.47.35:181][629]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.04.03-08.47.35:181][629]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.04.03-08.47.35:181][629]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.04.03-08.47.35:181][629]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.04.03-08.47.35:181][629]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.04.03-08.47.35:181][629]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.04.03-08.47.35:182][629]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.04.03-08.47.35:185][629]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.04.03-08.47.35:262][629]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.04.03-08.47.35:262][629]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.04.03-08.47.35:262][629]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.04.03-08.47.35:262][629]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.04.03-08.47.35:263][629]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.04.03-08.47.35:264][629]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.04.03-08.47.35:264][629]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.04.03-08.47.35:264][629]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.04.03-08.47.35:264][629]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.04.03-08.47.35:264][629]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.04.03-08.47.35:264][629]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.04.03-08.47.35:264][629]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.04.03-08.47.35:364][629]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.04.03-08.47.35:465][629]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.04.03-08.47.35:465][629]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.04.03-08.47.35:465][629]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.04.03-08.47.35:465][629]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.04.03-08.47.35:465][629]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.04.03-08.47.35:465][629]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.03-08.47.35:465][629]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.04.03-08.47.35:465][629]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.04.03-08.47.35:465][629]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.04.03-08.47.35:465][629]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.04.03-08.47.35:465][629]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.04.03-08.47.35:465][629]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.04.03-08.47.35:465][629]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.04.03-08.47.35:465][629]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.04.03-08.47.35:465][629]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.04.03-08.47.35:465][629]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.04.03-08.47.35:465][629]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.04.03-08.47.35:466][629]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.04.03-08.47.35:466][629]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.04.03-08.47.35:467][629]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.04.03-08.47.35:468][629]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.04.03-08.47.35:469][629]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.04.03-08.47.35:469][629]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.04.03-08.47.35:469][629]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.04.03-08.47.35:469][629]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.04.03-08.47.35:469][629]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.04.03-08.47.35:469][629]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.04.03-08.47.35:469][629]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.04.03-08.47.35:469][629]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.04.03-08.47.35:469][629]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.04.03-08.47.35:469][629]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.04.03-08.47.35:469][629]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.04.03-08.47.35:469][629]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.04.03-08.47.35:469][629]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.04.03-08.47.35:469][629]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.04.03-08.47.35:469][629]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.04.03-08.47.35:472][629]LogDerivedDataCache: Shutdown
+[2020.04.03-08.47.35:472][629]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.04.03-08.47.35:472][629]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.04.03-08.47.35:473][629]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.04.03-08.47.35:474][629]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.04.03-08.47.35:474][629]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.04.03-08.47.35:475][629]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.04.03-08.47.35:475][629]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.04.03-08.47.35:480][629]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.04.03-08.47.35:480][629]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.04.03-08.47.35:481][629]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.04.03-08.47.35:481][629]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.04.03-08.47.35:488][629]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.04.03-08.47.35:488][629]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.03-08.47.35:488][629]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4D864F88-477F-385C-8869-78AE250129F5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=14fdb446414e80006521c9a107e4ad75%7Cc6076de9ed0e42cfa2c0f0938bbf5c45%7C17d7d400-9ebc-4f04-b7bb-6acdc44c23be&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.04.03-08.47.35:515][629]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.04.03-08.47.35:516][629]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.04.03-08.47.35:518][629]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.04.03-08.47.35:524][629]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.04.03-08.47.35:524][629]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.04.03-08.47.35:524][629]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.04.03-08.47.35:524][629]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.04.03-08.47.35:524][629]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.04.03-08.47.35:525][629]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.04.03-08.47.35:525][629]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.04.03-08.47.35:525][629]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.04.03-08.47.35:525][629]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.04.03-08.47.35:525][629]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.04.03-08.47.35:525][629]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.04.03-08.47.35:525][629]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.04.03-08.47.35:525][629]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.04.03-08.47.35:525][629]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.04.03-08.47.35:525][629]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.04.03-08.47.35:525][629]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.04.03-08.47.35:525][629]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.04.03-08.47.35:525][629]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.04.03-08.47.35:525][629]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.04.03-08.47.35:525][629]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.04.03-08.47.35:525][629]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.04.03-08.47.35:534][629]LogExit: Exiting.
+[2020.04.03-08.47.35:547][629]Log file closed, 04/03/20 16:47:35

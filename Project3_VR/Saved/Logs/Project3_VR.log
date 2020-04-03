@@ -1982,3 +1982,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.03-04.23.19:965][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HubWorld/HubWorld" FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/HubWorld/HubWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2020.04.03-04.23.19:986][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
 [2020.04.03-04.23.20:140][545]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/HubWorldA8BFFA7D4C425AE695C69F8F386107DB.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/HubWorld/HubWorld.umap'
+[2020.04.03-04.25.26:808][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HubWorld/HubWorld" FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/HubWorld/HubWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.03-04.25.26:830][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.04.03-04.25.26:977][323]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/HubWorldD8BFD2B44BA50DD8675E619AE1595A72.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/HubWorld/HubWorld.umap'

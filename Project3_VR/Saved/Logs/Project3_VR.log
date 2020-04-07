@@ -1388,3 +1388,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.07-07.17.06:157][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.04.07-07.17.06:306][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
 [2020.04.07-07.17.06:645][207]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2AA8BB550404D3A5FB87C539A9E846F95.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2.umap'
+[2020.04.07-07.19.04:358][766]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.07-07.20.06:434][467]Cmd: DELETE
+[2020.04.07-07.20.06:434][467]Cmd: ACTOR DELETE
+[2020.04.07-07.20.06:442][467]LogEditorActor: Deleted Actor: Brush
+[2020.04.07-07.20.06:469][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.04.07-07.20.06:524][467]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2020.04.07-07.20.10:355][694]Cmd: EDIT COPY
+[2020.04.07-07.20.10:672][713]Cmd: EDIT PASTE
+[2020.04.07-07.20.34:509][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-07.21.30:047][449]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.04.07-07.21.31:524][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-07.21.46:766][450]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.07-07.21.49:802][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-07.21.49:907][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.04.07-07.21.50:290][634]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame295EE15E345F84B40ECB77E9551ED7803.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2.umap'
+[2020.04.07-07.27.28:134][410]Cmd: EDIT COPY
+[2020.04.07-07.27.28:567][436]Cmd: EDIT PASTE
+[2020.04.07-07.28.44:775][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-07.29.26:378][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-07.29.26:540][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.04.07-07.29.26:926][381]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2F054A273410B53D9AE6CF19E6A4C8863.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2.umap'

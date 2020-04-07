@@ -1409,3 +1409,621 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.07-07.29.26:378][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.04.07-07.29.26:540][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
 [2020.04.07-07.29.26:926][381]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2F054A273410B53D9AE6CF19E6A4C8863.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2.umap'
+[2020.04.07-08.01.16:269][193]MapCheck: New page: Map Check
+[2020.04.07-08.01.16:298][193]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.07-08.01.16:298][193]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.07-08.01.16:630][193]LightingResults: New page: Lighting Build - 8 Apr 2020 12:01:16 am
+[2020.04.07-08.01.16:697][193]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.07-08.01.16:824][193]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.07-08.01.16:841][193]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.07-08.01.17:369][193]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.07-08.01.17:369][193]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3124
+[2020.04.07-08.01.19:835][193]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.07-08.01.19:836][193]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.07-08.01.19:836][193]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.07-08.01.19:836][193]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.07-08.01.19:836][193]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.07-08.01.20:085][193]LogEditorBuildUtils: Build time 0:03
+[2020.04.07-08.01.20:100][193]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.07-08.01.20:109][193]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.07-08.01.20:148][194]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_BaseMaterial2, compiling. 
+[2020.04.07-08.01.20:163][194]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_BaseMaterial2, compiling. 
+[2020.04.07-08.01.20:233][196]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.04.07-08.01.20:250][196]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.04.07-08.01.21:719][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.04.07-08.01.29:144][598]Job is a success!
+[2020.04.07-08.01.29:250][599]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.023s
+[2020.04.07-08.01.29:250][599]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.04.07-08.01.29:250][599]LogVolumetricLightmapImport:      BrickData 405x5x5 = 0.4Mb
+[2020.04.07-08.01.29:250][599]LogVolumetricLightmapImport:      Bricks at Level
+[2020.04.07-08.01.29:250][599]LogVolumetricLightmapImport:          0: 1.2% covering 100.0% of volume
+[2020.04.07-08.01.29:250][599]LogVolumetricLightmapImport:          1: 9.9% covering 12.5% of volume
+[2020.04.07-08.01.29:250][599]LogVolumetricLightmapImport:          2: 88.9% covering 1.8% of volume
+[2020.04.07-08.01.29:918][599]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.04.07-08.01.29:918][599]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.04.07-08.01.29:919][599]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.04.07-08.01.29:919][599]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.04.07-08.01.30:038][599]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.04.07-08.01.30:038][599]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2020.04.07-08.01.30:078][599]Lightmass on DESKTOP-MNFDDCH: 7.18 sec total, 169 ms importing, 49 ms setup, 2.02 sec photons, 4.92 sec processing, 0 ms extra exporting [591/591 mappings]. Threads: 53.6 sec total, 15.5 sec processing.
+[2020.04.07-08.01.30:081][599]LogStaticLightingSystem: MiniGame2_BuiltData storing lightmap data for 13 meshes in 2 LightmapResourceClusters (6.5 Meshes per cluster).
+[2020.04.07-08.01.30:125][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.04.07-08.01.30:158][599]LogStaticLightingSystem: Illumination: 13.4 sec (416 ms encoding lightmaps, 112 ms encoding shadowmaps)
+[2020.04.07-08.01.30:158][599]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 4 textures
+[2020.04.07-08.01.30:158][599]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 2 textures
+[2020.04.07-08.01.34:843][599]DumpUnbuiltLightIteractions
+[2020.04.07-08.01.34:843][599]Lights with unbuilt interactions: 0
+[2020.04.07-08.01.34:843][599]
+[2020.04.07-08.01.34:843][599]Primitives with unbuilt interactions: 0
+[2020.04.07-08.01.34:906][600]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.07-08.01.34:906][600]MapCheck: New page: MiniGame2 - 8 Apr 2020 12:01:34 am
+[2020.04.07-08.01.34:908][600]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.549ms to complete.
+[2020.04.07-08.02.51:962][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.04.07-08.02.52:295][612]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2_Auto8780A42F14F9012ABD50B11B67CBCF957.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame2/MiniGame2_Auto8.umap'
+[2020.04.07-08.02.52:300][612]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MiniGame2/MiniGame2' took 0.362
+[2020.04.07-08.02.52:300][612]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.362
+[2020.04.07-08.12.52:533][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.04.07-08.12.52:533][403]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MiniGame2/MiniGame2' took 0.034
+[2020.04.07-08.14.30:817][697]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.07-08.22.00:740][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.23.42:482][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.24.36:483][714]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.07-08.24.36:527][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.04.07-08.24.36:885][714]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2_Auto9B9BFA6214D0731F28EC4C99688153DFD.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame2/MiniGame2_Auto9.umap'
+[2020.04.07-08.24.36:894][714]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MiniGame2/MiniGame2' took 0.397
+[2020.04.07-08.24.36:894][714]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.397
+[2020.04.07-08.34.37:277][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.04.07-08.34.37:277][226]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MiniGame2/MiniGame2' took 0.025
+[2020.04.07-08.44.38:030][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.04.07-08.44.38:030][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MiniGame2/MiniGame2' took 0.025
+[2020.04.07-08.46.51:096][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.04.07-08.46.51:467][745]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2EC8CEC0442083719AE9689B38FF25CD9.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2.umap'
+[2020.04.07-08.46.51:620][745]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2_BuiltData5E1A92934A775915BF3E34B807E04225.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2_BuiltData.uasset'
+[2020.04.07-08.47.55:433][810]LogSlate: Window 'Choose Location for importing the scene content' being destroyed
+[2020.04.07-08.48.13:059][ 11]LogSlate: Window 'Message' being destroyed
+[2020.04.07-08.48.28:867][ 11]LogSlate: Window 'Choose Location for importing the scene content' being destroyed
+[2020.04.07-08.48.28:916][ 11]LogFactory: FactoryCreateFile: World with FbxSceneImportFactory (0 0 ../../../../../../Users/10158/Downloads/Misc_tlupfcrhx_8K_3d_ms/tlupfcrhx_LOD0.fbx)
+[2020.04.07-08.48.28:956][ 11]LogFbx: Loading FBX Scene from ../../../../../../Users/10158/Downloads/Misc_tlupfcrhx_8K_3d_ms/tlupfcrhx_LOD0.fbx
+[2020.04.07-08.48.28:980][ 11]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.07-08.48.28:986][ 11]LogFbx: =================================================
+[2020.04.07-08.48.28:986][ 11]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_00_LOD0] 
+[2020.04.07-08.48.28:986][ 11]LogFbx: 	Total Deformer Count -1962829824.
+[2020.04.07-08.48.28:986][ 11]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_00_LOD0) Type (4).
+[2020.04.07-08.48.28:986][ 11]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_00_LOD0 (Type Mesh).
+[2020.04.07-08.48.28:986][ 11]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_00_LOD0]
+[2020.04.07-08.48.28:986][ 11]LogFbx: =================================================
+[2020.04.07-08.48.28:986][ 11]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_01_LOD0] 
+[2020.04.07-08.48.28:986][ 11]LogFbx: 	Total Deformer Count -1962829824.
+[2020.04.07-08.48.28:986][ 11]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_01_LOD0) Type (4).
+[2020.04.07-08.48.28:986][ 11]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_01_LOD0 (Type Mesh).
+[2020.04.07-08.48.28:986][ 11]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_01_LOD0]
+[2020.04.07-08.48.28:986][ 11]LogFbx: =================================================
+[2020.04.07-08.48.28:986][ 11]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_02_LOD0] 
+[2020.04.07-08.48.28:986][ 11]LogFbx: 	Total Deformer Count -1962829824.
+[2020.04.07-08.48.28:986][ 11]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_02_LOD0) Type (4).
+[2020.04.07-08.48.28:986][ 11]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_02_LOD0 (Type Mesh).
+[2020.04.07-08.48.28:986][ 11]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_02_LOD0]
+[2020.04.07-08.48.28:986][ 11]LogFbx: =================================================
+[2020.04.07-08.48.28:986][ 11]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_03_LOD0] 
+[2020.04.07-08.48.28:986][ 11]LogFbx: 	Total Deformer Count -1962829824.
+[2020.04.07-08.48.28:986][ 11]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_03_LOD0) Type (4).
+[2020.04.07-08.48.28:986][ 11]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_03_LOD0 (Type Mesh).
+[2020.04.07-08.48.28:986][ 11]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_03_LOD0]
+[2020.04.07-08.48.28:986][ 11]LogFbx: =================================================
+[2020.04.07-08.48.28:986][ 11]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_04_LOD0] 
+[2020.04.07-08.48.28:986][ 11]LogFbx: 	Total Deformer Count -1962829824.
+[2020.04.07-08.48.28:986][ 11]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_04_LOD0) Type (4).
+[2020.04.07-08.48.28:986][ 11]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_04_LOD0 (Type Mesh).
+[2020.04.07-08.48.28:986][ 11]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_04_LOD0]
+[2020.04.07-08.48.28:986][ 11]LogFbx: =================================================
+[2020.04.07-08.48.28:986][ 11]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_05_LOD0] 
+[2020.04.07-08.48.28:986][ 11]LogFbx: 	Total Deformer Count -1962829824.
+[2020.04.07-08.48.28:986][ 11]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_05_LOD0) Type (4).
+[2020.04.07-08.48.28:986][ 11]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_05_LOD0 (Type Mesh).
+[2020.04.07-08.48.28:986][ 11]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_05_LOD0]
+[2020.04.07-08.48.28:986][ 11]LogFbx: =================================================
+[2020.04.07-08.48.28:986][ 11]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_06_LOD0] 
+[2020.04.07-08.48.28:986][ 11]LogFbx: 	Total Deformer Count -1962829824.
+[2020.04.07-08.48.28:986][ 11]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_06_LOD0) Type (4).
+[2020.04.07-08.48.28:986][ 11]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_06_LOD0 (Type Mesh).
+[2020.04.07-08.48.28:986][ 11]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_06_LOD0]
+[2020.04.07-08.48.28:987][ 11]LogFbx: =================================================
+[2020.04.07-08.48.28:987][ 11]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_00_LOD0] 
+[2020.04.07-08.48.28:987][ 11]LogFbx: 	Total Deformer Count -1962829824.
+[2020.04.07-08.48.28:987][ 11]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_00_LOD0) Type (4).
+[2020.04.07-08.48.28:987][ 11]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_00_LOD0 (Type Mesh).
+[2020.04.07-08.48.28:987][ 11]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_00_LOD0]
+[2020.04.07-08.48.28:987][ 11]LogFbx: =================================================
+[2020.04.07-08.48.28:987][ 11]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_01_LOD0] 
+[2020.04.07-08.48.28:987][ 11]LogFbx: 	Total Deformer Count -1962829824.
+[2020.04.07-08.48.28:987][ 11]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_01_LOD0) Type (4).
+[2020.04.07-08.48.28:987][ 11]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_01_LOD0 (Type Mesh).
+[2020.04.07-08.48.28:987][ 11]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_01_LOD0]
+[2020.04.07-08.48.28:987][ 11]LogFbx: =================================================
+[2020.04.07-08.48.28:987][ 11]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_02_LOD0] 
+[2020.04.07-08.48.28:987][ 11]LogFbx: 	Total Deformer Count -1962829824.
+[2020.04.07-08.48.28:987][ 11]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_02_LOD0) Type (4).
+[2020.04.07-08.48.28:987][ 11]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_02_LOD0 (Type Mesh).
+[2020.04.07-08.48.28:987][ 11]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_02_LOD0]
+[2020.04.07-08.48.28:987][ 11]LogFbx: =================================================
+[2020.04.07-08.48.28:987][ 11]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_03_LOD0] 
+[2020.04.07-08.48.28:987][ 11]LogFbx: 	Total Deformer Count -1962829824.
+[2020.04.07-08.48.28:987][ 11]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_03_LOD0) Type (4).
+[2020.04.07-08.48.28:987][ 11]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_03_LOD0 (Type Mesh).
+[2020.04.07-08.48.28:987][ 11]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_03_LOD0]
+[2020.04.07-08.48.28:987][ 11]LogFbx: =================================================
+[2020.04.07-08.48.28:987][ 11]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_04_LOD0] 
+[2020.04.07-08.48.28:987][ 11]LogFbx: 	Total Deformer Count -1962829824.
+[2020.04.07-08.48.28:987][ 11]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_04_LOD0) Type (4).
+[2020.04.07-08.48.28:987][ 11]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_04_LOD0 (Type Mesh).
+[2020.04.07-08.48.28:987][ 11]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_04_LOD0]
+[2020.04.07-08.48.28:987][ 11]LogFbx: =================================================
+[2020.04.07-08.48.28:987][ 11]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_05_LOD0] 
+[2020.04.07-08.48.28:987][ 11]LogFbx: 	Total Deformer Count -1962829824.
+[2020.04.07-08.48.28:987][ 11]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_05_LOD0) Type (4).
+[2020.04.07-08.48.28:987][ 11]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_05_LOD0 (Type Mesh).
+[2020.04.07-08.48.28:987][ 11]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_05_LOD0]
+[2020.04.07-08.48.28:987][ 11]LogFbx: =================================================
+[2020.04.07-08.48.28:987][ 11]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_06_LOD0] 
+[2020.04.07-08.48.28:987][ 11]LogFbx: 	Total Deformer Count -1962829824.
+[2020.04.07-08.48.28:987][ 11]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_06_LOD0) Type (4).
+[2020.04.07-08.48.28:987][ 11]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_06_LOD0 (Type Mesh).
+[2020.04.07-08.48.28:987][ 11]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_06_LOD0]
+[2020.04.07-08.48.33:191][ 11]LogSlate: Window 'FBX Scene Import Options' being destroyed
+[2020.04.07-08.50.08:736][ 18]LogSlate: Window 'Choose Location for importing the scene content' being destroyed
+[2020.04.07-08.50.08:771][ 18]LogFactory: FactoryCreateFile: World with FbxSceneImportFactory (0 0 ../../../../../../Users/10158/Downloads/Misc_tlupfcrhx_8K_3d_ms/tlupfcrhx_LOD0.fbx)
+[2020.04.07-08.50.08:781][ 18]LogFbx: Loading FBX Scene from ../../../../../../Users/10158/Downloads/Misc_tlupfcrhx_8K_3d_ms/tlupfcrhx_LOD0.fbx
+[2020.04.07-08.50.08:798][ 18]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.07-08.50.08:798][ 18]LogFbx: =================================================
+[2020.04.07-08.50.08:798][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_00_LOD0] 
+[2020.04.07-08.50.08:798][ 18]LogFbx: 	Total Deformer Count 1661087744.
+[2020.04.07-08.50.08:798][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_00_LOD0) Type (4).
+[2020.04.07-08.50.08:798][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_00_LOD0 (Type Mesh).
+[2020.04.07-08.50.08:798][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_00_LOD0]
+[2020.04.07-08.50.08:798][ 18]LogFbx: =================================================
+[2020.04.07-08.50.08:798][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_01_LOD0] 
+[2020.04.07-08.50.08:798][ 18]LogFbx: 	Total Deformer Count 1661087744.
+[2020.04.07-08.50.08:798][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_01_LOD0) Type (4).
+[2020.04.07-08.50.08:798][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_01_LOD0 (Type Mesh).
+[2020.04.07-08.50.08:798][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_01_LOD0]
+[2020.04.07-08.50.08:798][ 18]LogFbx: =================================================
+[2020.04.07-08.50.08:798][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_02_LOD0] 
+[2020.04.07-08.50.08:798][ 18]LogFbx: 	Total Deformer Count 1661087744.
+[2020.04.07-08.50.08:798][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_02_LOD0) Type (4).
+[2020.04.07-08.50.08:798][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_02_LOD0 (Type Mesh).
+[2020.04.07-08.50.08:798][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_02_LOD0]
+[2020.04.07-08.50.08:798][ 18]LogFbx: =================================================
+[2020.04.07-08.50.08:798][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_03_LOD0] 
+[2020.04.07-08.50.08:798][ 18]LogFbx: 	Total Deformer Count 1661087744.
+[2020.04.07-08.50.08:798][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_03_LOD0) Type (4).
+[2020.04.07-08.50.08:798][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_03_LOD0 (Type Mesh).
+[2020.04.07-08.50.08:798][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_03_LOD0]
+[2020.04.07-08.50.08:798][ 18]LogFbx: =================================================
+[2020.04.07-08.50.08:798][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_04_LOD0] 
+[2020.04.07-08.50.08:798][ 18]LogFbx: 	Total Deformer Count 1661087744.
+[2020.04.07-08.50.08:798][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_04_LOD0) Type (4).
+[2020.04.07-08.50.08:798][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_04_LOD0 (Type Mesh).
+[2020.04.07-08.50.08:798][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_04_LOD0]
+[2020.04.07-08.50.08:798][ 18]LogFbx: =================================================
+[2020.04.07-08.50.08:799][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_05_LOD0] 
+[2020.04.07-08.50.08:799][ 18]LogFbx: 	Total Deformer Count 1661087744.
+[2020.04.07-08.50.08:799][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_05_LOD0) Type (4).
+[2020.04.07-08.50.08:799][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_05_LOD0 (Type Mesh).
+[2020.04.07-08.50.08:799][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_05_LOD0]
+[2020.04.07-08.50.08:799][ 18]LogFbx: =================================================
+[2020.04.07-08.50.08:799][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_06_LOD0] 
+[2020.04.07-08.50.08:799][ 18]LogFbx: 	Total Deformer Count 1661087744.
+[2020.04.07-08.50.08:799][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_06_LOD0) Type (4).
+[2020.04.07-08.50.08:799][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_06_LOD0 (Type Mesh).
+[2020.04.07-08.50.08:799][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_06_LOD0]
+[2020.04.07-08.50.08:799][ 18]LogFbx: =================================================
+[2020.04.07-08.50.08:799][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_00_LOD0] 
+[2020.04.07-08.50.08:799][ 18]LogFbx: 	Total Deformer Count 1661087744.
+[2020.04.07-08.50.08:799][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_00_LOD0) Type (4).
+[2020.04.07-08.50.08:799][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_00_LOD0 (Type Mesh).
+[2020.04.07-08.50.08:799][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_00_LOD0]
+[2020.04.07-08.50.08:799][ 18]LogFbx: =================================================
+[2020.04.07-08.50.08:799][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_01_LOD0] 
+[2020.04.07-08.50.08:799][ 18]LogFbx: 	Total Deformer Count 1661087744.
+[2020.04.07-08.50.08:799][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_01_LOD0) Type (4).
+[2020.04.07-08.50.08:799][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_01_LOD0 (Type Mesh).
+[2020.04.07-08.50.08:799][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_01_LOD0]
+[2020.04.07-08.50.08:799][ 18]LogFbx: =================================================
+[2020.04.07-08.50.08:799][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_02_LOD0] 
+[2020.04.07-08.50.08:799][ 18]LogFbx: 	Total Deformer Count 1661087744.
+[2020.04.07-08.50.08:799][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_02_LOD0) Type (4).
+[2020.04.07-08.50.08:799][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_02_LOD0 (Type Mesh).
+[2020.04.07-08.50.08:799][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_02_LOD0]
+[2020.04.07-08.50.08:799][ 18]LogFbx: =================================================
+[2020.04.07-08.50.08:799][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_03_LOD0] 
+[2020.04.07-08.50.08:799][ 18]LogFbx: 	Total Deformer Count 1661087744.
+[2020.04.07-08.50.08:799][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_03_LOD0) Type (4).
+[2020.04.07-08.50.08:799][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_03_LOD0 (Type Mesh).
+[2020.04.07-08.50.08:799][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_03_LOD0]
+[2020.04.07-08.50.08:799][ 18]LogFbx: =================================================
+[2020.04.07-08.50.08:799][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_04_LOD0] 
+[2020.04.07-08.50.08:799][ 18]LogFbx: 	Total Deformer Count 1661087744.
+[2020.04.07-08.50.08:799][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_04_LOD0) Type (4).
+[2020.04.07-08.50.08:799][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_04_LOD0 (Type Mesh).
+[2020.04.07-08.50.08:799][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_04_LOD0]
+[2020.04.07-08.50.08:799][ 18]LogFbx: =================================================
+[2020.04.07-08.50.08:799][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_05_LOD0] 
+[2020.04.07-08.50.08:799][ 18]LogFbx: 	Total Deformer Count 1661087744.
+[2020.04.07-08.50.08:799][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_05_LOD0) Type (4).
+[2020.04.07-08.50.08:799][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_05_LOD0 (Type Mesh).
+[2020.04.07-08.50.08:799][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_05_LOD0]
+[2020.04.07-08.50.08:799][ 18]LogFbx: =================================================
+[2020.04.07-08.50.08:799][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_06_LOD0] 
+[2020.04.07-08.50.08:799][ 18]LogFbx: 	Total Deformer Count 1661087744.
+[2020.04.07-08.50.08:799][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_06_LOD0) Type (4).
+[2020.04.07-08.50.08:799][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_06_LOD0 (Type Mesh).
+[2020.04.07-08.50.08:799][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_06_LOD0]
+[2020.04.07-08.50.14:717][ 18]LogSlate: Window 'FBX Scene Import Options' being destroyed
+[2020.04.07-08.50.14:777][ 18]LogFbx: =================================================
+[2020.04.07-08.50.14:777][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_00_LOD0] 
+[2020.04.07-08.50.14:777][ 18]LogFbx: 	Total Deformer Count -1283229440.
+[2020.04.07-08.50.14:777][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_00_LOD0) Type (4).
+[2020.04.07-08.50.14:777][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_00_LOD0 (Type Mesh).
+[2020.04.07-08.50.14:777][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_00_LOD0]
+[2020.04.07-08.50.14:777][ 18]LogFbx: =================================================
+[2020.04.07-08.50.14:777][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_01_LOD0] 
+[2020.04.07-08.50.14:777][ 18]LogFbx: 	Total Deformer Count -1283229440.
+[2020.04.07-08.50.14:777][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_01_LOD0) Type (4).
+[2020.04.07-08.50.14:777][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_01_LOD0 (Type Mesh).
+[2020.04.07-08.50.14:777][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_01_LOD0]
+[2020.04.07-08.50.14:777][ 18]LogFbx: =================================================
+[2020.04.07-08.50.14:777][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_02_LOD0] 
+[2020.04.07-08.50.14:777][ 18]LogFbx: 	Total Deformer Count -1283229440.
+[2020.04.07-08.50.14:777][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_02_LOD0) Type (4).
+[2020.04.07-08.50.14:777][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_02_LOD0 (Type Mesh).
+[2020.04.07-08.50.14:777][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_02_LOD0]
+[2020.04.07-08.50.14:777][ 18]LogFbx: =================================================
+[2020.04.07-08.50.14:777][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_03_LOD0] 
+[2020.04.07-08.50.14:777][ 18]LogFbx: 	Total Deformer Count -1283229440.
+[2020.04.07-08.50.14:777][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_03_LOD0) Type (4).
+[2020.04.07-08.50.14:777][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_03_LOD0 (Type Mesh).
+[2020.04.07-08.50.14:777][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_03_LOD0]
+[2020.04.07-08.50.14:777][ 18]LogFbx: =================================================
+[2020.04.07-08.50.14:777][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_04_LOD0] 
+[2020.04.07-08.50.14:777][ 18]LogFbx: 	Total Deformer Count -1283229440.
+[2020.04.07-08.50.14:777][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_04_LOD0) Type (4).
+[2020.04.07-08.50.14:777][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_04_LOD0 (Type Mesh).
+[2020.04.07-08.50.14:777][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_04_LOD0]
+[2020.04.07-08.50.14:777][ 18]LogFbx: =================================================
+[2020.04.07-08.50.14:777][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_05_LOD0] 
+[2020.04.07-08.50.14:777][ 18]LogFbx: 	Total Deformer Count -1283229440.
+[2020.04.07-08.50.14:777][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_05_LOD0) Type (4).
+[2020.04.07-08.50.14:777][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_05_LOD0 (Type Mesh).
+[2020.04.07-08.50.14:777][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_05_LOD0]
+[2020.04.07-08.50.14:777][ 18]LogFbx: =================================================
+[2020.04.07-08.50.14:777][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_06_LOD0] 
+[2020.04.07-08.50.14:778][ 18]LogFbx: 	Total Deformer Count -1283229440.
+[2020.04.07-08.50.14:778][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_06_LOD0) Type (4).
+[2020.04.07-08.50.14:778][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_06_LOD0 (Type Mesh).
+[2020.04.07-08.50.14:778][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_06_LOD0]
+[2020.04.07-08.50.14:778][ 18]LogFbx: =================================================
+[2020.04.07-08.50.14:778][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_00_LOD0] 
+[2020.04.07-08.50.14:778][ 18]LogFbx: 	Total Deformer Count -1283229440.
+[2020.04.07-08.50.14:778][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_00_LOD0) Type (4).
+[2020.04.07-08.50.14:778][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_00_LOD0 (Type Mesh).
+[2020.04.07-08.50.14:778][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_00_LOD0]
+[2020.04.07-08.50.14:778][ 18]LogFbx: =================================================
+[2020.04.07-08.50.14:778][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_01_LOD0] 
+[2020.04.07-08.50.14:778][ 18]LogFbx: 	Total Deformer Count -1283229440.
+[2020.04.07-08.50.14:778][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_01_LOD0) Type (4).
+[2020.04.07-08.50.14:778][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_01_LOD0 (Type Mesh).
+[2020.04.07-08.50.14:778][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_01_LOD0]
+[2020.04.07-08.50.14:778][ 18]LogFbx: =================================================
+[2020.04.07-08.50.14:778][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_02_LOD0] 
+[2020.04.07-08.50.14:778][ 18]LogFbx: 	Total Deformer Count -1283229440.
+[2020.04.07-08.50.14:778][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_02_LOD0) Type (4).
+[2020.04.07-08.50.14:778][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_02_LOD0 (Type Mesh).
+[2020.04.07-08.50.14:778][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_02_LOD0]
+[2020.04.07-08.50.14:778][ 18]LogFbx: =================================================
+[2020.04.07-08.50.14:778][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_03_LOD0] 
+[2020.04.07-08.50.14:778][ 18]LogFbx: 	Total Deformer Count -1283229440.
+[2020.04.07-08.50.14:778][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_03_LOD0) Type (4).
+[2020.04.07-08.50.14:778][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_03_LOD0 (Type Mesh).
+[2020.04.07-08.50.14:778][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_03_LOD0]
+[2020.04.07-08.50.14:778][ 18]LogFbx: =================================================
+[2020.04.07-08.50.14:778][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_04_LOD0] 
+[2020.04.07-08.50.14:778][ 18]LogFbx: 	Total Deformer Count -1283229440.
+[2020.04.07-08.50.14:778][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_04_LOD0) Type (4).
+[2020.04.07-08.50.14:778][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_04_LOD0 (Type Mesh).
+[2020.04.07-08.50.14:778][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_04_LOD0]
+[2020.04.07-08.50.14:778][ 18]LogFbx: =================================================
+[2020.04.07-08.50.14:778][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_05_LOD0] 
+[2020.04.07-08.50.14:778][ 18]LogFbx: 	Total Deformer Count -1283229440.
+[2020.04.07-08.50.14:778][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_05_LOD0) Type (4).
+[2020.04.07-08.50.14:778][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_05_LOD0 (Type Mesh).
+[2020.04.07-08.50.14:778][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_05_LOD0]
+[2020.04.07-08.50.14:778][ 18]LogFbx: =================================================
+[2020.04.07-08.50.14:778][ 18]LogFbx: Dumping Node START [Aset_misc__M_tlupfcrhx_06_LOD0] 
+[2020.04.07-08.50.14:778][ 18]LogFbx: 	Total Deformer Count -1283229440.
+[2020.04.07-08.50.14:778][ 18]LogFbx: 	Attribute (Aset_misc__M_tlupfcrhx_06_LOD0) Type (4).
+[2020.04.07-08.50.14:778][ 18]LogFbx: 		[Node Attribute Child 1] Aset_misc__M_tlupfcrhx_06_LOD0 (Type Mesh).
+[2020.04.07-08.50.14:778][ 18]LogFbx: Dumping Node END [Aset_misc__M_tlupfcrhx_06_LOD0]
+[2020.04.07-08.50.14:818][ 18]LogStaticMesh: Building static mesh Aset_misc__M_tlupfcrhx_00_LOD0...
+[2020.04.07-08.50.14:858][ 18]LogStaticMesh: Built static mesh [0.04s] /Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_00_LOD0.Aset_misc__M_tlupfcrhx_00_LOD0
+[2020.04.07-08.50.14:894][ 18]LogStaticMesh: Building static mesh Aset_misc__M_tlupfcrhx_01_LOD0...
+[2020.04.07-08.50.14:912][ 18]LogStaticMesh: Built static mesh [0.02s] /Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_01_LOD0.Aset_misc__M_tlupfcrhx_01_LOD0
+[2020.04.07-08.50.14:960][ 18]LogStaticMesh: Building static mesh Aset_misc__M_tlupfcrhx_02_LOD0...
+[2020.04.07-08.50.15:034][ 18]LogStaticMesh: Built static mesh [0.07s] /Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_02_LOD0.Aset_misc__M_tlupfcrhx_02_LOD0
+[2020.04.07-08.50.15:077][ 18]LogStaticMesh: Building static mesh Aset_misc__M_tlupfcrhx_03_LOD0...
+[2020.04.07-08.50.15:095][ 18]LogStaticMesh: Built static mesh [0.02s] /Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_03_LOD0.Aset_misc__M_tlupfcrhx_03_LOD0
+[2020.04.07-08.50.15:158][ 18]LogStaticMesh: Building static mesh Aset_misc__M_tlupfcrhx_04_LOD0...
+[2020.04.07-08.50.15:247][ 18]LogStaticMesh: Built static mesh [0.09s] /Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_04_LOD0.Aset_misc__M_tlupfcrhx_04_LOD0
+[2020.04.07-08.50.15:263][ 18]LogStaticMesh: Warning: Aset_misc__M_tlupfcrhx_04_LOD0 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.07-08.50.15:263][ 18]LogStaticMesh: Warning: Aset_misc__M_tlupfcrhx_04_LOD0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.07-08.50.15:297][ 18]LogStaticMesh: Building static mesh Aset_misc__M_tlupfcrhx_05_LOD0...
+[2020.04.07-08.50.15:324][ 18]LogStaticMesh: Built static mesh [0.03s] /Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_05_LOD0.Aset_misc__M_tlupfcrhx_05_LOD0
+[2020.04.07-08.50.15:354][ 18]LogStaticMesh: Building static mesh Aset_misc__M_tlupfcrhx_06_LOD0...
+[2020.04.07-08.50.15:383][ 18]LogStaticMesh: Built static mesh [0.03s] /Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_06_LOD0.Aset_misc__M_tlupfcrhx_06_LOD0
+[2020.04.07-08.50.15:519][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.04.07-08.50.15:537][ 18]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MiniGame2/ImportedAssests/FbxScene_tlupfcrhx_LOD0.FbxScene_tlupfcrhx_LOD0
+[2020.04.07-08.50.15:845][ 18]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 121 classes and 0 folders.
+[2020.04.07-08.50.16:847][ 18]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2020.04.07-08.50.16:881][ 18]LogMaterial: Display: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2020.04.07-08.50.17:074][ 18]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.07-08.50.17:074][ 18]FBXImport: Warning: Aset_misc__M_tlupfcrhx_04_LOD0 has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.07-08.50.17:074][ 18]FBXImport: Warning: Aset_misc__M_tlupfcrhx_04_LOD0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.07-08.51.02:880][329]LogEditorTransaction: Undo Modify Component(s)
+[2020.04.07-08.51.36:059][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.51.44:744][742]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/FbxScene_tlupfcrhx_LOD0ED0D084A486BFC0FFCEBDABE10A0DD57.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/ImportedAssests/FbxScene_tlupfcrhx_LOD0.uasset'
+[2020.04.07-08.51.59:295][597]LogEditorViewport: Clicking on Actor (LMB): FbxScene_tlupfcrhx_LOD0_C (FbxScene_tlupfcrhx_LOD0)
+[2020.04.07-08.52.01:975][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.52.07:918][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.04.07-08.52.11:791][110]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.07-08.52.11:808][110]LogSlate: Window 'FbxScene_tlupfcrhx_LOD0' being destroyed
+[2020.04.07-08.52.11:886][110]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MiniGame2/ImportedAssests/FbxScene_tlupfcrhx_LOD0.FbxScene_tlupfcrhx_LOD0
+[2020.04.07-08.52.12:947][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.04.07-08.52.13:208][110]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.04.07-08.52.13:251][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.04.07-08.52.13:283][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.04.07-08.52.51:701][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.52.52:107][390]LogActorFactory: Actor Factory created Aset_misc__M_tlupfcrhx_00_LOD0
+[2020.04.07-08.52.53:216][455]LogActorFactory: Actor Factory created Aset_misc__M_tlupfcrhx_00_LOD0
+[2020.04.07-08.53.06:307][232]Cmd: TRANSACTION UNDO
+[2020.04.07-08.53.06:307][232]LogEditorTransaction: Undo Move Actors
+[2020.04.07-08.53.06:757][258]Cmd: TRANSACTION UNDO
+[2020.04.07-08.53.06:757][258]LogEditorTransaction: Undo Create Actors
+[2020.04.07-08.53.12:910][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.53.45:401][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.53.45:922][600]LogActorFactory: Actor Factory created Aset_misc__M_tlupfcrhx_01_LOD0
+[2020.04.07-08.53.50:030][846]LogActorFactory: Actor Factory created Aset_misc__M_tlupfcrhx_01_LOD0
+[2020.04.07-08.54.15:331][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.54.36:509][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD0)
+[2020.04.07-08.54.40:183][843]Cmd: DELETE
+[2020.04.07-08.54.40:183][843]Cmd: ACTOR DELETE
+[2020.04.07-08.54.40:191][843]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.07-08.54.40:232][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.04.07-08.54.40:233][843]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.04.07-08.54.49:074][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.54.49:376][390]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_04_LOD0.Aset_misc__M_tlupfcrhx_04_LOD0
+[2020.04.07-08.54.49:386][390]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2020.04.07-08.54.49:639][390]LogMaterial: Display: Missing cached shader map for material M_SkyBox, compiling. 
+[2020.04.07-08.55.05:135][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.55.05:202][256]LogSlate: Window 'Aset_misc__M_tlupfcrhx_04_LOD0' being destroyed
+[2020.04.07-08.55.05:208][256]LogSlate: Window 'Aset_misc__M_tlupfcrhx_04_LOD0' being destroyed
+[2020.04.07-08.55.12:184][640]LogSlate: Window 'Message Log' being destroyed
+[2020.04.07-08.55.12:188][640]LogSlate: Window 'Message Log' being destroyed
+[2020.04.07-08.55.19:037][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.55.19:395][ 72]LogActorFactory: Actor Factory created Aset_misc__M_tlupfcrhx_04_LOD0
+[2020.04.07-08.55.20:690][149]LogActorFactory: Actor Factory created Aset_misc__M_tlupfcrhx_04_LOD0
+[2020.04.07-08.55.25:610][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.55.53:194][ 94]Cmd: EDIT COPY
+[2020.04.07-08.55.53:445][109]Cmd: EDIT PASTE
+[2020.04.07-08.55.58:779][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.56.04:017][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_04_LOD0)
+[2020.04.07-08.56.05:803][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.56.21:632][790]LogActorFactory: Actor Factory created Aset_misc__M_tlupfcrhx_05_LOD0
+[2020.04.07-08.56.25:163][998]LogActorFactory: Actor Factory created Aset_misc__M_tlupfcrhx_05_LOD0
+[2020.04.07-08.56.28:994][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.56.41:547][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.56.56:838][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_04_LOD0)
+[2020.04.07-08.57.01:698][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD0)
+[2020.04.07-08.57.03:487][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.57.19:566][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.57.33:558][ 82]Cmd: EDIT COPY
+[2020.04.07-08.57.33:877][101]Cmd: EDIT PASTE
+[2020.04.07-08.57.40:956][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_04_LOD1)
+[2020.04.07-08.57.42:487][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD1)
+[2020.04.07-08.57.53:710][284]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD0)
+[2020.04.07-08.57.57:819][528]Cmd: EDIT COPY
+[2020.04.07-08.57.58:155][548]Cmd: EDIT PASTE
+[2020.04.07-08.58.09:289][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.59.11:756][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.59.12:310][992]LogActorFactory: Actor Factory created Aset_misc__M_tlupfcrhx_00_LOD0
+[2020.04.07-08.59.16:421][238]LogActorFactory: Actor Factory created Aset_misc__M_tlupfcrhx_00_LOD0
+[2020.04.07-08.59.25:768][796]Cmd: TRANSACTION UNDO
+[2020.04.07-08.59.25:768][796]LogEditorTransaction: Undo Move Actors
+[2020.04.07-08.59.26:155][819]Cmd: TRANSACTION UNDO
+[2020.04.07-08.59.26:155][819]LogEditorTransaction: Undo Create Actors
+[2020.04.07-08.59.28:525][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.59.28:897][977]LogActorFactory: Actor Factory created Aset_misc__M_tlupfcrhx_03_LOD0
+[2020.04.07-08.59.32:276][179]LogActorFactory: Actor Factory created Aset_misc__M_tlupfcrhx_03_LOD0
+[2020.04.07-08.59.41:527][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-08.59.58:099][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD2)
+[2020.04.07-09.00.01:233][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_03_LOD0)
+[2020.04.07-09.00.04:049][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.00.11:502][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD2)
+[2020.04.07-09.00.15:102][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_03_LOD0)
+[2020.04.07-09.00.16:568][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD2)
+[2020.04.07-09.00.21:381][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_03_LOD0)
+[2020.04.07-09.00.23:124][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD2)
+[2020.04.07-09.00.24:473][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_03_LOD0)
+[2020.04.07-09.00.25:975][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.00.55:350][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.01.26:511][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD2)
+[2020.04.07-09.01.31:023][ 11]Cmd: EDIT COPY
+[2020.04.07-09.01.31:347][ 30]Cmd: EDIT PASTE
+[2020.04.07-09.01.50:979][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_03_LOD0)
+[2020.04.07-09.02.03:442][949]Cmd: EDIT COPY
+[2020.04.07-09.02.03:676][963]Cmd: EDIT PASTE
+[2020.04.07-09.02.11:563][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.02.15:798][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD5)
+[2020.04.07-09.02.20:197][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD4)
+[2020.04.07-09.02.21:514][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD5)
+[2020.04.07-09.02.26:469][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD3)
+[2020.04.07-09.02.30:345][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD1)
+[2020.04.07-09.02.33:237][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_04_LOD1)
+[2020.04.07-09.02.36:104][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD1)
+[2020.04.07-09.02.38:239][ 17]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD3)
+[2020.04.07-09.02.39:152][ 70]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD5)
+[2020.04.07-09.02.41:174][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.03.02:988][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.03.03:359][515]LogActorFactory: Actor Factory created Aset_misc__M_tlupfcrhx_01_LOD0
+[2020.04.07-09.03.07:051][736]LogActorFactory: Actor Factory created Aset_misc__M_tlupfcrhx_01_LOD0
+[2020.04.07-09.03.18:710][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.03.33:719][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.04.02:592][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.04.15:980][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD5)
+[2020.04.07-09.04.18:213][998]Cmd: EDIT COPY
+[2020.04.07-09.04.18:447][ 12]Cmd: EDIT PASTE
+[2020.04.07-09.04.25:264][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.04.53:792][322]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.07-09.05.56:774][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD0)
+[2020.04.07-09.06.00:428][302]Cmd: EDIT COPY
+[2020.04.07-09.06.00:665][316]Cmd: EDIT PASTE
+[2020.04.07-09.06.27:214][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.06.42:146][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.07.05:578][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.07.34:934][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.07.35:311][987]LogActorFactory: Actor Factory created Aset_misc__M_tlupfcrhx_02_LOD0
+[2020.04.07-09.07.38:090][153]LogActorFactory: Actor Factory created Aset_misc__M_tlupfcrhx_02_LOD0
+[2020.04.07-09.07.43:345][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD1)
+[2020.04.07-09.07.44:223][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD0)
+[2020.04.07-09.07.47:571][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.08.12:520][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_02_LOD0)
+[2020.04.07-09.08.16:851][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.08.22:737][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD0)
+[2020.04.07-09.08.23:569][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD1)
+[2020.04.07-09.08.25:785][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_02_LOD0)
+[2020.04.07-09.08.27:397][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.08.36:585][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD1)
+[2020.04.07-09.08.37:916][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD0)
+[2020.04.07-09.08.38:967][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD1)
+[2020.04.07-09.08.41:101][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_02_LOD0)
+[2020.04.07-09.08.43:046][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD1)
+[2020.04.07-09.08.44:829][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_02_LOD0)
+[2020.04.07-09.08.46:796][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.09.00:417][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.09.23:957][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.09.52:393][185]Cmd: DELETE
+[2020.04.07-09.09.52:393][185]Cmd: ACTOR DELETE
+[2020.04.07-09.09.52:400][185]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.07-09.09.52:480][185]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2020.04.07-09.09.52:480][185]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2020.04.07-09.09.54:172][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD1)
+[2020.04.07-09.09.55:395][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD0)
+[2020.04.07-09.09.59:629][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD1)
+[2020.04.07-09.10.04:060][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD6)
+[2020.04.07-09.10.08:128][116]Cmd: EDIT COPY
+[2020.04.07-09.10.08:445][135]Cmd: EDIT PASTE
+[2020.04.07-09.10.15:985][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.10.27:090][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD1)
+[2020.04.07-09.10.28:543][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD7)
+[2020.04.07-09.10.31:256][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD1)
+[2020.04.07-09.10.32:873][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD7)
+[2020.04.07-09.10.34:383][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.10.49:736][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD1)
+[2020.04.07-09.10.56:076][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD0)
+[2020.04.07-09.11.08:113][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.11.13:882][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD7)
+[2020.04.07-09.11.28:554][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD1)
+[2020.04.07-09.11.33:720][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.11.50:391][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.12.10:399][429]LogActorFactory: Actor Factory created Aset_misc__M_tlupfcrhx_02_LOD0
+[2020.04.07-09.12.20:877][ 57]LogActorFactory: Actor Factory created Aset_misc__M_tlupfcrhx_02_LOD0
+[2020.04.07-09.12.24:338][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD1)
+[2020.04.07-09.12.26:537][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_02_LOD0)
+[2020.04.07-09.12.28:486][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.13.01:302][476]Cmd: TRANSACTION UNDO
+[2020.04.07-09.13.01:302][476]LogEditorTransaction: Undo Move Actors
+[2020.04.07-09.13.01:889][511]Cmd: TRANSACTION UNDO
+[2020.04.07-09.13.01:889][511]LogEditorTransaction: Undo Move Actors
+[2020.04.07-09.13.02:239][532]Cmd: TRANSACTION UNDO
+[2020.04.07-09.13.02:239][532]LogEditorTransaction: Undo Set Location
+[2020.04.07-09.13.02:872][570]Cmd: TRANSACTION UNDO
+[2020.04.07-09.13.02:873][570]LogEditorTransaction: Undo Set Location
+[2020.04.07-09.13.03:257][593]Cmd: TRANSACTION UNDO
+[2020.04.07-09.13.03:257][593]LogEditorTransaction: Undo Set Location
+[2020.04.07-09.13.03:623][615]Cmd: TRANSACTION UNDO
+[2020.04.07-09.13.03:623][615]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.07-09.13.04:260][651]Cmd: TRANSACTION UNDO
+[2020.04.07-09.13.04:260][651]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.07-09.13.04:712][677]Cmd: TRANSACTION UNDO
+[2020.04.07-09.13.04:712][677]LogEditorTransaction: Undo Create Actors
+[2020.04.07-09.13.09:248][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD1)
+[2020.04.07-09.13.16:388][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD6)
+[2020.04.07-09.13.17:492][431]Cmd: EDIT COPY
+[2020.04.07-09.13.17:726][445]Cmd: EDIT PASTE
+[2020.04.07-09.13.33:018][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.14.54:479][290]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.07-09.15.02:864][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.07-09.15.02:953][789]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.04.07-09.15.03:387][789]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2_Auto057FA8AF0407B4E8A0931CD9091CD2AEF.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame2/MiniGame2_Auto0.umap'
+[2020.04.07-09.15.03:394][789]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MiniGame2/MiniGame2' took 0.496
+[2020.04.07-09.15.03:394][789]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.496
+[2020.04.07-09.15.03:396][789]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MiniGame2/ImportedAssests/tlupfcrhx_LOD0] ([1] browsable assets)...
+[2020.04.07-09.15.03:396][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame2/ImportedAssests/tlupfcrhx_LOD0]
+[2020.04.07-09.15.03:406][789]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/tlupfcrhx_LOD0_Auto0A9BD462049F0865C9D8B42B442F32609.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame2/ImportedAssests/tlupfcrhx_LOD0_Auto0.uasset'
+[2020.04.07-09.15.03:408][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_00_LOD0] ([1] browsable assets)...
+[2020.04.07-09.15.03:421][789]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_00_LOD0.Aset_misc__M_tlupfcrhx_00_LOD0]
+[2020.04.07-09.15.03:421][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_00_LOD0]
+[2020.04.07-09.15.03:448][789]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Aset_misc__M_tlupfcrhx_00_LOD0_A5411F9454714DE2FE4616DBDB253F304.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_00_LOD0_Auto0.uasset'
+[2020.04.07-09.15.03:450][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_01_LOD0] ([1] browsable assets)...
+[2020.04.07-09.15.03:463][789]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_01_LOD0.Aset_misc__M_tlupfcrhx_01_LOD0]
+[2020.04.07-09.15.03:463][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_01_LOD0]
+[2020.04.07-09.15.03:486][789]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Aset_misc__M_tlupfcrhx_01_LOD0_AEA204A8E4DBE63487FA4A8B450AE1496.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_01_LOD0_Auto0.uasset'
+[2020.04.07-09.15.03:488][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_02_LOD0] ([1] browsable assets)...
+[2020.04.07-09.15.03:504][789]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_02_LOD0.Aset_misc__M_tlupfcrhx_02_LOD0]
+[2020.04.07-09.15.03:504][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_02_LOD0]
+[2020.04.07-09.15.03:535][789]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Aset_misc__M_tlupfcrhx_02_LOD0_A5FB0B4784B371492E2B179ACA5A9932E.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_02_LOD0_Auto0.uasset'
+[2020.04.07-09.15.03:538][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_03_LOD0] ([1] browsable assets)...
+[2020.04.07-09.15.03:551][789]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_03_LOD0.Aset_misc__M_tlupfcrhx_03_LOD0]
+[2020.04.07-09.15.03:551][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_03_LOD0]
+[2020.04.07-09.15.03:574][789]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Aset_misc__M_tlupfcrhx_03_LOD0_A951546494DAED5F81AE698BF4BB584F7.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_03_LOD0_Auto0.uasset'
+[2020.04.07-09.15.03:576][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_04_LOD0] ([1] browsable assets)...
+[2020.04.07-09.15.03:591][789]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_04_LOD0.Aset_misc__M_tlupfcrhx_04_LOD0]
+[2020.04.07-09.15.03:591][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_04_LOD0]
+[2020.04.07-09.15.03:625][789]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Aset_misc__M_tlupfcrhx_04_LOD0_AF363BB974331FDF1829B62B318AB408E.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_04_LOD0_Auto0.uasset'
+[2020.04.07-09.15.03:626][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_05_LOD0] ([1] browsable assets)...
+[2020.04.07-09.15.03:645][789]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_05_LOD0.Aset_misc__M_tlupfcrhx_05_LOD0]
+[2020.04.07-09.15.03:645][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_05_LOD0]
+[2020.04.07-09.15.03:668][789]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Aset_misc__M_tlupfcrhx_05_LOD0_ADAD3E8A54B3BA48372086FA6179A5017.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_05_LOD0_Auto0.uasset'
+[2020.04.07-09.15.03:670][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_06_LOD0] ([1] browsable assets)...
+[2020.04.07-09.15.03:683][789]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_06_LOD0.Aset_misc__M_tlupfcrhx_06_LOD0]
+[2020.04.07-09.15.03:683][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_06_LOD0]
+[2020.04.07-09.15.03:707][789]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Aset_misc__M_tlupfcrhx_06_LOD0_A997F5FBF4857A4FB6BFAECA07A5D619B.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame2/ImportedAssests/Aset_misc__M_tlupfcrhx_06_LOD0_Auto0.uasset'
+[2020.04.07-09.15.03:709][789]LogFileHelpers: Auto-saving content packages took 0.314
+[2020.04.07-09.15.05:619][901]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD1)
+[2020.04.07-09.15.07:048][984]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD7)
+[2020.04.07-09.15.08:192][ 50]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_01_LOD0)
+[2020.04.07-09.15.09:154][105]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD6)
+[2020.04.07-09.15.10:456][181]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_03_LOD0)
+[2020.04.07-09.15.11:226][225]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_03_LOD1)
+[2020.04.07-09.15.28:795][276]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD4)
+[2020.04.07-09.15.29:818][335]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD5)
+[2020.04.07-09.15.32:460][491]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD2)
+[2020.04.07-09.15.33:321][541]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD3)
+[2020.04.07-09.15.37:602][796]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_04_LOD0)
+[2020.04.07-09.15.39:710][920]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD0)
+[2020.04.07-09.15.44:727][217]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD1)
+[2020.04.07-09.15.46:164][301]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_04_LOD1)
+[2020.04.07-09.15.55:958][886]Cmd: EDIT COPY
+[2020.04.07-09.15.56:227][902]Cmd: EDIT PASTE
+[2020.04.07-09.16.10:424][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.16.41:930][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_04_LOD1)
+[2020.04.07-09.16.48:984][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_04_LOD3)
+[2020.04.07-09.16.55:898][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.17.07:368][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD14)
+[2020.04.07-09.17.08:573][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_05_LOD13)
+[2020.04.07-09.17.09:486][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_03_LOD3)
+[2020.04.07-09.17.11:622][407]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Aset_misc__M_tlupfcrhx_03_LOD2)
+[2020.04.07-09.17.13:825][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-09.19.00:914][166]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.07-09.19.02:794][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.04.07-09.19.03:161][273]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2F41DCA4C494FC8792067378270132A1E.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2.umap'
+[2020.04.07-09.19.03:310][273]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2_BuiltData9CD687D8496028F5BA9760AE0CC8709B.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2_BuiltData.uasset'

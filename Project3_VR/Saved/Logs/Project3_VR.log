@@ -1004,3 +1004,362 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.07-04.58.19:671][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.04.07-04.58.19:815][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
 [2020.04.07-04.58.20:160][751]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2-22937E2384C1E8695528EC08848BACF65.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2-2.umap'
+[2020.04.07-05.01.42:578][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.01.45:368][563]LogAssetEditorManager: Opening Asset editor for World /Game/MiniGame2/MiniGame2.MiniGame2
+[2020.04.07-05.01.45:404][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.04.07-05.01.45:406][563]Cmd: MAP LOAD FILE="../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.07-05.01.45:406][563]LightingResults: New page: Lighting Build
+[2020.04.07-05.01.45:406][563]LoadErrors: New page: Loading map: MiniGame2.umap
+[2020.04.07-05.01.45:408][563]MapCheck: New page: Map Check
+[2020.04.07-05.01.45:408][563]LightingResults: New page: Lighting Build
+[2020.04.07-05.01.45:436][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.04.07-05.01.45:446][563]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.07-05.01.45:475][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.04.07-05.01.45:504][563]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.07-05.01.45:504][563]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.168ms to complete.
+[2020.04.07-05.01.45:505][563]LogFileHelpers: Loading map 'MiniGame2' took 0.099
+[2020.04.07-05.02.41:450][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.03.39:318][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.03.39:738][122]LogAIModule: Creating AISystem for world MiniGame2-2
+[2020.04.07-05.03.39:743][122]LogAssetEditorManager: Opening Asset editor for World /Game/MiniGame2/MiniGame2-2.MiniGame2-2
+[2020.04.07-05.03.39:769][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.04.07-05.03.39:771][122]Cmd: MAP LOAD FILE="../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2-2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.07-05.03.39:771][122]LightingResults: New page: Lighting Build
+[2020.04.07-05.03.39:772][122]LoadErrors: New page: Loading map: MiniGame2-2.umap
+[2020.04.07-05.03.39:776][122]MapCheck: New page: Map Check
+[2020.04.07-05.03.39:776][122]LightingResults: New page: Lighting Build
+[2020.04.07-05.03.39:806][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.04.07-05.03.39:811][122]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.07-05.03.39:838][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.04.07-05.03.39:866][122]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.07-05.03.39:866][122]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2020.04.07-05.03.39:866][122]LogFileHelpers: Loading map 'MiniGame2-2' took 0.096
+[2020.04.07-05.03.50:376][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.04.11:367][999]Cmd: EDIT COPY
+[2020.04.07-05.04.12:116][ 44]Cmd: EDIT PASTE
+[2020.04.07-05.04.19:201][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.04.40:049][712]Cmd: EDIT COPY
+[2020.04.07-05.04.40:399][733]Cmd: EDIT PASTE
+[2020.04.07-05.04.46:211][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.05.05:791][252]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.04.07-05.05.08:550][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.06.19:930][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.06.31:134][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.06.53:764][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.07.25:812][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.07.50:032][ 83]Cmd: TRANSACTION UNDO
+[2020.04.07-05.07.50:033][ 83]LogEditorTransaction: Undo Move Actors
+[2020.04.07-05.07.50:706][121]Cmd: TRANSACTION UNDO
+[2020.04.07-05.07.50:706][121]LogEditorTransaction: Undo Move Actors
+[2020.04.07-05.07.51:092][144]Cmd: TRANSACTION UNDO
+[2020.04.07-05.07.51:092][144]LogEditorTransaction: Undo Move Actors
+[2020.04.07-05.07.51:438][164]Cmd: TRANSACTION UNDO
+[2020.04.07-05.07.51:438][164]LogEditorTransaction: Undo Set Scale
+[2020.04.07-05.07.51:806][186]Cmd: TRANSACTION UNDO
+[2020.04.07-05.07.51:806][186]LogEditorTransaction: Undo Set Scale
+[2020.04.07-05.07.54:626][355]Cmd: TRANSACTION REDO
+[2020.04.07-05.07.54:626][355]LogEditorTransaction: Redo Set Scale
+[2020.04.07-05.08.02:077][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.08.14:644][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.08.37:422][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.08.43:222][251]LogEditorViewport: Clicking on Actor (LMB): LaserCube_C (LaserCube)
+[2020.04.07-05.09.00:160][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.10.03:179][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.10.13:459][622]Cmd: TRANSACTION UNDO
+[2020.04.07-05.10.13:459][622]LogEditorTransaction: Undo Create Actors
+[2020.04.07-05.10.21:184][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.10.28:356][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.10.37:824][ 58]LogEditorViewport: Clicking on Actor (LMB): PuzzleEnd_C (PuzzleEnd)
+[2020.04.07-05.10.38:865][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.10.45:772][529]Cmd: DELETE
+[2020.04.07-05.10.45:773][529]Cmd: ACTOR DELETE
+[2020.04.07-05.10.45:783][529]LogEditorActor: Deleted Actor: Brush
+[2020.04.07-05.10.45:813][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.04.07-05.10.45:827][529]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2020.04.07-05.10.50:782][825]LogEditorViewport: Clicking on Actor (LMB): PuzzleEnd_C (PuzzleEnd)
+[2020.04.07-05.10.54:173][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.12.26:451][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.12.26:654][546]LogActorFactory: Actor Factory created Cube
+[2020.04.07-05.12.29:290][699]LogActorFactory: Actor Factory created Cube
+[2020.04.07-05.12.31:167][810]LogActorFactory: Actor Factory created Cube
+[2020.04.07-05.12.37:074][160]Cmd: TRANSACTION UNDO
+[2020.04.07-05.12.37:074][160]LogEditorTransaction: Undo Create Actors
+[2020.04.07-05.12.39:835][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.12.43:757][553]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.04.07-05.12.46:590][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.13.34:135][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.13.38:769][828]LogHttp: Warning: 0000021D8D892700: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.04.07-05.13.38:769][828]LogHttp: Warning: 0000021D8D892700: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x21d31733f70 [can pipeline])
+[2020.04.07-05.13.38:769][828]LogHttp: Warning: 0000021D8D892700: libcurl info message cache 1 (Re-using existing connection! (#25) with host datarouter.ol.epicgames.com)
+[2020.04.07-05.13.38:769][828]LogHttp: Warning: 0000021D8D892700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.211.205.226) port 443 (#25))
+[2020.04.07-05.13.38:769][828]LogHttp: Warning: 0000021D8D892700: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.04.07-05.13.38:769][828]LogHttp: Warning: 0000021D8D892700: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.04.07-05.13.38:769][828]LogHttp: Warning: 0000021D8D892700: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.04.07-05.13.38:769][828]LogHttp: Warning: 0000021D8D892700: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.04.07-05.13.38:770][828]LogHttp: Warning: 0000021D8D892700: libcurl info message cache 7 (Closing connection 25)
+[2020.04.07-05.13.38:770][828]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD7AB6145-43B0-92B8-BD2F-BFBF882289F5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=0317f8bb4f461e2f0d8bc587bc317156%7C3d4708a517fd410e9e280ca08d9a4766%7Ca3c61172-ca80-44e0-97cd-5bfcf7d0634b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.07-05.14.02:071][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.14.24:615][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.14.39:532][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.14.54:155][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.15.18:674][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.15.20:261][876]Cmd: EDIT COPY
+[2020.04.07-05.15.20:548][893]Cmd: EDIT PASTE
+[2020.04.07-05.15.27:189][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.15.40:618][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.16.55:888][583]Cmd: EDIT COPY
+[2020.04.07-05.16.56:155][599]Cmd: EDIT PASTE
+[2020.04.07-05.17.03:072][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.17.27:713][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.17.35:400][938]LogEditorViewport: Clicking on Actor (LMB): LaserCube_C (LaserCube)
+[2020.04.07-05.17.53:771][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.18.38:632][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.18.57:329][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.19.03:486][192]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.07-05.19.50:656][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.20.01:677][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.20.37:061][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.21.09:426][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.21.09:568][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.04.07-05.21.09:835][730]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2-2AA45E096443FF826B67BAA945BEA4F14.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2-2.umap'
+[2020.04.07-05.21.11:360][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.21.11:811][841]LogAIModule: Creating AISystem for world MiniGame2
+[2020.04.07-05.21.11:829][841]LogAssetEditorManager: Opening Asset editor for World /Game/MiniGame2/MiniGame2.MiniGame2
+[2020.04.07-05.21.11:864][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.04.07-05.21.11:866][841]Cmd: MAP LOAD FILE="../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.07-05.21.11:866][841]LightingResults: New page: Lighting Build
+[2020.04.07-05.21.11:867][841]LoadErrors: New page: Loading map: MiniGame2.umap
+[2020.04.07-05.21.11:868][841]MapCheck: New page: Map Check
+[2020.04.07-05.21.11:868][841]LightingResults: New page: Lighting Build
+[2020.04.07-05.21.11:902][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.04.07-05.21.11:917][841]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.07-05.21.11:956][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.04.07-05.21.11:996][841]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.07-05.21.11:996][841]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.18ms to complete.
+[2020.04.07-05.21.11:997][841]LogFileHelpers: Loading map 'MiniGame2' took 0.131
+[2020.04.07-05.21.38:543][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.22.24:778][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.22.59:683][216]Cmd: TRANSACTION UNDO
+[2020.04.07-05.22.59:683][216]LogEditorTransaction: Undo Edit X
+[2020.04.07-05.23.00:092][236]Cmd: TRANSACTION UNDO
+[2020.04.07-05.23.00:092][236]LogEditorTransaction: Undo Edit Y
+[2020.04.07-05.23.00:547][258]Cmd: TRANSACTION UNDO
+[2020.04.07-05.23.00:547][258]LogEditorTransaction: Undo Move Actors
+[2020.04.07-05.23.01:185][292]Cmd: TRANSACTION UNDO
+[2020.04.07-05.23.01:185][292]LogEditorTransaction: Undo Edit Z
+[2020.04.07-05.23.01:757][322]Cmd: TRANSACTION UNDO
+[2020.04.07-05.23.01:757][322]LogEditorTransaction: Undo Edit Z
+[2020.04.07-05.23.03:312][411]Cmd: TRANSACTION UNDO
+[2020.04.07-05.23.03:312][411]LogEditorTransaction: Undo Move Actors
+[2020.04.07-05.23.11:025][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.23.44:042][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.24.39:132][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.24.49:887][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.25.07:280][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.25.26:092][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.25.48:637][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.26.07:693][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.26.25:003][344]Cmd: TRANSACTION UNDO
+[2020.04.07-05.26.25:003][344]LogEditorTransaction: Undo Move Actors
+[2020.04.07-05.26.45:495][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.26.45:630][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.04.07-05.26.46:011][574]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame29F4813B243A84D90549DCEB14E485D19.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2.umap'
+[2020.04.07-05.38.41:717][392]Cmd: EDIT COPY
+[2020.04.07-05.38.42:134][417]Cmd: EDIT PASTE
+[2020.04.07-05.39.09:949][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.40.00:706][ 94]Cmd: TRANSACTION UNDO
+[2020.04.07-05.40.00:706][ 94]LogEditorTransaction: Undo Move Actors
+[2020.04.07-05.40.05:534][376]Cmd: TRANSACTION UNDO
+[2020.04.07-05.40.05:534][376]LogEditorTransaction: Undo Move Actors
+[2020.04.07-05.40.26:955][654]Cmd: TRANSACTION UNDO
+[2020.04.07-05.40.26:955][654]LogEditorTransaction: Undo Move Actors
+[2020.04.07-05.40.35:524][164]Cmd: EDIT COPY
+[2020.04.07-05.40.35:891][186]Cmd: EDIT PASTE
+[2020.04.07-05.40.59:329][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.41.28:904][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.42.00:071][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.42.26:101][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.42.39:418][554]Cmd: EDIT COPY
+[2020.04.07-05.42.39:668][569]Cmd: EDIT PASTE
+[2020.04.07-05.42.48:862][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.43.50:367][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.43.53:467][982]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.07-05.43.53:530][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.04.07-05.43.53:858][982]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2_Auto3591838824B543E4B457F0C8B12573B1B.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame2/MiniGame2_Auto3.umap'
+[2020.04.07-05.43.53:866][982]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MiniGame2/MiniGame2' took 0.381
+[2020.04.07-05.43.53:866][982]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.381
+[2020.04.07-05.46.06:906][956]Cmd: EDIT COPY
+[2020.04.07-05.46.07:322][981]Cmd: EDIT PASTE
+[2020.04.07-05.46.29:694][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.47.43:735][714]Cmd: EDIT COPY
+[2020.04.07-05.47.44:152][739]Cmd: EDIT PASTE
+[2020.04.07-05.47.51:936][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.48.04:046][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.48.20:670][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.49.18:658][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.49.46:137][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.51.03:919][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.51.23:487][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.51.32:493][360]Cmd: TRANSACTION UNDO
+[2020.04.07-05.51.32:493][360]LogEditorTransaction: Undo Set Location
+[2020.04.07-05.51.35:455][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.51.47:801][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.52.06:889][408]Cmd: EDIT COPY
+[2020.04.07-05.52.07:339][435]Cmd: EDIT PASTE
+[2020.04.07-05.52.48:467][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.54.10:961][815]Cmd: EDIT COPY
+[2020.04.07-05.54.11:360][839]Cmd: EDIT PASTE
+[2020.04.07-05.56.14:134][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.56.28:723][ 32]Cmd: TRANSACTION UNDO
+[2020.04.07-05.56.28:723][ 32]LogEditorTransaction: Undo Set Location
+[2020.04.07-05.57.12:654][646]Cmd: EDIT COPY
+[2020.04.07-05.57.13:038][669]Cmd: EDIT PASTE
+[2020.04.07-05.57.49:570][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.58.07:356][883]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.07-05.59.20:945][286]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.07-05.59.21:014][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.04.07-05.59.21:377][286]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2_Auto49EAE033E4C3441409DB9959D3A807127.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame2/MiniGame2_Auto4.umap'
+[2020.04.07-05.59.21:383][286]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MiniGame2/MiniGame2' took 0.423
+[2020.04.07-05.59.21:383][286]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.423
+[2020.04.07-05.59.22:568][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-05.59.51:790][108]Cmd: EDIT COPY
+[2020.04.07-05.59.52:156][130]Cmd: EDIT PASTE
+[2020.04.07-06.00.07:481][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.00.33:883][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.01.06:209][540]Cmd: EDIT COPY
+[2020.04.07-06.01.06:216][540]Cmd: EDIT PASTE
+[2020.04.07-06.01.34:041][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.02.18:762][861]Cmd: EDIT COPY
+[2020.04.07-06.02.19:195][887]Cmd: EDIT PASTE
+[2020.04.07-06.02.22:785][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.02.48:259][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.03.28:376][992]Cmd: EDIT COPY
+[2020.04.07-06.03.28:610][  6]Cmd: EDIT PASTE
+[2020.04.07-06.03.34:462][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.04.00:863][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.04.27:224][500]Cmd: EDIT COPY
+[2020.04.07-06.04.27:473][515]Cmd: EDIT PASTE
+[2020.04.07-06.04.35:200][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.05.09:550][ 21]Cmd: EDIT COPY
+[2020.04.07-06.05.10:166][ 58]Cmd: EDIT PASTE
+[2020.04.07-06.05.54:754][713]Cmd: EDIT COPY
+[2020.04.07-06.05.55:056][731]Cmd: EDIT PASTE
+[2020.04.07-06.05.58:960][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.06.14:453][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.06.37:276][236]Cmd: EDIT COPY
+[2020.04.07-06.06.37:526][251]Cmd: EDIT PASTE
+[2020.04.07-06.07.06:836][989]Cmd: EDIT COPY
+[2020.04.07-06.07.07:103][  5]Cmd: EDIT PASTE
+[2020.04.07-06.07.15:782][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.07.45:665][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.08.06:015][518]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.07-06.09.26:844][363]Cmd: EDIT COPY
+[2020.04.07-06.09.28:064][436]Cmd: EDIT PASTE
+[2020.04.07-06.09.32:835][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.10.06:381][704]Cmd: TRANSACTION UNDO
+[2020.04.07-06.10.06:381][704]LogEditorTransaction: Undo Move Actors
+[2020.04.07-06.10.07:564][770]Cmd: TRANSACTION UNDO
+[2020.04.07-06.10.07:564][770]LogEditorTransaction: Undo Move Actors
+[2020.04.07-06.10.12:483][ 61]Cmd: TRANSACTION UNDO
+[2020.04.07-06.10.12:483][ 61]LogEditorTransaction: Undo Move Actors
+[2020.04.07-06.10.14:962][205]Cmd: TRANSACTION UNDO
+[2020.04.07-06.10.14:962][205]LogEditorTransaction: Undo Edit X
+[2020.04.07-06.10.42:897][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.11.18:570][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.04.07-06.11.18:945][641]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2_Auto5212C3DBE426B97EE820776BEACCEE069.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame2/MiniGame2_Auto5.umap'
+[2020.04.07-06.11.18:951][641]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MiniGame2/MiniGame2' took 0.433
+[2020.04.07-06.11.18:951][641]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.433
+[2020.04.07-06.12.20:130][407]Cmd: EDIT COPY
+[2020.04.07-06.12.20:431][425]Cmd: EDIT PASTE
+[2020.04.07-06.12.42:978][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.13.04:837][ 57]Cmd: EDIT COPY
+[2020.04.07-06.13.05:520][ 98]Cmd: EDIT PASTE
+[2020.04.07-06.14.28:080][ 13]Cmd: EDIT COPY
+[2020.04.07-06.14.28:331][ 28]Cmd: EDIT PASTE
+[2020.04.07-06.14.42:502][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.15.30:252][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.16.43:440][ 71]Cmd: EDIT COPY
+[2020.04.07-06.16.43:739][ 89]Cmd: EDIT PASTE
+[2020.04.07-06.17.43:721][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.18.30:108][387]Cmd: TRANSACTION UNDO
+[2020.04.07-06.18.30:109][387]LogEditorTransaction: Undo Move Actors
+[2020.04.07-06.18.51:829][677]Cmd: EDIT COPY
+[2020.04.07-06.18.52:263][703]Cmd: EDIT PASTE
+[2020.04.07-06.19.20:934][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.19.59:695][720]Cmd: EDIT COPY
+[2020.04.07-06.19.59:945][735]Cmd: EDIT PASTE
+[2020.04.07-06.22.10:486][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.22.23:945][283]Cmd: EDIT COPY
+[2020.04.07-06.22.24:179][297]Cmd: EDIT PASTE
+[2020.04.07-06.23.10:673][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.23.45:452][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.24.13:201][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.24.51:478][ 23]Cmd: EDIT COPY
+[2020.04.07-06.24.51:761][ 40]Cmd: EDIT PASTE
+[2020.04.07-06.25.19:295][664]Cmd: TRANSACTION UNDO
+[2020.04.07-06.25.19:295][664]LogEditorTransaction: Undo Move Actors
+[2020.04.07-06.25.19:997][701]Cmd: TRANSACTION UNDO
+[2020.04.07-06.25.19:997][701]LogEditorTransaction: Undo Move Actors
+[2020.04.07-06.25.20:325][716]Cmd: TRANSACTION UNDO
+[2020.04.07-06.25.20:325][716]LogEditorTransaction: Undo Move Actors
+[2020.04.07-06.25.20:804][740]Cmd: TRANSACTION UNDO
+[2020.04.07-06.25.20:804][740]LogEditorTransaction: Undo Paste
+[2020.04.07-06.25.22:099][811]Cmd: TRANSACTION UNDO
+[2020.04.07-06.25.22:099][811]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.07-06.25.45:318][198]Cmd: EDIT COPY
+[2020.04.07-06.25.45:551][212]Cmd: EDIT PASTE
+[2020.04.07-06.26.03:313][262]Cmd: TRANSACTION UNDO
+[2020.04.07-06.26.03:313][262]LogEditorTransaction: Undo Move Actors
+[2020.04.07-06.26.03:970][296]Cmd: TRANSACTION UNDO
+[2020.04.07-06.26.03:970][296]LogEditorTransaction: Undo Paste
+[2020.04.07-06.26.09:965][647]Cmd: EDIT COPY
+[2020.04.07-06.26.10:314][668]Cmd: EDIT PASTE
+[2020.04.07-06.26.13:486][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.26.41:504][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.27.32:337][534]Cmd: EDIT COPY
+[2020.04.07-06.27.32:803][562]Cmd: EDIT PASTE
+[2020.04.07-06.27.55:912][927]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.07-06.28.49:176][118]Cmd: EDIT COPY
+[2020.04.07-06.28.50:442][194]Cmd: EDIT PASTE
+[2020.04.07-06.29.07:307][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.29.41:054][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.29.47:438][576]Cmd: EDIT COPY
+[2020.04.07-06.29.47:722][593]Cmd: EDIT PASTE
+[2020.04.07-06.29.57:258][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.30.38:541][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.04.07-06.30.38:898][ 52]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2_Auto626302C2C46DC7D8D6A73E18F993A172B.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame2/MiniGame2_Auto6.umap'
+[2020.04.07-06.30.38:905][ 52]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MiniGame2/MiniGame2' took 0.426
+[2020.04.07-06.30.38:905][ 52]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.426
+[2020.04.07-06.31.38:156][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.32.41:238][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.33.04:564][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.33.44:274][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.34.29:002][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.34.54:220][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.35.41:543][748]Cmd: EDIT COPY
+[2020.04.07-06.35.41:777][762]Cmd: EDIT PASTE
+[2020.04.07-06.36.17:163][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.36.46:307][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.40.39:175][517]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.04.07-06.40.39:554][517]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2_Auto721D9D3FD4F1854153057DFA708B284BB.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame2/MiniGame2_Auto7.umap'
+[2020.04.07-06.40.39:559][517]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MiniGame2/MiniGame2' took 0.427
+[2020.04.07-06.40.39:559][517]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.427
+[2020.04.07-06.54.25:356][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.54.38:155][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.54.59:514][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.55.14:177][893]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.07-06.55.42:482][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.55.46:326][817]Cmd: EDIT COPY
+[2020.04.07-06.55.46:596][833]Cmd: EDIT PASTE
+[2020.04.07-06.58.11:963][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.58.12:105][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.04.07-06.58.12:537][497]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2485D845745C5250733D34DA9E4EA5CCC.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2.umap'
+[2020.04.07-06.58.22:964][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-06.58.23:643][155]LogAIModule: Creating AISystem for world MiniGame2-2
+[2020.04.07-06.58.27:446][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.04.07-06.58.29:713][377]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.07-06.58.29:819][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.04.07-06.58.29:849][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.04.07-06.58.29:878][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.04.07-06.58.40:574][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.04.07-06.58.40:916][ 15]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2097DA6DF46DDC1E8114181BC98A336ED.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2.umap'

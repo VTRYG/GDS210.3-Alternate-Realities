@@ -1363,3 +1363,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.07-06.58.29:878][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
 [2020.04.07-06.58.40:574][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
 [2020.04.07-06.58.40:916][ 15]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2097DA6DF46DDC1E8114181BC98A336ED.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2.umap'
+[2020.04.07-07.04.16:933][334]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.07-07.04.19:816][505]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.07-07.04.20:556][549]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.07-07.04.27:817][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-07.05.17:214][128]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.07-07.13.22:438][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.04.07-07.13.22:776][886]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame259CA637C4162ACBF528399A39CFFF94B.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2.umap'
+[2020.04.07-07.14.40:720][553]EditorErrors: New page: Actor attachment
+[2020.04.07-07.15.36:951][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-07.15.38:229][995]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2020.04.07-07.15.43:374][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-07.16.01:908][413]Cmd: TRANSACTION UNDO
+[2020.04.07-07.16.01:908][413]LogEditorTransaction: Undo Set Rotation
+[2020.04.07-07.16.42:074][763]LogSlate: Took 0.005549 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.07-07.16.58:809][767]Cmd: TRANSACTION UNDO
+[2020.04.07-07.16.58:809][767]LogEditorTransaction: Undo Set Rotation
+[2020.04.07-07.17.01:512][929]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2020.04.07-07.17.04:450][100]Cmd: DELETE
+[2020.04.07-07.17.04:450][100]Cmd: ACTOR DELETE
+[2020.04.07-07.17.04:456][100]LogEditorActor: Deleted Actor: Character
+[2020.04.07-07.17.04:482][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.04.07-07.17.04:482][100]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.04.07-07.17.06:157][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-07.17.06:306][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.04.07-07.17.06:645][207]LogSavePackage: Moving '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame2AA8BB550404D3A5FB87C539A9E846F95.tmp' to '../../../../../../Users/10158/OneDrive/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame2/MiniGame2.umap'

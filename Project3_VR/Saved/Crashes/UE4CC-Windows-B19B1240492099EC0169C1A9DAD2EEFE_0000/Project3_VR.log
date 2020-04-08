@@ -1,0 +1,1283 @@
+﻿Log file open, 04/08/20 11:28:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project3_VR
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.727249
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Unreal/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.08-03.28.55:940][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.08-03.28.55:940][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.08-03.28.55:940][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.08-03.28.55:947][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.08-03.28.55:947][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.04.08-03.28.55:947][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.08-03.28.55:947][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.08-03.28.55:948][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.08-03.28.55:949][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.08-03.28.55:949][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.08-03.28.55:969][  0]LogHAL: Display: Platform has ~ 16 GB [17122951168 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.08-03.28.55:969][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.04.08-03.28.55:969][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.08-03.28.55:970][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.08-03.28.55:970][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.08-03.28.55:971][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.08-03.28.55:974][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.08-03.28.55:974][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.08-03.28.55:974][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.08-03.28.55:975][  0]LogInit: Computer: SPIKESPC
+[2020.04.08-03.28.55:975][  0]LogInit: User: mike
+[2020.04.08-03.28.55:975][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.08-03.28.55:975][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.08-03.28.55:975][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.08-03.28.55:975][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.08-03.28.55:975][  0]LogMemory: Process Physical Memory: 98.75 MB used, 98.75 MB peak
+[2020.04.08-03.28.55:975][  0]LogMemory: Process Virtual Memory: 90.82 MB used, 90.82 MB peak
+[2020.04.08-03.28.55:975][  0]LogMemory: Physical Memory: 9582.14 MB used,  6747.57 MB free, 16329.72 MB total
+[2020.04.08-03.28.55:975][  0]LogMemory: Virtual Memory: 4661.77 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.04.08-03.28.56:158][  0]LogInit: Using OS detected language (en-US).
+[2020.04.08-03.28.56:158][  0]LogInit: Using OS detected locale (en-AU).
+[2020.04.08-03.28.56:160][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.08-03.28.56:416][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.08-03.28.56:510][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.08-03.28.56:510][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.08-03.29.01:957][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.08-03.29.02:006][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.04.08-03.29.02:006][  0]LogD3D11RHI:       8088/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.08-03.29.02:008][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.08-03.29.02:008][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.08-03.29.02:008][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.08-03.29.02:016][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.08-03.29.02:016][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.08-03.29.02:016][  0]LogWindows: EnumDisplayDevices:
+[2020.04.08-03.29.02:016][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.04.08-03.29.02:016][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.04.08-03.29.02:016][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.04.08-03.29.02:017][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.04.08-03.29.02:017][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.08-03.29.02:017][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.04.08-03.29.02:017][  0]LogD3D11RHI:   Driver Version: 442.19 (internal:26.21.14.4219, unified:442.19)
+[2020.04.08-03.29.02:017][  0]LogD3D11RHI:      Driver Date: 1-29-2020
+[2020.04.08-03.29.02:017][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.04.08-03.29.02:054][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.08-03.29.02:069][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.08-03.29.02:070][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.08-03.29.02:070][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.08-03.29.02:084][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.04.08-03.29.02:493][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.08-03.29.02:515][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.08-03.29.02:536][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.08-03.29.02:558][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.08-03.29.02:585][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.08-03.29.02:609][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.08-03.29.02:631][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.08-03.29.02:652][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.08-03.29.02:668][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.08-03.29.02:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.08-03.29.02:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.08-03.29.02:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.08-03.29.02:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.08-03.29.02:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.08-03.29.02:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.08-03.29.02:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.08-03.29.02:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.08-03.29.02:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.08-03.29.02:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.08-03.29.02:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.08-03.29.02:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.08-03.29.02:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.08-03.29.02:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.08-03.29.02:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.08-03.29.02:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.08-03.29.02:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.08-03.29.02:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.08-03.29.02:765][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.08-03.29.02:851][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.08-03.29.02:851][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.08-03.29.02:879][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.08-03.29.02:879][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.08-03.29.02:900][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.08-03.29.02:921][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.08-03.29.02:941][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.08-03.29.02:969][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.08-03.29.03:019][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.08-03.29.03:019][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.08-03.29.03:019][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.08-03.29.03:075][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.08-03.29.03:337][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Intermediate/Shaders/WorkingDirectory/12976/).
+[2020.04.08-03.29.03:337][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mikeb/AppData/Local/Temp/UnrealShaderWorkingDir/97D640BD4EAA709F8CAA78866D15F0C4/'.
+[2020.04.08-03.29.03:339][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.08-03.29.03:339][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.08-03.29.03:339][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.08-03.29.05:197][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.08-03.29.05:437][  0]LogDerivedDataCache: Loaded boot cache 0.24s 72MB C:/Users/mikeb/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.08-03.29.05:437][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mikeb/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.04.08-03.29.05:437][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.08-03.29.05:437][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.08-03.29.05:437][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.08-03.29.05:437][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.08-03.29.05:455][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.08-03.29.05:455][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.08-03.29.05:455][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.08-03.29.05:467][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mikeb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.08-03.29.05:467][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.08-03.29.05:467][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.08-03.29.05:486][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.08-03.29.05:491][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.08-03.29.05:506][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.08-03.29.05:730][  0]LogAssetRegistry: FAssetRegistry took 0.0323 seconds to start up
+[2020.04.08-03.29.06:065][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.08-03.29.06:426][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.08-03.29.06:426][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.08-03.29.06:426][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.08-03.29.06:426][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.08-03.29.06:426][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.08-03.29.06:466][  0]LogNetVersion: Project3_VR 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 867328552)
+[2020.04.08-03.29.07:395][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.037477 seconds
+[2020.04.08-03.29.07:400][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.04.08-03.29.07:400][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.04.08-03.29.07:400][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.08-03.29.11:089][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.08-03.29.11:116][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.08-03.29.11:449][  0]SourceControl: Source control is disabled
+[2020.04.08-03.29.11:449][  0]SourceControl: Source control is disabled
+[2020.04.08-03.29.11:471][  0]SourceControl: Source control is disabled
+[2020.04.08-03.29.11:487][  0]SourceControl: Source control is disabled
+[2020.04.08-03.29.12:076][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.08-03.29.12:430][  0]LogOcInput: OculusInput pre-init called
+[2020.04.08-03.29.13:887][  0]LogEngine: Initializing Engine...
+[2020.04.08-03.29.13:889][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-69584F10
+[2020.04.08-03.29.13:891][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.04.08-03.29.14:216][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.08-03.29.14:258][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.08-03.29.14:312][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID PRO USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.04.08-03.29.14:325][  0]LogInit: FAudioDevice initialized.
+[2020.04.08-03.29.14:325][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.08-03.29.14:453][  0]LogDerivedDataCache: Saved boot cache 0.13s 72MB C:/Users/mikeb/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.08-03.29.14:463][  0]LogInit: Texture streaming: Enabled
+[2020.04.08-03.29.14:521][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.08-03.29.14:568][  0]LogInit: Transaction tracking system initialized
+[2020.04.08-03.29.14:656][  0]BlueprintLog: New page: Editor Load
+[2020.04.08-03.29.15:043][  0]LocalizationService: Localization service is disabled
+[2020.04.08-03.29.15:797][  0]LogFileCache: Scanning file cache for directory 'E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/' took 0.02s
+[2020.04.08-03.29.15:797][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.08-03.29.15:797][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.08-03.29.16:531][  0]SourceControl: Source control is disabled
+[2020.04.08-03.29.16:531][  0]Cmd: MAP LOAD FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/HubWorld/HubWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.08-03.29.16:532][  0]LightingResults: New page: Lighting Build
+[2020.04.08-03.29.16:538][  0]MapCheck: New page: Map Check
+[2020.04.08-03.29.16:538][  0]LightingResults: New page: Lighting Build
+[2020.04.08-03.29.16:565][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.04.08-03.29.17:136][  0]LogLinker: Warning: Asset '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.04.08-03.29.17:142][  0]LogLinker: Warning: Asset '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/MSPresets/MSTextures/Albedo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.04.08-03.29.17:147][  0]LogLinker: Warning: Asset '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/MSPresets/MSTextures/Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.04.08-03.29.17:153][  0]LogLinker: Warning: Asset '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/MSPresets/MSTextures/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.04.08-03.29.18:746][  0]LogAIModule: Creating AISystem for world HubWorld
+[2020.04.08-03.29.18:770][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.08-03.29.18:800][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.04.08-03.29.18:800][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.08-03.29.18:800][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.065ms to complete.
+[2020.04.08-03.29.18:800][  0]LogFileHelpers: Loading map 'HubWorld' took 2.270
+[2020.04.08-03.29.18:987][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-03.29.18:994][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-03.29.18:999][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-03.29.19:005][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-03.29.19:024][  0]LogCollectionManager: Loaded 0 collections in 0.000619 seconds
+[2020.04.08-03.29.19:042][  0]LogFileCache: Scanning file cache for directory 'E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Collections/' took 0.01s
+[2020.04.08-03.29.19:042][  0]LogFileCache: Scanning file cache for directory 'E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Developers/mike/Collections/' took 0.00s
+[2020.04.08-03.29.19:042][  0]LogFileCache: Scanning file cache for directory 'E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Collections/' took 0.00s
+[2020.04.08-03.29.19:042][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.04.08-03.29.19:049][  0]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 2754 classes and 671 folders.
+[2020.04.08-03.29.19:054][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.08-03.29.19:061][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:068][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:085][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:090][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:096][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:105][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:121][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:126][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:130][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:145][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:149][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:173][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:178][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:184][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:189][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:195][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:200][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:215][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:220][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.08-03.29.19:342][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.08-03.29.19:459][  0]LogSlate: Took 0.004373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.08-03.29.19:466][  0]LogSlate: Took 0.004526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.08-03.29.19:473][  0]LogSlate: Took 0.004243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.08-03.29.19:565][  0]LogRenderer: Reallocating scene render targets to support 1100x696 Format 26 NumSamples 1 (Frame:1).
+[2020.04.08-03.29.19:631][  0]LogSlate: Took 0.004742 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.08-03.29.19:714][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.08-03.29.19:714][  0]LogLoad: (Engine Initialization) Total time: 28.11 seconds
+[2020.04.08-03.29.19:714][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.08-03.29.19:765][  0]LogAssetRegistry: Asset discovery search completed in 14.0576 seconds
+[2020.04.08-03.29.19:768][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.04.08-03.29.19:768][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2020.04.08-03.29.19:768][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.08-03.29.19:780][  0]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.08-03.31.02:260][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-03.31.02:367][447]LogTemp: Repeating last play command: VR Preview
+[2020.04.08-03.31.02:381][447]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HubWorld/HubWorld.HubWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HubWorld/HubWorld.HubWorld:PersistentLevel.HubWorld' with GeneratedClass '/Game/HubWorld/HubWorld.HubWorld_C' with ClassGeneratedBy '/Game/HubWorld/HubWorld.HubWorld:PersistentLevel.HubWorld'
+[2020.04.08-03.31.02:383][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.08-03.31.02:384][447]PIE: New page: PIE session: HubWorld (8 Apr 2020 7:31:02 pm)
+[2020.04.08-03.31.02:396][447]LogPlayLevel: Creating play world package: /Game/HubWorld/UEDPIE_0_HubWorld
+[2020.04.08-03.31.02:406][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010104s)
+[2020.04.08-03.31.02:406][447]LogAIModule: Creating AISystem for world HubWorld
+[2020.04.08-03.31.02:407][447]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2020.04.08-03.31.02:407][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HubWorld/HubWorld.HubWorld to /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld (0.010971s)
+[2020.04.08-03.31.02:430][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.04.08-03.31.02:475][447]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID PRO USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.04.08-03.31.02:482][447]LogInit: FAudioDevice initialized.
+[2020.04.08-03.31.02:491][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-03.31.02:543][447]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.08-03.31.02:543][447]LogLoad: Game class is 'GameModeBase'
+[2020.04.08-03.31.02:547][447]LogWorld: Bringing World /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld up for play (max tick rate 0) at 2020.04.08-11.31.02
+[2020.04.08-03.31.02:549][447]LogWorld: Bringing up level for play took: 0.004147
+[2020.04.08-03.31.02:565][447]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2020.04.08-03.31.02:571][447]PIE: Play in editor start time for /Game/HubWorld/UEDPIE_0_HubWorld 1.088
+[2020.04.08-03.31.02:572][447]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HubWorld/HubWorld.HubWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HubWorld/HubWorld.HubWorld:PersistentLevel.HubWorld' with GeneratedClass '/Game/HubWorld/HubWorld.HubWorld_C' with ClassGeneratedBy '/Game/HubWorld/HubWorld.HubWorld:PersistentLevel.HubWorld'
+[2020.04.08-03.31.02:629][448]LogRenderer: Reallocating scene render targets to support 3672x2044 Format 26 NumSamples 1 (Frame:1).
+[2020.04.08-03.31.04:721][494]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.08-03.31.19:502][545]LogEditorViewport: Clicking on Actor (LMB): Emitter (RainFall_P)
+[2020.04.08-03.31.22:155][590]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.08-03.32.05:221][612]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue
+	lasercube1_C /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:PersistentLevel.lasercube1_2
+	Function /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1_C:ExecuteUbergraph_lasercube1:0046
+[2020.04.08-03.32.05:221][612]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.15:303][857]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue
+	lasercube1_C /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:PersistentLevel.lasercube1_2
+	Function /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1_C:ExecuteUbergraph_lasercube1:0046
+[2020.04.08-03.32.15:303][857]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.19:206][942]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue
+	lasercube1_C /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:PersistentLevel.lasercube1_2
+	Function /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1_C:ExecuteUbergraph_lasercube1:0046
+[2020.04.08-03.32.19:206][942]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.23:608][ 48]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue
+	lasercube1_C /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:PersistentLevel.lasercube1_2
+	Function /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1_C:ExecuteUbergraph_lasercube1:032C
+[2020.04.08-03.32.23:608][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  Set Beam Source Point
+[2020.04.08-03.32.23:608][ 48]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue
+	lasercube1_C /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:PersistentLevel.lasercube1_2
+	Function /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1_C:ExecuteUbergraph_lasercube1:041E
+[2020.04.08-03.32.23:608][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  Set Beam Target Point
+[2020.04.08-03.32.26:026][112]LogScript: Warning: Attempted to access ParticleSystemComponent_0 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_0 is pending kill
+	lasercube1_C /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:PersistentLevel.lasercube1_2
+	Function /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1_C:ExecuteUbergraph_lasercube1:032C
+[2020.04.08-03.32.26:026][112]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_0 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_0 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  Set Beam Source Point
+[2020.04.08-03.32.26:026][112]LogScript: Warning: Attempted to access ParticleSystemComponent_0 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_0 is pending kill
+	lasercube1_C /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:PersistentLevel.lasercube1_2
+	Function /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1_C:ExecuteUbergraph_lasercube1:041E
+[2020.04.08-03.32.26:026][112]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_0 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_0 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  Set Beam Target Point
+[2020.04.08-03.32.27:256][148]LogScript: Warning: Attempted to access ParticleSystemComponent_1 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_1 is pending kill
+	lasercube1_C /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:PersistentLevel.lasercube1_2
+	Function /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1_C:ExecuteUbergraph_lasercube1:032C
+[2020.04.08-03.32.27:257][148]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_1 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_1 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  Set Beam Source Point
+[2020.04.08-03.32.27:257][148]LogScript: Warning: Attempted to access ParticleSystemComponent_1 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_1 is pending kill
+	lasercube1_C /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:PersistentLevel.lasercube1_2
+	Function /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1_C:ExecuteUbergraph_lasercube1:041E
+[2020.04.08-03.32.27:257][148]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_1 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_1 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  Set Beam Target Point
+[2020.04.08-03.32.28:496][184]LogScript: Warning: Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill
+	lasercube1_C /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:PersistentLevel.lasercube1_2
+	Function /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1_C:ExecuteUbergraph_lasercube1:0046
+[2020.04.08-03.32.28:496][184]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.32:584][287]LogScript: Warning: Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill
+	lasercube1_C /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:PersistentLevel.lasercube1_2
+	Function /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1_C:ExecuteUbergraph_lasercube1:0046
+[2020.04.08-03.32.32:584][287]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.32:622][288]LogScript: Warning: Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill
+	lasercube1_C /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:PersistentLevel.lasercube1_2
+	Function /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1_C:ExecuteUbergraph_lasercube1:0046
+[2020.04.08-03.32.32:622][288]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.32:856][294]LogScript: Warning: Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill
+	lasercube1_C /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:PersistentLevel.lasercube1_2
+	Function /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1_C:ExecuteUbergraph_lasercube1:0046
+[2020.04.08-03.32.32:857][294]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.32:896][295]LogScript: Warning: Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill
+	lasercube1_C /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:PersistentLevel.lasercube1_2
+	Function /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1_C:ExecuteUbergraph_lasercube1:0046
+[2020.04.08-03.32.32:896][295]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.33:097][300]LogScript: Warning: Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill
+	lasercube1_C /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:PersistentLevel.lasercube1_2
+	Function /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1_C:ExecuteUbergraph_lasercube1:0046
+[2020.04.08-03.32.33:097][300]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.33:222][303]LogScript: Warning: Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill
+	lasercube1_C /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:PersistentLevel.lasercube1_2
+	Function /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1_C:ExecuteUbergraph_lasercube1:0046
+[2020.04.08-03.32.33:222][303]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.36:255][376]LogScript: Warning: Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill
+	lasercube1_C /Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:PersistentLevel.lasercube1_2
+	Function /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1_C:ExecuteUbergraph_lasercube1:0046
+[2020.04.08-03.32.36:255][376]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.36:296][377]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.36:548][383]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.36:586][384]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.36:833][390]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.36:876][391]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.37:166][398]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.37:208][399]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.37:422][404]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.37:464][405]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.37:676][410]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.37:676][410]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.32.41:848][513]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  Set Beam Source Point
+[2020.04.08-03.32.41:848][513]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_2 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_2 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  Set Beam Target Point
+[2020.04.08-03.32.46:940][631]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_3 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_3 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  Set Beam Source Point
+[2020.04.08-03.32.46:940][631]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_3 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_3 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  Set Beam Target Point
+[2020.04.08-03.32.50:501][711]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_4 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_4 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  Set Beam Source Point
+[2020.04.08-03.32.50:501][711]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_4 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_4 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  Set Beam Target Point
+[2020.04.08-03.33.04:651][ 21]LogParticles: Warning: Pooled Particle System Component is being destroyed! Do not manually destoy PSCs that are being pooled.
+           ParticleSystem=/Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:None
+           Template:/Game/MiniGame2/Beamu.Beamu
+[2020.04.08-03.33.04:651][ 21]LogParticles: Warning: Pooled Particle System Component is being destroyed! Do not manually destoy PSCs that are being pooled.
+           ParticleSystem=/Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:None
+           Template:/Game/MiniGame2/Beamu.Beamu
+[2020.04.08-03.33.04:651][ 21]LogParticles: Warning: Pooled Particle System Component is being destroyed! Do not manually destoy PSCs that are being pooled.
+           ParticleSystem=/Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:None
+           Template:/Game/MiniGame2/Beamu.Beamu
+[2020.04.08-03.33.04:651][ 21]LogParticles: Warning: Pooled Particle System Component is being destroyed! Do not manually destoy PSCs that are being pooled.
+           ParticleSystem=/Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:None
+           Template:/Game/MiniGame2/Beamu.Beamu
+[2020.04.08-03.33.04:651][ 21]LogParticles: Warning: Pooled Particle System Component is being destroyed! Do not manually destoy PSCs that are being pooled.
+           ParticleSystem=/Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:None
+           Template:/Game/MiniGame2/Beamu.Beamu
+[2020.04.08-03.33.20:925][397]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_5 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_5 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  Set Beam Source Point
+[2020.04.08-03.33.20:925][397]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_5 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_5 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  Set Beam Target Point
+[2020.04.08-03.33.30:923][626]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_6 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_6 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  Set Beam Source Point
+[2020.04.08-03.33.30:923][626]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_6 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_6 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  Set Beam Target Point
+[2020.04.08-03.33.37:154][772]PIE: Error: Blueprint Runtime Error: "Attempted to access ParticleSystemComponent_7 via property CallFunc_SpawnEmitterAtLocation_ReturnValue, but ParticleSystemComponent_7 is pending kill". Blueprint:  lasercube1 Function:  Execute Ubergraph Lasercube 1 Graph:  EventGraph Node:  DestroyComponent
+[2020.04.08-03.34.05:950][ 55]LogParticles: Warning: Pooled Particle System Component is being destroyed! Do not manually destoy PSCs that are being pooled.
+           ParticleSystem=/Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:None
+           Template:/Game/MiniGame2/Beamu.Beamu
+[2020.04.08-03.34.05:950][ 55]LogParticles: Warning: Pooled Particle System Component is being destroyed! Do not manually destoy PSCs that are being pooled.
+           ParticleSystem=/Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:None
+           Template:/Game/MiniGame2/Beamu.Beamu
+[2020.04.08-03.34.05:950][ 55]LogParticles: Warning: Pooled Particle System Component is being destroyed! Do not manually destoy PSCs that are being pooled.
+           ParticleSystem=/Game/HubWorld/UEDPIE_0_HubWorld.HubWorld:None
+           Template:/Game/MiniGame2/Beamu.Beamu
+[2020.04.08-03.35.41:753][435]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/HubWorld/HubWorld.HubWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HubWorld/HubWorld.HubWorld:PersistentLevel.HubWorld' with GeneratedClass '/Game/HubWorld/HubWorld.HubWorld_C' with ClassGeneratedBy '/Game/HubWorld/HubWorld.HubWorld:PersistentLevel.HubWorld'
+[2020.04.08-03.35.41:878][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-03.35.41:893][435]LogSlate: Window 'Project3_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.08-03.35.41:930][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.08-03.35.41:930][435]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/HubWorld/HubWorld.HubWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HubWorld/HubWorld.HubWorld:PersistentLevel.HubWorld' with GeneratedClass '/Game/HubWorld/HubWorld.HubWorld_C' with ClassGeneratedBy '/Game/HubWorld/HubWorld.HubWorld:PersistentLevel.HubWorld'
+[2020.04.08-03.35.41:961][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.04.08-03.35.42:038][436]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.04.08-03.43.02:211][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rightside_top2)
+[2020.04.08-03.43.14:019][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (leftside_bottom)
+[2020.04.08-03.43.18:511][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-03.44.29:363][663]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.08-03.44.29:409][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.04.08-03.44.29:602][663]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/HubWorld_Auto14BC37BD54B5CC2AEB074E89AEF8442E0.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/HubWorld/HubWorld_Auto1.umap'
+[2020.04.08-03.44.29:605][663]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HubWorld/HubWorld' took 0.219
+[2020.04.08-03.44.29:605][663]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.219
+[2020.04.08-03.55.34:207][372]LogSlate: Took 0.006996 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.08-03.57.24:289][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road)
+[2020.04.08-03.57.27:516][842]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube37)
+[2020.04.08-03.57.55:104][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-03.57.56:855][189]LogEditorViewport: Clicking on Actor (LMB): Emitter (RainFall_P)
+[2020.04.08-03.58.00:376][348]LogEditorViewport: Clicking on Actor (LMB): Emitter (RainFall_P)
+[2020.04.08-03.58.01:372][392]Cmd: SELECT NONE
+[2020.04.08-03.58.02:097][425]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube33)
+[2020.04.08-03.58.04:120][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-03.58.08:014][696]Cmd: SELECT NONE
+[2020.04.08-03.58.35:371][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.04.08-03.58.35:540][914]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/HubWorld_Auto2E02CE89D4E81977545E660983DC0BABF.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/HubWorld/HubWorld_Auto2.umap'
+[2020.04.08-03.58.35:542][914]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HubWorld/HubWorld' took 0.196
+[2020.04.08-03.58.35:542][914]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.196
+[2020.04.08-04.02.10:920][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-04.02.32:742][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-04.03.11:745][210]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2020.04.08-04.03.30:531][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-04.03.31:350][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road)
+[2020.04.08-04.03.32:357][898]Cmd: SELECT NONE
+[2020.04.08-04.03.35:809][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-04.04.09:622][465]LogLinker: Warning: Can't find file '/Game/MiniGame1/MiniGame1_BuiltData'
+[2020.04.08-04.04.09:623][465]LogLinker: Warning: Can't find file for asset '/Game/MiniGame1/MiniGame1_BuiltData' while loading NULL.
+[2020.04.08-04.04.09:629][465]LogLinker: Warning: Can't find file '/Game/MiniGame1/MiniGame1_BuiltData'
+[2020.04.08-04.04.09:629][465]LogLinker: Warning: Can't find file for asset '/Game/MiniGame1/MiniGame1_BuiltData' while loading NULL.
+[2020.04.08-04.04.09:996][465]LogLinker: Warning: Can't find file '/Game/MiniGame1/MiniGame1_BuiltData'
+[2020.04.08-04.04.09:996][465]LogLinker: Warning: Can't find file for asset '/Game/MiniGame1/MiniGame1_BuiltData' while loading NULL.
+[2020.04.08-04.04.09:996][465]LogLinker: Warning: Can't find file '/Game/MiniGame1/MiniGame1_BuiltData'
+[2020.04.08-04.04.09:996][465]LogLinker: Warning: Can't find file for asset '/Game/MiniGame1/MiniGame1_BuiltData' while loading NULL.
+[2020.04.08-04.04.10:016][465]LogLinker: Warning: Can't find file '/Game/MiniGame1/MiniGame1_BuiltData'
+[2020.04.08-04.04.10:016][465]LoadErrors: Failed to load /Game/MiniGame1/MiniGame1_BuiltData.MiniGame1_BuiltData Referenced by PersistentLevel
+[2020.04.08-04.04.10:016][465]LogLinker: Warning: Can't find file for asset '/Game/MiniGame1/MiniGame1_BuiltData' while loading NULL.
+[2020.04.08-04.04.10:032][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh22_Group17_Model...
+[2020.04.08-04.04.10:043][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh22_Group17_Model.Greybox_GDS210_Mesh22_Group17_Model
+[2020.04.08-04.04.10:047][465]LogMaterial: Display: Missing cached shader map for material Mesh21_Group23_Group17_ModelMat, compiling. 
+[2020.04.08-04.04.10:108][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh18_Group16_Model...
+[2020.04.08-04.04.10:111][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh18_Group16_Model.Greybox_GDS210_-_2_0_Mesh18_Group16_Model
+[2020.04.08-04.04.10:112][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh17_Group16_Model...
+[2020.04.08-04.04.10:112][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh17_Group16_Model.Greybox_GDS210_-_2_0_Mesh17_Group16_Model
+[2020.04.08-04.04.10:115][465]LogMaterial: Display: Missing cached shader map for material Mesh18_Group16_ModelMat, compiling. 
+[2020.04.08-04.04.10:131][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh19_Group17_Model...
+[2020.04.08-04.04.10:134][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh19_Group17_Model.Greybox_GDS210_-_2_0_Mesh19_Group17_Model
+[2020.04.08-04.04.10:137][465]LogMaterial: Display: Missing cached shader map for material Mesh17_Group16_ModelMat, compiling. 
+[2020.04.08-04.04.10:155][465]LogMaterial: Display: Missing cached shader map for material Mesh28_Group27_Group20_ModelMat, compiling. 
+[2020.04.08-04.04.10:171][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh28_Group27_Group20_Model...
+[2020.04.08-04.04.10:174][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh28_Group27_Group20_Model.Greybox_GDS210_-_2_0_Mesh28_Group27_Group20_Model
+[2020.04.08-04.04.10:176][465]LogMaterial: Display: Missing cached shader map for material Mesh75_ModelMat, compiling. 
+[2020.04.08-04.04.10:194][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh75_Model...
+[2020.04.08-04.04.10:195][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh75_Model.Greybox_GDS210_-_2_0_Mesh75_Model
+[2020.04.08-04.04.10:198][465]LogMaterial: Display: Missing cached shader map for material Mesh74_ModelMat, compiling. 
+[2020.04.08-04.04.10:219][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh74_Model...
+[2020.04.08-04.04.10:220][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh74_Model.Greybox_GDS210_-_2_0_Mesh74_Model
+[2020.04.08-04.04.10:223][465]LogMaterial: Display: Missing cached shader map for material Mesh73_ModelMat, compiling. 
+[2020.04.08-04.04.10:243][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh73_Model...
+[2020.04.08-04.04.10:247][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh73_Model.Greybox_GDS210_-_2_0_Mesh73_Model
+[2020.04.08-04.04.10:252][465]LogMaterial: Display: Missing cached shader map for material Mesh72_ModelMat, compiling. 
+[2020.04.08-04.04.10:273][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh72_Model...
+[2020.04.08-04.04.10:275][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh72_Model.Greybox_GDS210_-_2_0_Mesh72_Model
+[2020.04.08-04.04.10:278][465]LogMaterial: Display: Missing cached shader map for material Mesh71_ModelMat, compiling. 
+[2020.04.08-04.04.10:299][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh71_Model...
+[2020.04.08-04.04.10:306][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh71_Model.Greybox_GDS210_-_2_0_Mesh71_Model
+[2020.04.08-04.04.10:309][465]LogMaterial: Display: Missing cached shader map for material Mesh70_ModelMat, compiling. 
+[2020.04.08-04.04.10:327][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh70_Model...
+[2020.04.08-04.04.10:329][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh70_Model.Greybox_GDS210_-_2_0_Mesh70_Model
+[2020.04.08-04.04.10:333][465]LogMaterial: Display: Missing cached shader map for material Mesh9_Group9_ModelMat, compiling. 
+[2020.04.08-04.04.10:354][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh9_Group9_Model...
+[2020.04.08-04.04.10:358][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh9_Group9_Model.Greybox_GDS210_-_2_0_Mesh9_Group9_Model
+[2020.04.08-04.04.10:362][465]LogMaterial: Display: Missing cached shader map for material Mesh8_Group8_ModelMat, compiling. 
+[2020.04.08-04.04.10:379][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh8_Group8_Model...
+[2020.04.08-04.04.10:384][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh8_Group8_Model.Greybox_GDS210_-_2_0_Mesh8_Group8_Model
+[2020.04.08-04.04.10:386][465]LogMaterial: Display: Missing cached shader map for material Mesh7_Group7_ModelMat, compiling. 
+[2020.04.08-04.04.10:401][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh7_Group7_Model...
+[2020.04.08-04.04.10:405][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh7_Group7_Model.Greybox_GDS210_-_2_0_Mesh7_Group7_Model
+[2020.04.08-04.04.10:407][465]LogMaterial: Display: Missing cached shader map for material Mesh77_ModelMat, compiling. 
+[2020.04.08-04.04.10:424][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh77_Model...
+[2020.04.08-04.04.10:425][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh77_Model.Greybox_GDS210_-_2_0_Mesh77_Model
+[2020.04.08-04.04.10:428][465]LogMaterial: Display: Missing cached shader map for material Mesh76_ModelMat, compiling. 
+[2020.04.08-04.04.10:444][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh76_Model...
+[2020.04.08-04.04.10:445][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh76_Model.Greybox_GDS210_-_2_0_Mesh76_Model
+[2020.04.08-04.04.10:447][465]LogMaterial: Display: Missing cached shader map for material Mesh51_Group44_ModelMat, compiling. 
+[2020.04.08-04.04.10:465][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh52_Group45_Model...
+[2020.04.08-04.04.10:466][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh52_Group45_Model.Greybox_GDS210_-_2_0_Mesh52_Group45_Model
+[2020.04.08-04.04.10:471][465]LogMaterial: Display: Missing cached shader map for material Mesh20_Group22_Group17_ModelMat, compiling. 
+[2020.04.08-04.04.10:489][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh20_Group22_Group17_Model...
+[2020.04.08-04.04.10:493][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh20_Group22_Group17_Model.Greybox_GDS210_Mesh20_Group22_Group17_Model
+[2020.04.08-04.04.10:494][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh21_Group23_Group17_Model...
+[2020.04.08-04.04.10:499][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh21_Group23_Group17_Model.Greybox_GDS210_Mesh21_Group23_Group17_Model
+[2020.04.08-04.04.10:503][465]LogMaterial: Display: Missing cached shader map for material Mesh1_Group1_ModelMat, compiling. 
+[2020.04.08-04.04.10:518][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh4_Group6_Group3_Group2_Model...
+[2020.04.08-04.04.10:521][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh4_Group6_Group3_Group2_Model.Greybox_GDS210_Mesh4_Group6_Group3_Group2_Model
+[2020.04.08-04.04.10:523][465]LogMaterial: Display: Missing cached shader map for material Mesh4_Group6_Group3_Group2_ModelMat, compiling. 
+[2020.04.08-04.04.10:540][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh35_Group33_Model...
+[2020.04.08-04.04.10:543][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh35_Group33_Model.Greybox_GDS210_-_2_0_Mesh35_Group33_Model
+[2020.04.08-04.04.10:547][465]LogMaterial: Display: Missing cached shader map for material Mesh34_Group33_ModelMat, compiling. 
+[2020.04.08-04.04.10:570][465]LogMaterial: Display: Missing cached shader map for material Mesh54_Group48_Group47_ModelMat, compiling. 
+[2020.04.08-04.04.10:589][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh54_Group48_Group47_Model...
+[2020.04.08-04.04.10:591][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh54_Group48_Group47_Model.Greybox_GDS210_-_2_0_Mesh54_Group48_Group47_Model
+[2020.04.08-04.04.10:594][465]LogMaterial: Display: Missing cached shader map for material Mesh16_Group18_Group17_ModelMat, compiling. 
+[2020.04.08-04.04.10:610][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh17_Group19_Group17_Model...
+[2020.04.08-04.04.10:614][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh17_Group19_Group17_Model.Greybox_GDS210_Mesh17_Group19_Group17_Model
+[2020.04.08-04.04.10:617][465]LogMaterial: Display: Missing cached shader map for material Mesh17_Group19_Group17_ModelMat, compiling. 
+[2020.04.08-04.04.10:634][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh18_Group20_Group17_Model...
+[2020.04.08-04.04.10:637][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh18_Group20_Group17_Model.Greybox_GDS210_Mesh18_Group20_Group17_Model
+[2020.04.08-04.04.10:640][465]LogMaterial: Display: Missing cached shader map for material Mesh38_Group33_ModelMat, compiling. 
+[2020.04.08-04.04.10:660][465]LogMaterial: Display: Missing cached shader map for material Mesh37_Group33_ModelMat, compiling. 
+[2020.04.08-04.04.10:679][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh38_Group33_Model...
+[2020.04.08-04.04.10:680][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh38_Group33_Model.Greybox_GDS210_-_2_0_Mesh38_Group33_Model
+[2020.04.08-04.04.10:682][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh3_Group5_Group3_Group2_Model...
+[2020.04.08-04.04.10:686][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh3_Group5_Group3_Group2_Model.Greybox_GDS210_Mesh3_Group5_Group3_Group2_Model
+[2020.04.08-04.04.10:690][465]LogMaterial: Display: Missing cached shader map for material Mesh2_Group4_Group3_Group2_ModelMat, compiling. 
+[2020.04.08-04.04.10:713][465]LogMaterial: Display: Missing cached shader map for material Mesh3_Group5_Group3_Group2_ModelMat, compiling. 
+[2020.04.08-04.04.10:740][465]LogMaterial: Display: Missing cached shader map for material Mesh9_Group11_Group3_Group2_ModelMat, compiling. 
+[2020.04.08-04.04.10:761][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh8_Group10_Group3_Group2_Model...
+[2020.04.08-04.04.10:766][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh8_Group10_Group3_Group2_Model.Greybox_GDS210_Mesh8_Group10_Group3_Group2_Model
+[2020.04.08-04.04.10:767][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh9_Group11_Group3_Group2_Model...
+[2020.04.08-04.04.10:772][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh9_Group11_Group3_Group2_Model.Greybox_GDS210_Mesh9_Group11_Group3_Group2_Model
+[2020.04.08-04.04.10:777][465]LogMaterial: Display: Missing cached shader map for material Mesh8_Group10_Group3_Group2_ModelMat, compiling. 
+[2020.04.08-04.04.10:799][465]LogMaterial: Display: Missing cached shader map for material Mesh14_Group14_ModelMat, compiling. 
+[2020.04.08-04.04.10:819][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh14_Group14_Model...
+[2020.04.08-04.04.10:821][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh14_Group14_Model.Greybox_GDS210_-_2_0_Mesh14_Group14_Model
+[2020.04.08-04.04.10:825][465]LogMaterial: Display: Missing cached shader map for material Mesh13_Group13_ModelMat, compiling. 
+[2020.04.08-04.04.10:846][465]LogMaterial: Display: Missing cached shader map for material Mesh40_Group35_ModelMat, compiling. 
+[2020.04.08-04.04.10:867][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh41_Group36_Model...
+[2020.04.08-04.04.10:876][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh41_Group36_Model.Greybox_GDS210_-_2_0_Mesh41_Group36_Model
+[2020.04.08-04.04.10:877][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh42_Group36_Model...
+[2020.04.08-04.04.10:878][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh42_Group36_Model.Greybox_GDS210_-_2_0_Mesh42_Group36_Model
+[2020.04.08-04.04.10:882][465]LogMaterial: Display: Missing cached shader map for material Mesh41_Group36_ModelMat, compiling. 
+[2020.04.08-04.04.10:900][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh40_Group35_Model...
+[2020.04.08-04.04.10:902][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh40_Group35_Model.Greybox_GDS210_-_2_0_Mesh40_Group35_Model
+[2020.04.08-04.04.10:904][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh24_Group25_Model...
+[2020.04.08-04.04.10:909][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh24_Group25_Model.Greybox_GDS210_Mesh24_Group25_Model
+[2020.04.08-04.04.10:910][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh26_Group27_Model...
+[2020.04.08-04.04.10:915][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh26_Group27_Model.Greybox_GDS210_Mesh26_Group27_Model
+[2020.04.08-04.04.10:916][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh25_Group26_Model...
+[2020.04.08-04.04.10:922][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh25_Group26_Model.Greybox_GDS210_Mesh25_Group26_Model
+[2020.04.08-04.04.10:928][465]LogMaterial: Display: Missing cached shader map for material Mesh24_Group25_ModelMat, compiling. 
+[2020.04.08-04.04.10:955][465]LogMaterial: Display: Missing cached shader map for material Mesh25_Group26_ModelMat, compiling. 
+[2020.04.08-04.04.10:977][465]LogMaterial: Display: Missing cached shader map for material Mesh19_Group17_ModelMat, compiling. 
+[2020.04.08-04.04.10:999][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh20_Group18_Model...
+[2020.04.08-04.04.11:004][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh20_Group18_Model.Greybox_GDS210_-_2_0_Mesh20_Group18_Model
+[2020.04.08-04.04.11:004][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh1_Group1_Model...
+[2020.04.08-04.04.11:009][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh1_Group1_Model.Greybox_GDS210_-_2_0_Mesh1_Group1_Model
+[2020.04.08-04.04.11:012][465]LogMaterial: Display: Missing cached shader map for material Mesh1_Group1_ModelMat, compiling. 
+[2020.04.08-04.04.11:034][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh36_Group33_Model...
+[2020.04.08-04.04.11:039][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh36_Group33_Model.Greybox_GDS210_-_2_0_Mesh36_Group33_Model
+[2020.04.08-04.04.11:044][465]LogMaterial: Display: Missing cached shader map for material Mesh35_Group33_ModelMat, compiling. 
+[2020.04.08-04.04.11:066][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh27_Group26_Group20_Model...
+[2020.04.08-04.04.11:070][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh27_Group26_Group20_Model.Greybox_GDS210_-_2_0_Mesh27_Group26_Group20_Model
+[2020.04.08-04.04.11:075][465]LogMaterial: Display: Missing cached shader map for material Mesh27_Group26_Group20_ModelMat, compiling. 
+[2020.04.08-04.04.11:099][465]LogMaterial: Display: Missing cached shader map for material Mesh6_Group8_Group3_Group2_ModelMat, compiling. 
+[2020.04.08-04.04.11:120][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh5_Group7_Group3_Group2_Model...
+[2020.04.08-04.04.11:124][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh5_Group7_Group3_Group2_Model.Greybox_GDS210_Mesh5_Group7_Group3_Group2_Model
+[2020.04.08-04.04.11:128][465]LogMaterial: Display: Missing cached shader map for material Mesh5_Group7_Group3_Group2_ModelMat, compiling. 
+[2020.04.08-04.04.11:149][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh6_Group8_Group3_Group2_Model...
+[2020.04.08-04.04.11:152][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh6_Group8_Group3_Group2_Model.Greybox_GDS210_Mesh6_Group8_Group3_Group2_Model
+[2020.04.08-04.04.11:155][465]LogMaterial: Display: Missing cached shader map for material Mesh26_Group27_ModelMat, compiling. 
+[2020.04.08-04.04.11:176][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh27_Model...
+[2020.04.08-04.04.11:185][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh27_Model.Greybox_GDS210_Mesh27_Model
+[2020.04.08-04.04.11:186][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh62_Group56_Model...
+[2020.04.08-04.04.11:191][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh62_Group56_Model.Greybox_GDS210_-_2_0_Mesh62_Group56_Model
+[2020.04.08-04.04.11:194][465]LogMaterial: Display: Missing cached shader map for material Mesh62_Group56_ModelMat, compiling. 
+[2020.04.08-04.04.11:215][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh63_Group57_Model...
+[2020.04.08-04.04.11:219][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh63_Group57_Model.Greybox_GDS210_-_2_0_Mesh63_Group57_Model
+[2020.04.08-04.04.11:223][465]LogMaterial: Display: Missing cached shader map for material Mesh61_Group55_ModelMat, compiling. 
+[2020.04.08-04.04.11:245][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh10_Group12_Group3_Group2_Model...
+[2020.04.08-04.04.11:249][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh10_Group12_Group3_Group2_Model.Greybox_GDS210_Mesh10_Group12_Group3_Group2_Model
+[2020.04.08-04.04.11:255][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh10_Group10_Model...
+[2020.04.08-04.04.11:269][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh10_Group10_Model.Greybox_GDS210_-_2_0_Mesh10_Group10_Model
+[2020.04.08-04.04.11:270][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh11_Group11_Model...
+[2020.04.08-04.04.11:273][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh11_Group11_Model.Greybox_GDS210_-_2_0_Mesh11_Group11_Model
+[2020.04.08-04.04.11:274][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh12_Group12_Model...
+[2020.04.08-04.04.11:277][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh12_Group12_Model.Greybox_GDS210_-_2_0_Mesh12_Group12_Model
+[2020.04.08-04.04.11:278][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh13_Group13_Model...
+[2020.04.08-04.04.11:281][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh13_Group13_Model.Greybox_GDS210_-_2_0_Mesh13_Group13_Model
+[2020.04.08-04.04.11:281][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh15_Group15_Model...
+[2020.04.08-04.04.11:288][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh15_Group15_Model.Greybox_GDS210_-_2_0_Mesh15_Group15_Model
+[2020.04.08-04.04.11:289][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh16_Group16_Model...
+[2020.04.08-04.04.11:290][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh16_Group16_Model.Greybox_GDS210_-_2_0_Mesh16_Group16_Model
+[2020.04.08-04.04.11:291][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh21_Group19_Model...
+[2020.04.08-04.04.11:303][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh21_Group19_Model.Greybox_GDS210_-_2_0_Mesh21_Group19_Model
+[2020.04.08-04.04.11:304][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh22_Group21_Group20_Model...
+[2020.04.08-04.04.11:308][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh22_Group21_Group20_Model.Greybox_GDS210_-_2_0_Mesh22_Group21_Group20_Model
+[2020.04.08-04.04.11:309][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh23_Group22_Group20_Model...
+[2020.04.08-04.04.11:313][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh23_Group22_Group20_Model.Greybox_GDS210_-_2_0_Mesh23_Group22_Group20_Model
+[2020.04.08-04.04.11:313][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh24_Group23_Group20_Model...
+[2020.04.08-04.04.11:317][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh24_Group23_Group20_Model.Greybox_GDS210_-_2_0_Mesh24_Group23_Group20_Model
+[2020.04.08-04.04.11:318][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh25_Group24_Group20_Model...
+[2020.04.08-04.04.11:322][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh25_Group24_Group20_Model.Greybox_GDS210_-_2_0_Mesh25_Group24_Group20_Model
+[2020.04.08-04.04.11:323][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh26_Group25_Group20_Model...
+[2020.04.08-04.04.11:328][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh26_Group25_Group20_Model.Greybox_GDS210_-_2_0_Mesh26_Group25_Group20_Model
+[2020.04.08-04.04.11:329][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh29_Group28_Group20_Model...
+[2020.04.08-04.04.11:333][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh29_Group28_Group20_Model.Greybox_GDS210_-_2_0_Mesh29_Group28_Group20_Model
+[2020.04.08-04.04.11:333][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh2_Group2_Model...
+[2020.04.08-04.04.11:337][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh2_Group2_Model.Greybox_GDS210_-_2_0_Mesh2_Group2_Model
+[2020.04.08-04.04.11:338][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh30_Group29_Group20_Model...
+[2020.04.08-04.04.11:342][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh30_Group29_Group20_Model.Greybox_GDS210_-_2_0_Mesh30_Group29_Group20_Model
+[2020.04.08-04.04.11:342][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh31_Group30_Group20_Model...
+[2020.04.08-04.04.11:346][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh31_Group30_Group20_Model.Greybox_GDS210_-_2_0_Mesh31_Group30_Group20_Model
+[2020.04.08-04.04.11:347][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh32_Group31_Group20_Model...
+[2020.04.08-04.04.11:354][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh32_Group31_Group20_Model.Greybox_GDS210_-_2_0_Mesh32_Group31_Group20_Model
+[2020.04.08-04.04.11:355][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh33_Group32_Model...
+[2020.04.08-04.04.11:360][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh33_Group32_Model.Greybox_GDS210_-_2_0_Mesh33_Group32_Model
+[2020.04.08-04.04.11:360][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh34_Group33_Model...
+[2020.04.08-04.04.11:373][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh34_Group33_Model.Greybox_GDS210_-_2_0_Mesh34_Group33_Model
+[2020.04.08-04.04.11:374][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh37_Group33_Model...
+[2020.04.08-04.04.11:375][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh37_Group33_Model.Greybox_GDS210_-_2_0_Mesh37_Group33_Model
+[2020.04.08-04.04.11:375][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh39_Group34_Model...
+[2020.04.08-04.04.11:377][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh39_Group34_Model.Greybox_GDS210_-_2_0_Mesh39_Group34_Model
+[2020.04.08-04.04.11:377][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh3_Group3_Model...
+[2020.04.08-04.04.11:383][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh3_Group3_Model.Greybox_GDS210_-_2_0_Mesh3_Group3_Model
+[2020.04.08-04.04.11:384][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh43_Group37_Model...
+[2020.04.08-04.04.11:384][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh43_Group37_Model.Greybox_GDS210_-_2_0_Mesh43_Group37_Model
+[2020.04.08-04.04.11:385][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh44_Group38_Model...
+[2020.04.08-04.04.11:392][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh44_Group38_Model.Greybox_GDS210_-_2_0_Mesh44_Group38_Model
+[2020.04.08-04.04.11:392][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh45_Group39_Model...
+[2020.04.08-04.04.11:394][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh45_Group39_Model.Greybox_GDS210_-_2_0_Mesh45_Group39_Model
+[2020.04.08-04.04.11:395][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh46_Group40_Model...
+[2020.04.08-04.04.11:404][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh46_Group40_Model.Greybox_GDS210_-_2_0_Mesh46_Group40_Model
+[2020.04.08-04.04.11:405][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh47_Group40_Model...
+[2020.04.08-04.04.11:406][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh47_Group40_Model.Greybox_GDS210_-_2_0_Mesh47_Group40_Model
+[2020.04.08-04.04.11:406][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh48_Group41_Model...
+[2020.04.08-04.04.11:409][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh48_Group41_Model.Greybox_GDS210_-_2_0_Mesh48_Group41_Model
+[2020.04.08-04.04.11:410][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh49_Group42_Model...
+[2020.04.08-04.04.11:415][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh49_Group42_Model.Greybox_GDS210_-_2_0_Mesh49_Group42_Model
+[2020.04.08-04.04.11:416][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh4_Group4_Model...
+[2020.04.08-04.04.11:421][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh4_Group4_Model.Greybox_GDS210_-_2_0_Mesh4_Group4_Model
+[2020.04.08-04.04.11:422][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh50_Group43_Model...
+[2020.04.08-04.04.11:426][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh50_Group43_Model.Greybox_GDS210_-_2_0_Mesh50_Group43_Model
+[2020.04.08-04.04.11:426][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh51_Group44_Model...
+[2020.04.08-04.04.11:430][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh51_Group44_Model.Greybox_GDS210_-_2_0_Mesh51_Group44_Model
+[2020.04.08-04.04.11:430][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh53_Group46_Model...
+[2020.04.08-04.04.11:449][465]LogStaticMesh: Built static mesh [0.02s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh53_Group46_Model.Greybox_GDS210_-_2_0_Mesh53_Group46_Model
+[2020.04.08-04.04.11:449][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh55_Group47_Model...
+[2020.04.08-04.04.11:450][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh55_Group47_Model.Greybox_GDS210_-_2_0_Mesh55_Group47_Model
+[2020.04.08-04.04.11:451][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh56_Group50_Group49_Model...
+[2020.04.08-04.04.11:453][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh56_Group50_Group49_Model.Greybox_GDS210_-_2_0_Mesh56_Group50_Group49_Model
+[2020.04.08-04.04.11:454][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh57_Group49_Model...
+[2020.04.08-04.04.11:455][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh57_Group49_Model.Greybox_GDS210_-_2_0_Mesh57_Group49_Model
+[2020.04.08-04.04.11:455][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh58_Group51_Model...
+[2020.04.08-04.04.11:459][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh58_Group51_Model.Greybox_GDS210_-_2_0_Mesh58_Group51_Model
+[2020.04.08-04.04.11:460][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh59_Group53_Group52_Model...
+[2020.04.08-04.04.11:464][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh59_Group53_Group52_Model.Greybox_GDS210_-_2_0_Mesh59_Group53_Group52_Model
+[2020.04.08-04.04.11:464][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh5_Group5_Model...
+[2020.04.08-04.04.11:468][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh5_Group5_Model.Greybox_GDS210_-_2_0_Mesh5_Group5_Model
+[2020.04.08-04.04.11:469][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh60_Group54_Model...
+[2020.04.08-04.04.11:475][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh60_Group54_Model.Greybox_GDS210_-_2_0_Mesh60_Group54_Model
+[2020.04.08-04.04.11:477][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh61_Group55_Model...
+[2020.04.08-04.04.11:478][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh61_Group55_Model.Greybox_GDS210_-_2_0_Mesh61_Group55_Model
+[2020.04.08-04.04.11:479][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh64_Group58_Model...
+[2020.04.08-04.04.11:483][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh64_Group58_Model.Greybox_GDS210_-_2_0_Mesh64_Group58_Model
+[2020.04.08-04.04.11:483][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh65_Group59_Model...
+[2020.04.08-04.04.11:489][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh65_Group59_Model.Greybox_GDS210_-_2_0_Mesh65_Group59_Model
+[2020.04.08-04.04.11:490][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh66_Group60_Model...
+[2020.04.08-04.04.11:494][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh66_Group60_Model.Greybox_GDS210_-_2_0_Mesh66_Group60_Model
+[2020.04.08-04.04.11:494][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh67_Group60_Model...
+[2020.04.08-04.04.11:495][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh67_Group60_Model.Greybox_GDS210_-_2_0_Mesh67_Group60_Model
+[2020.04.08-04.04.11:496][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh68_Group61_Model...
+[2020.04.08-04.04.11:504][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh68_Group61_Model.Greybox_GDS210_-_2_0_Mesh68_Group61_Model
+[2020.04.08-04.04.11:505][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh69_Group62_Model...
+[2020.04.08-04.04.11:510][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh69_Group62_Model.Greybox_GDS210_-_2_0_Mesh69_Group62_Model
+[2020.04.08-04.04.11:510][465]LogStaticMesh: Building static mesh Greybox_GDS210_-_2_0_Mesh6_Group6_Model...
+[2020.04.08-04.04.11:517][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh6_Group6_Model.Greybox_GDS210_-_2_0_Mesh6_Group6_Model
+[2020.04.08-04.04.11:518][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh11_Group13_Group3_Group2_Model...
+[2020.04.08-04.04.11:522][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh11_Group13_Group3_Group2_Model.Greybox_GDS210_Mesh11_Group13_Group3_Group2_Model
+[2020.04.08-04.04.11:523][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model...
+[2020.04.08-04.04.11:529][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model.Greybox_GDS210_Mesh12_Group14_Group3_Group2_Model
+[2020.04.08-04.04.11:531][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh13_Group2_Model...
+[2020.04.08-04.04.11:539][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh13_Group2_Model.Greybox_GDS210_Mesh13_Group2_Model
+[2020.04.08-04.04.11:539][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh14_Group15_Model...
+[2020.04.08-04.04.11:543][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh14_Group15_Model.Greybox_GDS210_Mesh14_Group15_Model
+[2020.04.08-04.04.11:544][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh15_Group16_Model...
+[2020.04.08-04.04.11:552][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh15_Group16_Model.Greybox_GDS210_Mesh15_Group16_Model
+[2020.04.08-04.04.11:552][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh16_Group18_Group17_Model...
+[2020.04.08-04.04.11:556][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh16_Group18_Group17_Model.Greybox_GDS210_Mesh16_Group18_Group17_Model
+[2020.04.08-04.04.11:557][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh19_Group21_Group17_Model...
+[2020.04.08-04.04.11:569][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh19_Group21_Group17_Model.Greybox_GDS210_Mesh19_Group21_Group17_Model
+[2020.04.08-04.04.11:570][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh1_Group1_Model...
+[2020.04.08-04.04.11:574][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh1_Group1_Model.Greybox_GDS210_Mesh1_Group1_Model
+[2020.04.08-04.04.11:574][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh23_Group24_Model...
+[2020.04.08-04.04.11:579][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh23_Group24_Model.Greybox_GDS210_Mesh23_Group24_Model
+[2020.04.08-04.04.11:580][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh2_Group4_Group3_Group2_Model...
+[2020.04.08-04.04.11:584][465]LogStaticMesh: Built static mesh [0.00s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh2_Group4_Group3_Group2_Model.Greybox_GDS210_Mesh2_Group4_Group3_Group2_Model
+[2020.04.08-04.04.11:585][465]LogStaticMesh: Building static mesh Greybox_GDS210_Mesh7_Group9_Group3_Group2_Model...
+[2020.04.08-04.04.11:592][465]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/Models/Greybox_GDS210_Mesh7_Group9_Group3_Group2_Model.Greybox_GDS210_Mesh7_Group9_Group3_Group2_Model
+[2020.04.08-04.04.11:596][465]LogMaterial: Display: Missing cached shader map for material Mesh10_Group12_Group3_Group2_ModelMat, compiling. 
+[2020.04.08-04.04.11:627][465]LogMaterial: Display: Missing cached shader map for material Mesh27_ModelMat, compiling. 
+[2020.04.08-04.04.11:652][465]LogMaterial: Display: Missing cached shader map for material Mesh39_Group34_ModelMat, compiling. 
+[2020.04.08-04.04.11:675][465]LogMaterial: Display: Missing cached shader map for material Mesh46_Group40_ModelMat, compiling. 
+[2020.04.08-04.04.11:699][465]LogMaterial: Display: Missing cached shader map for material Mesh33_Group32_ModelMat, compiling. 
+[2020.04.08-04.04.11:722][465]LogMaterial: Display: Missing cached shader map for material Mesh12_Group14_Group3_Group2_ModelMat, compiling. 
+[2020.04.08-04.04.11:745][465]LogMaterial: Display: Missing cached shader map for material Mesh14_Group15_ModelMat, compiling. 
+[2020.04.08-04.04.11:769][465]LogMaterial: Display: Missing cached shader map for material Mesh13_Group2_ModelMat, compiling. 
+[2020.04.08-04.04.11:794][465]LogMaterial: Display: Missing cached shader map for material Mesh5_Group5_ModelMat, compiling. 
+[2020.04.08-04.04.11:817][465]LogMaterial: Display: Missing cached shader map for material Mesh60_Group54_ModelMat, compiling. 
+[2020.04.08-04.04.11:840][465]LogMaterial: Display: Missing cached shader map for material Mesh30_Group29_Group20_ModelMat, compiling. 
+[2020.04.08-04.04.11:864][465]LogMaterial: Display: Missing cached shader map for material Mesh2_Group2_ModelMat, compiling. 
+[2020.04.08-04.04.11:887][465]LogMaterial: Display: Missing cached shader map for material Mesh24_Group23_Group20_ModelMat, compiling. 
+[2020.04.08-04.04.11:921][465]LogMaterial: Display: Missing cached shader map for material Mesh23_Group22_Group20_ModelMat, compiling. 
+[2020.04.08-04.04.11:952][465]LogMaterial: Display: Missing cached shader map for material Mesh10_Group10_ModelMat, compiling. 
+[2020.04.08-04.04.11:977][465]LogMaterial: Display: Missing cached shader map for material Mesh32_Group31_Group20_ModelMat, compiling. 
+[2020.04.08-04.04.11:999][465]LogMaterial: Display: Missing cached shader map for material Mesh31_Group30_Group20_ModelMat, compiling. 
+[2020.04.08-04.04.12:024][465]LogMaterial: Display: Missing cached shader map for material Mesh11_Group11_ModelMat, compiling. 
+[2020.04.08-04.04.12:048][465]LogMaterial: Display: Missing cached shader map for material Mesh53_Group46_ModelMat, compiling. 
+[2020.04.08-04.04.12:071][465]LogMaterial: Display: Missing cached shader map for material Mesh52_Group45_ModelMat, compiling. 
+[2020.04.08-04.04.12:097][465]LogMaterial: Display: Missing cached shader map for material Mesh66_Group60_ModelMat, compiling. 
+[2020.04.08-04.04.12:119][465]LogMaterial: Display: Missing cached shader map for material Mesh67_Group60_ModelMat, compiling. 
+[2020.04.08-04.04.12:144][465]LogMaterial: Display: Missing cached shader map for material Mesh65_Group59_ModelMat, compiling. 
+[2020.04.08-04.04.12:168][465]LogMaterial: Display: Missing cached shader map for material Mesh47_Group40_ModelMat, compiling. 
+[2020.04.08-04.04.12:190][465]LogMaterial: Display: Missing cached shader map for material Mesh48_Group41_ModelMat, compiling. 
+[2020.04.08-04.04.12:215][465]LogMaterial: Display: Missing cached shader map for material Mesh50_Group43_ModelMat, compiling. 
+[2020.04.08-04.04.12:240][465]LogMaterial: Display: Missing cached shader map for material Mesh57_Group49_ModelMat, compiling. 
+[2020.04.08-04.04.12:263][465]LogMaterial: Display: Missing cached shader map for material Mesh56_Group50_Group49_ModelMat, compiling. 
+[2020.04.08-04.04.12:296][465]LogMaterial: Display: Missing cached shader map for material Mesh15_Group16_ModelMat, compiling. 
+[2020.04.08-04.04.12:333][465]LogMaterial: Display: Missing cached shader map for material Mesh12_Group12_ModelMat, compiling. 
+[2020.04.08-04.04.12:362][465]LogMaterial: Display: Missing cached shader map for material Mesh4_Group4_ModelMat, compiling. 
+[2020.04.08-04.04.12:390][465]LogMaterial: Display: Missing cached shader map for material Mesh49_Group42_ModelMat, compiling. 
+[2020.04.08-04.04.12:419][465]LogMaterial: Display: Missing cached shader map for material Mesh26_Group25_Group20_ModelMat, compiling. 
+[2020.04.08-04.04.12:444][465]LogMaterial: Display: Missing cached shader map for material Mesh25_Group24_Group20_ModelMat, compiling. 
+[2020.04.08-04.04.12:471][465]LogMaterial: Display: Missing cached shader map for material Mesh58_Group51_ModelMat, compiling. 
+[2020.04.08-04.04.12:494][465]LogMaterial: Display: Missing cached shader map for material Mesh59_Group53_Group52_ModelMat, compiling. 
+[2020.04.08-04.04.12:519][465]LogMaterial: Display: Missing cached shader map for material Mesh64_Group58_ModelMat, compiling. 
+[2020.04.08-04.04.12:546][465]LogMaterial: Display: Missing cached shader map for material Mesh63_Group57_ModelMat, compiling. 
+[2020.04.08-04.04.12:576][465]LogMaterial: Display: Missing cached shader map for material Mesh3_Group3_ModelMat, compiling. 
+[2020.04.08-04.04.12:603][465]LogMaterial: Display: Missing cached shader map for material Mesh55_Group47_ModelMat, compiling. 
+[2020.04.08-04.04.12:630][465]LogMaterial: Display: Missing cached shader map for material Mesh44_Group38_ModelMat, compiling. 
+[2020.04.08-04.04.12:656][465]LogMaterial: Display: Missing cached shader map for material Mesh42_Group36_ModelMat, compiling. 
+[2020.04.08-04.04.12:681][465]LogMaterial: Display: Missing cached shader map for material Mesh43_Group37_ModelMat, compiling. 
+[2020.04.08-04.04.12:708][465]LogMaterial: Display: Missing cached shader map for material Mesh45_Group39_ModelMat, compiling. 
+[2020.04.08-04.04.12:733][465]LogMaterial: Display: Missing cached shader map for material Mesh11_Group13_Group3_Group2_ModelMat, compiling. 
+[2020.04.08-04.04.12:758][465]LogMaterial: Display: Missing cached shader map for material Mesh7_Group9_Group3_Group2_ModelMat, compiling. 
+[2020.04.08-04.04.12:786][465]LogMaterial: Display: Missing cached shader map for material Mesh20_Group18_ModelMat, compiling. 
+[2020.04.08-04.04.12:811][465]LogMaterial: Display: Missing cached shader map for material Mesh21_Group19_ModelMat, compiling. 
+[2020.04.08-04.04.12:839][465]LogMaterial: Display: Missing cached shader map for material Mesh18_Group20_Group17_ModelMat, compiling. 
+[2020.04.08-04.04.12:865][465]LogMaterial: Display: Missing cached shader map for material Mesh19_Group21_Group17_ModelMat, compiling. 
+[2020.04.08-04.04.12:889][465]LogMaterial: Display: Missing cached shader map for material Mesh15_Group15_ModelMat, compiling. 
+[2020.04.08-04.04.12:915][465]LogMaterial: Display: Missing cached shader map for material Mesh16_Group16_ModelMat, compiling. 
+[2020.04.08-04.04.12:936][465]LogMaterial: Display: Missing cached shader map for material Mesh36_Group33_ModelMat, compiling. 
+[2020.04.08-04.04.12:962][465]LogMaterial: Display: Missing cached shader map for material Mesh22_Group21_Group20_ModelMat, compiling. 
+[2020.04.08-04.04.12:989][465]LogMaterial: Display: Missing cached shader map for material Mesh6_Group6_ModelMat, compiling. 
+[2020.04.08-04.04.13:013][465]LogMaterial: Display: Missing cached shader map for material Mesh69_Group62_ModelMat, compiling. 
+[2020.04.08-04.04.13:036][465]LogMaterial: Display: Missing cached shader map for material Mesh68_Group61_ModelMat, compiling. 
+[2020.04.08-04.04.13:061][465]LogMaterial: Display: Missing cached shader map for material Mesh29_Group28_Group20_ModelMat, compiling. 
+[2020.04.08-04.04.13:084][465]LogMaterial: Display: Missing cached shader map for material Mesh22_Group17_ModelMat, compiling. 
+[2020.04.08-04.04.13:107][465]LogMaterial: Display: Missing cached shader map for material Mesh23_Group24_ModelMat, compiling. 
+[2020.04.08-04.04.13:132][465]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.08-04.04.13:151][465]LogAssetEditorManager: Opening Asset editor for World /Game/MiniGame1/MiniGame1.MiniGame1
+[2020.04.08-04.04.13:180][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.04.08-04.04.15:594][465]LogSlate: Window 'Save Content' being destroyed
+[2020.04.08-04.04.15:604][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HubWorld/HubWorld" FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/HubWorld/HubWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.08-04.04.15:631][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.04.08-04.04.15:951][465]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/HubWorldF55068914EA4E5FB397F7E986B2E6619.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/HubWorld/HubWorld.umap'
+[2020.04.08-04.04.15:996][465]LogFileHelpers: Saving map 'HubWorld' took 0.393
+[2020.04.08-04.04.15:997][465]Cmd: MAP LOAD FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.08-04.04.15:997][465]LightingResults: New page: Lighting Build
+[2020.04.08-04.04.15:998][465]LoadErrors: New page: Loading map: MiniGame1.umap
+[2020.04.08-04.04.16:001][465]MapCheck: New page: Map Check
+[2020.04.08-04.04.16:001][465]LightingResults: New page: Lighting Build
+[2020.04.08-04.04.16:033][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.04.08-04.04.16:170][465]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.08-04.04.16:203][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.04.08-04.04.16:240][465]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.08-04.04.16:242][465]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.004ms to complete.
+[2020.04.08-04.04.16:242][465]LogFileHelpers: Loading map 'MiniGame1' took 0.245
+[2020.04.08-04.04.16:349][465]LogAIModule: Creating AISystem for world HubWorld
+[2020.04.08-04.04.16:359][465]LogHMD: SteamVR Shutting down.
+[2020.04.08-04.04.17:285][495]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID PRO USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.04.08-04.04.17:413][496]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID PRO USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.04.08-04.04.24:851][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh66_Group60_Model)
+[2020.04.08-04.04.31:035][777]Cmd: SELECT NONE
+[2020.04.08-04.04.45:441][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-04.05.01:765][834]Cmd: SELECT NONE
+[2020.04.08-04.05.03:591][  1]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2020.04.08-04.05.06:313][208]Cmd: SELECT NONE
+[2020.04.08-04.05.25:237][240]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.04.08-04.05.46:009][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh66_Group60_Model)
+[2020.04.08-04.05.46:652][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh39_Group34_Model)
+[2020.04.08-04.05.49:376][202]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.04.08-04.05.50:072][262]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.08-04.05.50:628][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh50_Group43_Model)
+[2020.04.08-04.05.52:171][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh46_Group40_Model)
+[2020.04.08-04.05.52:982][450]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.08-04.05.53:494][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh68_Group61_Model)
+[2020.04.08-04.05.56:386][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-04.06.03:861][ 83]Cmd: SELECT NONE
+[2020.04.08-04.06.24:855][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-04.06.25:027][887]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh64_Group58_Model.Greybox_GDS210_-_2_0_Mesh64_Group58_Model
+[2020.04.08-04.06.50:207][577]LogSlate: Window 'Greybox_GDS210_-_2_0_Mesh64_Group58_Model' being destroyed
+[2020.04.08-04.07.00:097][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_Mesh22_Group17_Model)
+[2020.04.08-04.07.17:905][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh51_Group44_Model)
+[2020.04.08-04.07.20:257][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh39_Group34_Model)
+[2020.04.08-04.07.26:657][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-04.07.26:814][818]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh39_Group34_Model.Greybox_GDS210_-_2_0_Mesh39_Group34_Model
+[2020.04.08-04.07.39:087][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.08-04.07.44:154][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.08-04.07.45:417][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.08-04.07.49:852][404]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.08-04.08.01:130][714]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.08-04.08.32:648][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-04.08.32:820][297]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Greybox_GDS210_-_2_0_Mesh39_Grou234E19FA4975E342CD9839B627D32600.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/NewWorldModel/Greybox_GDS210_-_2_0_Mesh39_Group34_Model.uasset'
+[2020.04.08-04.08.42:745][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-04.08.42:871][402]LogSlate: Window 'Greybox_GDS210_-_2_0_Mesh39_Group34_Model' being destroyed
+[2020.04.08-04.08.44:031][530]Cmd: SELECT NONE
+[2020.04.08-04.08.45:032][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh64_Group58_Model)
+[2020.04.08-04.08.48:415][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh39_Group34_Model)
+[2020.04.08-04.08.52:082][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh64_Group58_Model)
+[2020.04.08-04.09.36:203][415]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.08-04.10.17:092][636]Cmd: SELECT NONE
+[2020.04.08-04.10.19:128][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh76_Model)
+[2020.04.08-04.10.41:982][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-04.11.37:467][251]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.04.08-04.11.39:636][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-04.11.58:746][773]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.08-04.12.03:721][343]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.04.08-04.12.05:864][586]Cmd: SELECT NONE
+[2020.04.08-04.12.14:435][612]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.04.08-04.12.16:604][872]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.04.08-04.12.16:971][916]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.04.08-04.12.17:213][945]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 4
+[2020.04.08-04.12.37:114][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-04.12.39:942][209]LogSlate: Window 'Tutorials' being destroyed
+[2020.04.08-04.14.09:455][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.04.08-04.14.09:647][935]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame1_Auto30BFBDF414F20E2594F3AA194190116EB.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/MiniGame1_Auto3.umap'
+[2020.04.08-04.14.09:649][935]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MiniGame1/MiniGame1' took 0.222
+[2020.04.08-04.14.09:649][935]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.222
+[2020.04.08-04.22.19:390][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh12_Group12_Model)
+[2020.04.08-04.22.21:020][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh39_Group34_Model)
+[2020.04.08-04.22.23:006][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh12_Group12_Model)
+[2020.04.08-04.22.26:141][824]Cmd: SELECT NONE
+[2020.04.08-04.22.26:894][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh12_Group12_Model)
+[2020.04.08-04.22.29:809][245]Cmd: SELECT NONE
+[2020.04.08-04.22.43:291][850]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.04.08-04.22.44:331][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-04.23.23:782][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_Mesh13_Group2_Model)
+[2020.04.08-04.23.27:645][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh39_Group34_Model)
+[2020.04.08-04.23.29:139][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh39_Group34_Model)
+[2020.04.08-04.23.30:136][410]Cmd: SELECT NONE
+[2020.04.08-04.23.33:853][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh39_Group34_Model)
+[2020.04.08-04.23.50:438][825]Cmd: SELECT NONE
+[2020.04.08-04.23.57:014][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh10_Group10_Model)
+[2020.04.08-04.24.04:519][506]Cmd: SELECT NONE
+[2020.04.08-04.24.17:902][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh10_Group10_Model)
+[2020.04.08-04.24.18:437][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh60_Group54_Model)
+[2020.04.08-04.24.19:710][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh21_Group19_Model)
+[2020.04.08-04.24.19:915][322]Cmd: SELECT NONE
+[2020.04.08-04.25.12:848][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.04.08-04.25.13:042][575]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame1_Auto4253DD6814FE7B7AC01CAB8B50E3E9D26.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/MiniGame1_Auto4.umap'
+[2020.04.08-04.25.13:044][575]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MiniGame1/MiniGame1' took 0.220
+[2020.04.08-04.25.13:044][575]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.220
+[2020.04.08-04.25.27:294][884]Cmd: SELECT NONE
+[2020.04.08-04.25.29:553][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_Mesh13_Group2_Model)
+[2020.04.08-04.25.30:011][194]Cmd: SELECT NONE
+[2020.04.08-04.25.31:365][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_Mesh22_Group17_Model)
+[2020.04.08-04.25.40:484][421]Cmd: SELECT NONE
+[2020.04.08-04.25.44:145][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_Mesh27_Model)
+[2020.04.08-04.25.51:642][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-04.26.09:142][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-04.26.20:984][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_Mesh22_Group17_Model)
+[2020.04.08-04.26.23:253][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.08-04.26.59:921][797]Cmd: SELECT NONE
+[2020.04.08-04.27.54:880][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-04.27.55:021][408]LogTemp: Repeating last play command: VR Preview
+[2020.04.08-04.27.55:042][408]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.08-04.27.55:042][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.08-04.27.55:042][408]PIE: New page: PIE session: MiniGame1 (8 Apr 2020 8:27:55 pm)
+[2020.04.08-04.27.55:043][408]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.08-04.27.55:055][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012477s)
+[2020.04.08-04.27.55:056][408]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.08-04.27.55:056][408]LogPlayLevel: PIE: World Init took: (0.000467s)
+[2020.04.08-04.27.55:056][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.013120s)
+[2020.04.08-04.27.55:080][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.04.08-04.27.55:121][408]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID PRO USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.04.08-04.27.55:128][408]LogInit: FAudioDevice initialized.
+[2020.04.08-04.27.55:135][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-04.27.57:476][408]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-69584F10
+[2020.04.08-04.27.57:510][408]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.08-04.27.57:510][408]LogLoad: Game class is 'GameModeBase'
+[2020.04.08-04.27.57:516][408]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.08-12.27.57
+[2020.04.08-04.27.57:516][408]LogWorld: Bringing up level for play took: 0.005324
+[2020.04.08-04.27.57:529][408]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.04.08-04.27.57:530][408]LogOutputDevice: Warning: 
+
+Script Stack (5 frames):
+BP_MotionController_C.SetupRoomScaleOutline
+BP_MotionController_C.ExecuteUbergraph_BP_MotionController
+BP_MotionController_C.ReceiveBeginPlay
+MotionControllerPawn_C.ExecuteUbergraph_MotionControllerPawn
+MotionControllerPawn_C.ReceiveBeginPlay
+
+[2020.04.08-04.27.58:125][408]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.596 s
+[2020.04.08-04.27.58:125][408]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.08-04.27.58:125][408]LogOutputDevice: Error: 
+[2020.04.08-04.27.58:125][408]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Math\Matrix.cpp] [Line: 8]
+[2020.04.08-04.27.58:125][408]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.04.08-04.27.58:125][408]LogOutputDevice: Error: Stack: 
+[2020.04.08-04.27.58:125][408]LogOutputDevice: Error: [Callstack] 0x00007ffda00ed386 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.08-04.27.58:125][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9fd47894 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.08-04.27.58:125][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9c47aaba UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.08-04.27.58:125][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9ccb8ae8 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.08-04.27.58:125][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9ccf06b4 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.08-04.27.58:125][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f6bbac8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:125][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8b00e2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:125][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8ccbc1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:125][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8ce98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8a5efb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8ce6a9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8ce98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8a5efb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8ce6a9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8ce98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8ce378 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f6bbac8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8cdf07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9c539ff3 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9c507358 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9c511af6 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9c536b2b UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9c51ddcb UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9cb8ac6f UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9c564596 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f6bbac8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8b00e2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8ccbc1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8e4be6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8ce98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8a5efb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8ce6a9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8ce98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8ce378 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f6bbac8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9f8cdf07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9c539ff3 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9c507358 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9c511af6 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9d62cb99 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9cb92911 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9d5e754e UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9cb599af UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9acdbe44 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9acfb044 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9ad1319f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9a7efc4a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ffd9b00d396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ff786db6bb1 UE4Editor.exe!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ff786dc554c UE4Editor.exe!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ff786dc55ca UE4Editor.exe!UnknownFunction []
+[2020.04.08-04.27.58:126][408]LogOutputDevice: Error: [Callstack] 0x00007ff786dd316c UE4Editor.exe!UnknownFunction []
+[2020.04.08-04.27.58:127][408]LogOutputDevice: Error: [Callstack] 0x00007ff786dd5b8e UE4Editor.exe!UnknownFunction []
+[2020.04.08-04.27.58:127][408]LogOutputDevice: Error: [Callstack] 0x00007ffe4ec47bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.08-04.27.58:127][408]LogOutputDevice: Error: [Callstack] 0x00007ffe4fa0ced1 ntdll.dll!UnknownFunction []
+[2020.04.08-04.27.58:127][408]LogOutputDevice: Error: 
+[2020.04.08-04.27.58:138][408]LogStats:                SubmitErrorReport -  0.000 s

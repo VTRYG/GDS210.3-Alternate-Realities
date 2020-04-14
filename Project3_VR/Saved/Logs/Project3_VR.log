@@ -577,3 +577,67 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.14-06.40.44:343][519]LogAssetRegistry: Asset discovery search completed in 10.6160 seconds
 [2020.04.14-06.40.44:345][519]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2020.04.14-06.40.44:345][519]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000025 seconds (updated 0 objects)
+[2020.04.14-06.41.56:111][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-06.52.05:329][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-06.52.06:252][538]LogSlate: Took 0.004936 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.14-06.52.07:616][538]LogMaterial: Display: Missing cached shader map for material FrontColor_001, compiling. 
+[2020.04.14-06.52.07:664][538]LogMaterial: Display: Missing cached shader map for material Color_M08, compiling. 
+[2020.04.14-06.52.07:677][538]LogMaterial: Display: Missing cached shader map for material Color_M07, compiling. 
+[2020.04.14-06.52.07:689][538]LogMaterial: Display: Missing cached shader map for material Color_B01, compiling. 
+[2020.04.14-06.52.07:701][538]LogStaticMesh: Building static mesh Meeting_Desk...
+[2020.04.14-06.52.07:720][538]LogStaticMesh: Built static mesh [0.02s] /Game/MiniGame1/UpdatedWorld/Meeting_Desk.Meeting_Desk
+[2020.04.14-06.52.07:731][538]LogMaterial: Display: Missing cached shader map for material FrontColor, compiling. 
+[2020.04.14-06.52.07:747][538]LogMaterial: Display: Missing cached shader map for material Color_M01, compiling. 
+[2020.04.14-06.52.07:763][538]LogMaterial: Display: Missing cached shader map for material Color_L16, compiling. 
+[2020.04.14-06.52.07:781][538]LogMaterial: Display: Missing cached shader map for material Color_I05, compiling. 
+[2020.04.14-06.52.07:797][538]LogMaterial: Display: Missing cached shader map for material Color_H08, compiling. 
+[2020.04.14-06.52.07:812][538]LogMaterial: Display: Missing cached shader map for material Color_H05, compiling. 
+[2020.04.14-06.52.07:828][538]LogMaterial: Display: Missing cached shader map for material Color_H01, compiling. 
+[2020.04.14-06.52.07:843][538]LogMaterial: Display: Missing cached shader map for material Color_F05, compiling. 
+[2020.04.14-06.52.07:859][538]LogMaterial: Display: Missing cached shader map for material Color_EO5, compiling. 
+[2020.04.14-06.52.07:873][538]LogMaterial: Display: Missing cached shader map for material Color_E05, compiling. 
+[2020.04.14-06.52.07:886][538]LogMaterial: Display: Missing cached shader map for material Color_D01, compiling. 
+[2020.04.14-06.52.07:899][538]LogMaterial: Display: Missing cached shader map for material Color_C05, compiling. 
+[2020.04.14-06.52.07:913][538]LogMaterial: Display: Missing cached shader map for material Color_A05, compiling. 
+[2020.04.14-06.52.07:925][538]LogStaticMesh: Building static mesh Level_Layout...
+[2020.04.14-06.52.07:965][538]LogStaticMesh: Built static mesh [0.04s] /Game/MiniGame1/UpdatedWorld/Level_Layout.Level_Layout
+[2020.04.14-06.52.07:971][538]LogMaterial: Display: Missing cached shader map for material FrontColor_002, compiling. 
+[2020.04.14-06.52.07:985][538]LogMaterial: Display: Missing cached shader map for material Color_M08_001, compiling. 
+[2020.04.14-06.52.07:999][538]LogMaterial: Display: Missing cached shader map for material Color_M03, compiling. 
+[2020.04.14-06.52.08:011][538]LogStaticMesh: Building static mesh Desk...
+[2020.04.14-06.52.08:023][538]LogStaticMesh: Built static mesh [0.01s] /Game/MiniGame1/UpdatedWorld/Desk.Desk
+[2020.04.14-06.52.08:269][538]LogMaterial: Display: Missing cached shader map for material FrontColor_003, compiling. 
+[2020.04.14-06.52.08:286][538]LogMaterial: Display: Missing cached shader map for material Color_M02, compiling. 
+[2020.04.14-06.52.08:303][538]LogMaterial: Display: Missing cached shader map for material Color_I01, compiling. 
+[2020.04.14-06.52.08:320][538]LogMaterial: Display: Missing cached shader map for material Color_H06, compiling. 
+[2020.04.14-06.52.08:336][538]LogStaticMesh: Building static mesh AutopsyDesk...
+[2020.04.14-06.52.08:377][538]LogStaticMesh: Built static mesh [0.04s] /Game/MiniGame1/UpdatedWorld/AutopsyDesk.AutopsyDesk
+[2020.04.14-06.52.10:602][538]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-06.52.10:618][538]LogAssetEditorManager: Opening Asset editor for World /Game/MiniGame1/MiniGame1.MiniGame1
+[2020.04.14-06.52.10:656][538]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.04.14-06.52.10:660][538]Cmd: MAP LOAD FILE="C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.14-06.52.10:660][538]LightingResults: New page: Lighting Build
+[2020.04.14-06.52.10:661][538]LoadErrors: New page: Loading map: MiniGame1.umap
+[2020.04.14-06.52.10:667][538]MapCheck: New page: Map Check
+[2020.04.14-06.52.10:667][538]LightingResults: New page: Lighting Build
+[2020.04.14-06.52.10:701][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.04.14-06.52.10:830][538]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.14-06.52.10:861][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.04.14-06.52.10:901][538]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.14-06.52.10:902][538]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.511ms to complete.
+[2020.04.14-06.52.10:902][538]LogFileHelpers: Loading map 'MiniGame1' took 0.244
+[2020.04.14-06.52.45:631][324]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2020.04.14-06.52.47:797][565]LogSlate: Took 0.005743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.14-06.52.49:028][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-06.52.54:932][380]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2020.04.14-06.52.56:400][545]Cmd: DELETE
+[2020.04.14-06.52.56:400][545]Cmd: ACTOR DELETE
+[2020.04.14-06.52.56:409][545]LogEditorActor: Deleted Actor: TextRenderActor
+[2020.04.14-06.52.56:434][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.04.14-06.52.56:435][545]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.04.14-06.52.57:176][631]Cmd: SELECT NONE
+[2020.04.14-06.53.04:313][472]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-06.53.04:349][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.04.14-06.53.04:655][472]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame10CCEA96344A233B25251F29F36EEB6AE.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1.umap'
+[2020.04.14-06.53.04:691][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGame1/MiniGame1_BuiltData" FILE="C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1_BuiltData.uasset" SILENT=true
+[2020.04.14-06.53.04:898][472]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame1_BuiltData867A5C19425FE7C5F567FA97D2403BFE.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1_BuiltData.uasset'

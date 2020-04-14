@@ -641,3 +641,1207 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.14-06.53.04:655][472]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame10CCEA96344A233B25251F29F36EEB6AE.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1.umap'
 [2020.04.14-06.53.04:691][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGame1/MiniGame1_BuiltData" FILE="C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1_BuiltData.uasset" SILENT=true
 [2020.04.14-06.53.04:898][472]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame1_BuiltData867A5C19425FE7C5F567FA97D2403BFE.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1_BuiltData.uasset'
+[2020.04.14-06.55.14:483][736]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-06.55.14:515][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.04.14-06.55.14:791][736]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame1DF2DDCF94980B198DB5A50AC8931C1E9.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1.umap'
+[2020.04.14-06.55.14:824][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGame1/MiniGame1_BuiltData" FILE="C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1_BuiltData.uasset" SILENT=true
+[2020.04.14-06.55.14:969][736]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame1_BuiltDataAE6E2E70460C7CE0D423B4B0551CED54.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1_BuiltData.uasset'
+[2020.04.14-06.55.15:888][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-06.56.28:852][309]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube36)
+[2020.04.14-06.56.29:534][383]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume8)
+[2020.04.14-06.56.36:878][196]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube36)
+[2020.04.14-06.56.38:071][329]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube34)
+[2020.04.14-06.56.38:376][360]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube32)
+[2020.04.14-06.56.39:372][469]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube23)
+[2020.04.14-06.56.39:801][512]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube24)
+[2020.04.14-06.56.40:154][548]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube28)
+[2020.04.14-06.56.40:679][604]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube29)
+[2020.04.14-06.56.41:037][642]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube25)
+[2020.04.14-06.56.41:356][675]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube31)
+[2020.04.14-06.56.41:635][703]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube27)
+[2020.04.14-06.56.41:918][732]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube26)
+[2020.04.14-06.56.42:260][767]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube30)
+[2020.04.14-06.56.42:634][807]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube33)
+[2020.04.14-06.56.43:369][886]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube37)
+[2020.04.14-06.56.43:756][926]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (BP_PickupCube)
+[2020.04.14-06.56.44:600][ 18]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube38)
+[2020.04.14-06.56.45:067][ 68]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube39)
+[2020.04.14-06.56.45:983][164]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube40)
+[2020.04.14-06.56.49:096][511]LogEditorViewport: Clicking on Actor (CTRL LMB): Gun_BP_C (Gun_BP)
+[2020.04.14-06.56.59:204][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh39_Group34_Model)
+[2020.04.14-06.57.07:535][509]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor3)
+[2020.04.14-06.57.21:883][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh39_Group34_Model)
+[2020.04.14-06.57.24:298][338]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2020.04.14-06.57.53:714][600]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2020.04.14-06.58.00:670][385]Cmd: TRANSACTION UNDO
+[2020.04.14-06.58.00:670][385]LogEditorTransaction: Undo Move Actors
+[2020.04.14-06.58.06:040][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh39_Group34_Model)
+[2020.04.14-06.58.08:151][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-06.58.08:765][255]LogTemp: Repeating last play command: VR Preview
+[2020.04.14-06.58.08:782][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-06.58.08:783][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-06.58.08:783][255]LogHMD: Initializing OVRPlugin session
+[2020.04.14-06.58.08:883][255]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.04.14-06.58.08:885][255]PIE: New page: PIE session: MiniGame1 (14 Apr 2020 10:58:08 pm)
+[2020.04.14-06.58.08:900][255]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-06.58.08:913][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012412s)
+[2020.04.14-06.58.08:914][255]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-06.58.08:914][255]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2020.04.14-06.58.08:914][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.014079s)
+[2020.04.14-06.58.08:945][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.04.14-06.58.08:985][255]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-06.58.08:997][255]LogInit: FAudioDevice initialized.
+[2020.04.14-06.58.09:006][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-06.58.09:078][255]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-06.58.09:078][255]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-06.58.09:084][255]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-14.58.09
+[2020.04.14-06.58.09:087][255]LogWorld: Bringing up level for play took: 0.004323
+[2020.04.14-06.58.09:109][255]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.04.14-06.58.09:125][255]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 -0.012
+[2020.04.14-06.58.09:126][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-06.58.09:126][255]LogEngine: Changing dynamic resolution state.
+[2020.04.14-06.58.09:146][255]LogRenderer: Reallocating scene render targets to support 3296x1776 Format 26 NumSamples 1 (Frame:1).
+[2020.04.14-06.58.09:146][255]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2020.04.14-06.58.23:253][509]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-06.58.23:319][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-06.58.23:352][509]LogSlate: Window 'Project3_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.14-06.58.23:385][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-06.58.23:385][509]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-06.58.23:422][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.04.14-06.58.23:440][510]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.04.14-06.58.23:441][510]LogEngine: Changing dynamic resolution state.
+[2020.04.14-06.58.37:665][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-06.58.54:174][ 34]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.14-06.58.57:407][372]Cmd: EDIT COPY
+[2020.04.14-06.58.59:051][565]Cmd: EDIT PASTE
+[2020.04.14-06.59.10:571][814]Cmd: DELETE
+[2020.04.14-06.59.10:571][814]Cmd: ACTOR DELETE
+[2020.04.14-06.59.10:575][814]LogEditorActor: Deleted Actor: Brush
+[2020.04.14-06.59.10:601][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.04.14-06.59.10:609][814]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.04.14-06.59.20:988][ 14]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2020.04.14-07.01.34:542][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Greybox_GDS210_-_2_0_Mesh50_Group43_Model)
+[2020.04.14-07.01.35:491][653]Cmd: DELETE
+[2020.04.14-07.01.35:491][653]Cmd: ACTOR DELETE
+[2020.04.14-07.01.35:511][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:512][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:512][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:513][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:513][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:514][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:514][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:515][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:515][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:516][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:516][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:516][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:517][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:517][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:518][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:518][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:519][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:519][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:519][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:520][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:520][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:520][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:521][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:521][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:522][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:522][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:522][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:523][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:523][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:523][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:524][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:524][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:524][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:524][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:525][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:525][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:525][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:526][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:526][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:526][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:526][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:527][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:527][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:527][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:528][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:528][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:528][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:528][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:528][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:529][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:529][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:529][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:529][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:529][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:530][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:530][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:530][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:530][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:530][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:531][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:531][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:531][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:531][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:531][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:531][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:531][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:532][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:532][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:532][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:532][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:532][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:532][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:532][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:532][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:532][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:532][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:533][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-07.01.35:559][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.04.14-07.01.35:559][653]LogEditorActor: Deleted 77 Actors (0.067 secs)
+[2020.04.14-07.01.41:815][353]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube40)
+[2020.04.14-07.01.42:318][407]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube39)
+[2020.04.14-07.01.44:552][649]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube38)
+[2020.04.14-07.01.45:127][711]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube30)
+[2020.04.14-07.01.45:689][772]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube37)
+[2020.04.14-07.01.47:864][  5]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (BP_PickupCube)
+[2020.04.14-07.01.48:154][ 28]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube33)
+[2020.04.14-07.01.48:634][ 74]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube31)
+[2020.04.14-07.01.48:952][105]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube27)
+[2020.04.14-07.01.49:265][138]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube26)
+[2020.04.14-07.01.49:635][176]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube25)
+[2020.04.14-07.01.49:991][212]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube29)
+[2020.04.14-07.01.50:486][263]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube34)
+[2020.04.14-07.01.51:009][318]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube36)
+[2020.04.14-07.01.51:308][348]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube28)
+[2020.04.14-07.01.51:721][392]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube23)
+[2020.04.14-07.01.52:165][439]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube24)
+[2020.04.14-07.01.53:127][545]LogEditorViewport: Clicking on Actor (CTRL LMB): Gun_BP_C (Gun_BP)
+[2020.04.14-07.02.10:007][366]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2020.04.14-07.02.19:391][385]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube32)
+[2020.04.14-07.02.37:994][501]LogEditorViewport: Clicking on Actor (LMB): lasercube1_C (lasercube1)
+[2020.04.14-07.02.51:359][992]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.04.14-07.02.51:712][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.02.51:750][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.04.14-07.02.51:989][ 28]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame1F92636704662126A4B1ED8874AC1C14E.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1.umap'
+[2020.04.14-07.02.52:026][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGame1/MiniGame1_BuiltData" FILE="C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1_BuiltData.uasset" SILENT=true
+[2020.04.14-07.02.52:181][ 28]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame1_BuiltDataCAE5EE8042C65F3A50F44D958A65049A.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1_BuiltData.uasset'
+[2020.04.14-07.03.02:265][162]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor3)
+[2020.04.14-07.03.03:135][260]Cmd: DELETE
+[2020.04.14-07.03.03:135][260]Cmd: ACTOR DELETE
+[2020.04.14-07.03.03:138][260]LogEditorActor: Deleted Actor: TextRenderActor
+[2020.04.14-07.03.03:168][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.04.14-07.03.03:168][260]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.04.14-07.03.04:530][416]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.14-07.03.05:291][496]Cmd: DELETE
+[2020.04.14-07.03.05:291][496]Cmd: ACTOR DELETE
+[2020.04.14-07.03.05:293][496]LogEditorActor: Deleted Actor: PointLight
+[2020.04.14-07.03.05:317][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.04.14-07.03.05:317][496]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.04.14-07.03.05:952][571]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.04.14-07.03.06:248][602]Cmd: DELETE
+[2020.04.14-07.03.06:248][602]Cmd: ACTOR DELETE
+[2020.04.14-07.03.06:250][602]LogEditorActor: Deleted Actor: PointLight
+[2020.04.14-07.03.06:275][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.04.14-07.03.06:276][602]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.04.14-07.03.13:717][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.03.13:776][477]LogTemp: Repeating last play command: VR Preview
+[2020.04.14-07.03.13:791][477]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.03.13:791][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-07.03.13:791][477]LogHMD: Initializing OVRPlugin session
+[2020.04.14-07.03.13:871][477]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.04.14-07.03.13:871][477]PIE: New page: PIE session: MiniGame1 (14 Apr 2020 11:03:13 pm)
+[2020.04.14-07.03.13:871][477]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-07.03.13:880][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008537s)
+[2020.04.14-07.03.13:880][477]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-07.03.13:880][477]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2020.04.14-07.03.13:880][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.009125s)
+[2020.04.14-07.03.13:907][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.04.14-07.03.13:938][477]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-07.03.13:950][477]LogInit: FAudioDevice initialized.
+[2020.04.14-07.03.13:959][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.03.14:015][477]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-07.03.14:015][477]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-07.03.14:017][477]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-15.03.14
+[2020.04.14-07.03.14:017][477]LogWorld: Bringing up level for play took: 0.001202
+[2020.04.14-07.03.14:040][477]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 0.904
+[2020.04.14-07.03.14:041][477]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.03.14:041][477]LogEngine: Changing dynamic resolution state.
+[2020.04.14-07.03.14:045][477]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2020.04.14-07.03.23:090][315]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.03.23:150][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.03.23:179][315]LogSlate: Window 'Project3_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.14-07.03.23:213][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-07.03.23:213][315]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.03.23:250][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.04.14-07.03.23:262][316]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.04.14-07.03.23:262][316]LogEngine: Changing dynamic resolution state.
+[2020.04.14-07.03.27:169][777]Cmd: TRANSACTION UNDO
+[2020.04.14-07.03.27:169][777]LogEditorTransaction: Undo Delete Actors
+[2020.04.14-07.03.27:520][812]Cmd: TRANSACTION UNDO
+[2020.04.14-07.03.27:520][812]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.14-07.03.27:822][845]Cmd: TRANSACTION UNDO
+[2020.04.14-07.03.27:822][845]LogEditorTransaction: Undo Delete Actors
+[2020.04.14-07.03.28:262][889]Cmd: TRANSACTION UNDO
+[2020.04.14-07.03.28:262][889]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.14-07.03.28:483][915]Cmd: TRANSACTION UNDO
+[2020.04.14-07.03.28:483][915]LogEditorTransaction: Undo Delete Actors
+[2020.04.14-07.03.28:671][933]Cmd: TRANSACTION UNDO
+[2020.04.14-07.03.28:671][933]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.14-07.03.28:829][947]Cmd: TRANSACTION UNDO
+[2020.04.14-07.03.28:829][947]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.14-07.03.28:987][962]Cmd: TRANSACTION UNDO
+[2020.04.14-07.03.28:987][962]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.14-07.03.29:114][974]Cmd: TRANSACTION UNDO
+[2020.04.14-07.03.29:114][974]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.14-07.03.36:245][802]Cmd: TRANSACTION REDO
+[2020.04.14-07.03.36:245][802]LogEditorTransaction: Redo Select Brush Surface
+[2020.04.14-07.03.36:453][821]Cmd: TRANSACTION REDO
+[2020.04.14-07.03.36:453][821]LogEditorTransaction: Redo Select Brush Surface
+[2020.04.14-07.03.36:706][843]Cmd: TRANSACTION REDO
+[2020.04.14-07.03.36:706][843]LogEditorTransaction: Redo Select Brush Surface
+[2020.04.14-07.03.37:467][929]Cmd: TRANSACTION REDO
+[2020.04.14-07.03.37:467][929]LogEditorTransaction: Redo Clicking on Actors
+[2020.04.14-07.03.37:864][971]Cmd: TRANSACTION REDO
+[2020.04.14-07.03.37:865][971]LogEditorTransaction: Redo Delete Actors
+[2020.04.14-07.03.38:168][  6]Cmd: TRANSACTION REDO
+[2020.04.14-07.03.38:168][  6]LogEditorTransaction: Redo Clicking on Actors
+[2020.04.14-07.03.38:418][ 32]Cmd: TRANSACTION REDO
+[2020.04.14-07.03.38:418][ 32]LogEditorTransaction: Redo Delete Actors
+[2020.04.14-07.03.38:687][ 63]Cmd: TRANSACTION REDO
+[2020.04.14-07.03.38:687][ 63]LogEditorTransaction: Redo Clicking on Actors
+[2020.04.14-07.03.38:899][ 85]Cmd: TRANSACTION REDO
+[2020.04.14-07.03.38:899][ 85]LogEditorTransaction: Redo Delete Actors
+[2020.04.14-07.03.44:350][708]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube32)
+[2020.04.14-07.04.09:121][526]LogEditorViewport: Clicking on Actor (LMB): lasercube1_C (lasercube1)
+[2020.04.14-07.04.14:984][179]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.14-07.04.18:266][546]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.04.19:261][659]MapCheck: New page: Map Check
+[2020.04.14-07.04.19:269][659]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.04.19:273][659]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.14-07.04.19:274][659]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.14-07.04.19:364][659]LogEditorServer: Cleared 2 NULL BSP materials after rebuild.
+[2020.04.14-07.04.19:365][659]LightingResults: New page: Lighting Build - 14 Apr 2020 11:04:19 pm
+[2020.04.14-07.04.19:473][659]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.14-07.04.19:612][659]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.14-07.04.19:645][659]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.14-07.04.20:193][659]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.14-07.04.20:193][659]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17860
+[2020.04.14-07.04.22:763][659]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.14-07.04.22:763][659]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.14-07.04.22:764][659]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.14-07.04.22:764][659]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.14-07.04.22:764][659]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.14-07.04.22:958][659]LogEditorBuildUtils: Build time 0:03
+[2020.04.14-07.04.22:999][660]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer FrontColor, compiling. 
+[2020.04.14-07.04.23:006][660]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer FrontColor, compiling. 
+[2020.04.14-07.04.23:042][661]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_H08, compiling. 
+[2020.04.14-07.04.23:048][661]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_H08, compiling. 
+[2020.04.14-07.04.23:075][662]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_L16, compiling. 
+[2020.04.14-07.04.23:083][662]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_L16, compiling. 
+[2020.04.14-07.04.23:103][663]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_H01, compiling. 
+[2020.04.14-07.04.23:111][663]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_H01, compiling. 
+[2020.04.14-07.04.23:132][664]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_A05, compiling. 
+[2020.04.14-07.04.23:140][664]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_A05, compiling. 
+[2020.04.14-07.04.23:161][665]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_I05, compiling. 
+[2020.04.14-07.04.23:169][665]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_I05, compiling. 
+[2020.04.14-07.04.23:189][666]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_D01, compiling. 
+[2020.04.14-07.04.23:196][666]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_D01, compiling. 
+[2020.04.14-07.04.23:214][667]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_E05, compiling. 
+[2020.04.14-07.04.23:222][667]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_E05, compiling. 
+[2020.04.14-07.04.23:244][668]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_C05, compiling. 
+[2020.04.14-07.04.23:253][668]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_C05, compiling. 
+[2020.04.14-07.04.23:282][669]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_M01, compiling. 
+[2020.04.14-07.04.23:291][669]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_M01, compiling. 
+[2020.04.14-07.04.23:309][670]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_F05, compiling. 
+[2020.04.14-07.04.23:318][670]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_F05, compiling. 
+[2020.04.14-07.04.23:340][671]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_H05, compiling. 
+[2020.04.14-07.04.23:348][671]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_H05, compiling. 
+[2020.04.14-07.04.23:368][672]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_EO5, compiling. 
+[2020.04.14-07.04.23:377][672]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_EO5, compiling. 
+[2020.04.14-07.04.23:404][673]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_H06, compiling. 
+[2020.04.14-07.04.23:413][673]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_H06, compiling. 
+[2020.04.14-07.04.23:434][674]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_M02, compiling. 
+[2020.04.14-07.04.23:442][674]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_M02, compiling. 
+[2020.04.14-07.04.23:467][675]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer FrontColor_003, compiling. 
+[2020.04.14-07.04.23:476][675]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer FrontColor_003, compiling. 
+[2020.04.14-07.04.23:502][676]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_I01, compiling. 
+[2020.04.14-07.04.23:510][676]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_I01, compiling. 
+[2020.04.14-07.04.23:530][677]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_M07, compiling. 
+[2020.04.14-07.04.23:538][677]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_M07, compiling. 
+[2020.04.14-07.04.23:557][678]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_M08, compiling. 
+[2020.04.14-07.04.23:565][678]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_M08, compiling. 
+[2020.04.14-07.04.23:582][679]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer FrontColor_001, compiling. 
+[2020.04.14-07.04.23:590][679]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer FrontColor_001, compiling. 
+[2020.04.14-07.04.23:619][680]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_B01, compiling. 
+[2020.04.14-07.04.23:627][680]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_B01, compiling. 
+[2020.04.14-07.04.23:650][681]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_M03, compiling. 
+[2020.04.14-07.04.23:659][681]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_M03, compiling. 
+[2020.04.14-07.04.23:682][682]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_M08_001, compiling. 
+[2020.04.14-07.04.23:691][682]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Color_M08_001, compiling. 
+[2020.04.14-07.04.23:711][683]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer FrontColor_002, compiling. 
+[2020.04.14-07.04.23:720][683]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer FrontColor_002, compiling. 
+[2020.04.14-07.04.26:956][685]LogShaderCompilers: Display: Shaders left to compile 80
+[2020.04.14-07.04.26:956][685]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.04.14-07.04.26:956][685]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.04.14-07.04.26:956][685]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.04.14-07.04.26:956][685]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.14-07.04.26:956][685]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.14-07.04.26:956][685]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.14-07.04.26:956][685]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.14-07.04.27:379][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.04.14-07.04.30:274][908]Job is a success!
+[2020.04.14-07.04.30:300][909]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.04.30:347][909]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2020.04.14-07.04.30:347][909]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.04.14-07.04.30:347][909]LogVolumetricLightmapImport:      BrickData 335x5x5 = 0.3Mb
+[2020.04.14-07.04.30:347][909]LogVolumetricLightmapImport:      Bricks at Level
+[2020.04.14-07.04.30:347][909]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2020.04.14-07.04.30:347][909]LogVolumetricLightmapImport:          1: 11.9% covering 12.5% of volume
+[2020.04.14-07.04.30:347][909]LogVolumetricLightmapImport:          2: 86.6% covering 1.4% of volume
+[2020.04.14-07.04.30:717][909]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.04.14-07.04.30:717][909]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.04.14-07.04.30:717][909]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.04.14-07.04.30:717][909]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.04.14-07.04.30:717][909]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2020.04.14-07.04.30:717][909]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2020.04.14-07.04.30:717][909]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2020.04.14-07.04.30:717][909]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2020.04.14-07.04.30:746][909]Lightmass on DESKTOP-AQLP54J: 2.87 sec total, 169 ms importing, 21 ms setup, 923 ms photons, 1.68 sec processing, 0 ms extra exporting [35/35 mappings]. Threads: 17.9 sec total, 2.99 sec processing.
+[2020.04.14-07.04.30:751][909]LogStaticLightingSystem: MiniGame1_BuiltData storing lightmap data for 18 meshes in 4 LightmapResourceClusters (4.5 Meshes per cluster).
+[2020.04.14-07.04.30:753][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/FrontColor.FrontColor needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.30:756][909]LogMaterial: Display: Missing cached shader map for material FrontColor, compiling. 
+[2020.04.14-07.04.30:790][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_H08.Color_H08 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.30:792][909]LogMaterial: Display: Missing cached shader map for material Color_H08, compiling. 
+[2020.04.14-07.04.30:810][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_L16.Color_L16 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.30:812][909]LogMaterial: Display: Missing cached shader map for material Color_L16, compiling. 
+[2020.04.14-07.04.30:831][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_H01.Color_H01 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.30:833][909]LogMaterial: Display: Missing cached shader map for material Color_H01, compiling. 
+[2020.04.14-07.04.30:852][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_A05.Color_A05 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.30:855][909]LogMaterial: Display: Missing cached shader map for material Color_A05, compiling. 
+[2020.04.14-07.04.30:876][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_I05.Color_I05 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.30:879][909]LogMaterial: Display: Missing cached shader map for material Color_I05, compiling. 
+[2020.04.14-07.04.30:901][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_D01.Color_D01 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.30:904][909]LogMaterial: Display: Missing cached shader map for material Color_D01, compiling. 
+[2020.04.14-07.04.30:929][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_E05.Color_E05 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.30:931][909]LogMaterial: Display: Missing cached shader map for material Color_E05, compiling. 
+[2020.04.14-07.04.30:954][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_C05.Color_C05 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.30:957][909]LogMaterial: Display: Missing cached shader map for material Color_C05, compiling. 
+[2020.04.14-07.04.30:979][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_M01.Color_M01 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.30:982][909]LogMaterial: Display: Missing cached shader map for material Color_M01, compiling. 
+[2020.04.14-07.04.31:004][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_F05.Color_F05 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.31:007][909]LogMaterial: Display: Missing cached shader map for material Color_F05, compiling. 
+[2020.04.14-07.04.31:031][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_H05.Color_H05 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.31:034][909]LogMaterial: Display: Missing cached shader map for material Color_H05, compiling. 
+[2020.04.14-07.04.31:057][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_EO5.Color_EO5 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.31:060][909]LogMaterial: Display: Missing cached shader map for material Color_EO5, compiling. 
+[2020.04.14-07.04.31:085][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_M07.Color_M07 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.31:088][909]LogMaterial: Display: Missing cached shader map for material Color_M07, compiling. 
+[2020.04.14-07.04.31:112][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_M08.Color_M08 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.31:115][909]LogMaterial: Display: Missing cached shader map for material Color_M08, compiling. 
+[2020.04.14-07.04.31:139][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/FrontColor_001.FrontColor_001 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.31:141][909]LogMaterial: Display: Missing cached shader map for material FrontColor_001, compiling. 
+[2020.04.14-07.04.31:166][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_B01.Color_B01 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.31:168][909]LogMaterial: Display: Missing cached shader map for material Color_B01, compiling. 
+[2020.04.14-07.04.31:192][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_H06.Color_H06 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.31:196][909]LogMaterial: Display: Missing cached shader map for material Color_H06, compiling. 
+[2020.04.14-07.04.31:219][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_M02.Color_M02 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.31:222][909]LogMaterial: Display: Missing cached shader map for material Color_M02, compiling. 
+[2020.04.14-07.04.31:246][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/FrontColor_003.FrontColor_003 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.31:249][909]LogMaterial: Display: Missing cached shader map for material FrontColor_003, compiling. 
+[2020.04.14-07.04.31:273][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_I01.Color_I01 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.31:276][909]LogMaterial: Display: Missing cached shader map for material Color_I01, compiling. 
+[2020.04.14-07.04.31:300][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_M03.Color_M03 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.31:302][909]LogMaterial: Display: Missing cached shader map for material Color_M03, compiling. 
+[2020.04.14-07.04.31:327][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/Color_M08_001.Color_M08_001 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.31:329][909]LogMaterial: Display: Missing cached shader map for material Color_M08_001, compiling. 
+[2020.04.14-07.04.31:353][909]LogMaterial: Warning: Material /Game/MiniGame1/UpdatedWorld/FrontColor_002.FrontColor_002 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.14-07.04.31:356][909]LogMaterial: Display: Missing cached shader map for material FrontColor_002, compiling. 
+[2020.04.14-07.04.31:408][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.04.14-07.04.31:428][909]LogStaticLightingSystem: Illumination: 12.0 sec (243 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2020.04.14-07.04.31:428][909]LogStaticLightingSystem: Lightmap texture memory:  4.1 MB (0.1 MB streaming, 4.0 MB non-streaming), 8 textures
+[2020.04.14-07.04.31:428][909]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2020.04.14-07.04.35:778][909]DumpUnbuiltLightIteractions
+[2020.04.14-07.04.35:779][909]Lights with unbuilt interactions: 0
+[2020.04.14-07.04.35:779][909]
+[2020.04.14-07.04.35:779][909]Primitives with unbuilt interactions: 0
+[2020.04.14-07.04.35:784][909]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.04.59:775][910]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.14-07.04.59:776][910]MapCheck: New page: MiniGame1 - 14 Apr 2020 11:04:59 pm
+[2020.04.14-07.04.59:778][910]MapCheck: Warning: Level_Layout_6 Static mesh actor has NULL StaticMesh property 
+[2020.04.14-07.04.59:778][910]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 2.132ms to complete.
+[2020.04.14-07.05.03:630][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.05.06:536][666]LogSlate: Window 'Message Log' being destroyed
+[2020.04.14-07.05.06:542][666]LogSlate: Window 'Message Log' being destroyed
+[2020.04.14-07.05.11:929][251]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2020.04.14-07.05.13:768][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.05.13:854][463]LogTemp: Repeating last play command: VR Preview
+[2020.04.14-07.05.13:868][463]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.05.13:868][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-07.05.13:868][463]LogHMD: Initializing OVRPlugin session
+[2020.04.14-07.05.13:952][463]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.04.14-07.05.13:953][463]PIE: New page: PIE session: MiniGame1 (14 Apr 2020 11:05:13 pm)
+[2020.04.14-07.05.13:953][463]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-07.05.13:961][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008499s)
+[2020.04.14-07.05.13:962][463]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-07.05.13:962][463]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2020.04.14-07.05.13:962][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.009508s)
+[2020.04.14-07.05.13:989][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.04.14-07.05.14:019][463]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-07.05.14:029][463]LogInit: FAudioDevice initialized.
+[2020.04.14-07.05.14:036][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.05.14:092][463]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-07.05.14:092][463]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-07.05.14:094][463]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-15.05.14
+[2020.04.14-07.05.14:094][463]LogWorld: Bringing up level for play took: 0.001148
+[2020.04.14-07.05.14:111][463]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 0.973
+[2020.04.14-07.05.14:111][463]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.05.14:111][463]LogEngine: Changing dynamic resolution state.
+[2020.04.14-07.05.14:115][463]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2020.04.14-07.05.20:646][ 81]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.05.20:703][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.05.20:759][ 81]LogSlate: Window 'Project3_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.14-07.05.20:795][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-07.05.20:796][ 81]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.05.20:831][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.04.14-07.05.20:843][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.04.14-07.05.20:843][ 82]LogEngine: Changing dynamic resolution state.
+[2020.04.14-07.05.26:205][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level_Layout2)
+[2020.04.14-07.05.38:752][920]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (38.970 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.14-07.06.14:777][569]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume8)
+[2020.04.14-07.06.40:034][414]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.06.41:236][547]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.06.41:236][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-07.06.41:236][547]PIE: New page: SIE session: MiniGame1 (14 Apr 2020 11:06:41 pm)
+[2020.04.14-07.06.41:236][547]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-07.06.41:246][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008882s)
+[2020.04.14-07.06.41:246][547]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-07.06.41:246][547]LogPlayLevel: PIE: World Init took: (0.000488s)
+[2020.04.14-07.06.41:246][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.009496s)
+[2020.04.14-07.06.41:272][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.04.14-07.06.41:297][547]LogInit: XAudio2 using 'Speakers (G433 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-07.06.41:306][547]LogInit: FAudioDevice initialized.
+[2020.04.14-07.06.41:306][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.06.41:334][547]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-07.06.41:334][547]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-07.06.41:336][547]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-15.06.41
+[2020.04.14-07.06.41:336][547]LogWorld: Bringing up level for play took: 0.001890
+[2020.04.14-07.06.41:348][547]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.14-07.06.41:352][547]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 0.215
+[2020.04.14-07.06.41:368][547]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.07.00:679][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.07.00:754][569]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.07.00:755][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.07.00:788][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-07.07.00:789][569]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.07.00:820][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.07.00:824][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.04.14-07.07.00:861][573]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.04.14-07.10.01:607][395]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.14-07.10.01:638][395]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.10.20:157][523]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2020.04.14-07.10.21:945][726]Cmd: DELETE
+[2020.04.14-07.10.21:945][726]Cmd: ACTOR DELETE
+[2020.04.14-07.10.21:947][726]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.04.14-07.10.21:972][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.04.14-07.10.21:972][726]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.04.14-07.10.22:314][765]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube37)
+[2020.04.14-07.10.22:406][771]Cmd: DELETE
+[2020.04.14-07.10.22:406][771]Cmd: ACTOR DELETE
+[2020.04.14-07.10.22:408][771]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.04.14-07.10.22:433][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.04.14-07.10.22:433][771]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.04.14-07.10.22:627][794]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube36)
+[2020.04.14-07.10.22:682][796]Cmd: DELETE
+[2020.04.14-07.10.22:682][796]Cmd: ACTOR DELETE
+[2020.04.14-07.10.22:684][796]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.04.14-07.10.22:710][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.04.14-07.10.22:710][796]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.04.14-07.10.23:031][834]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube32)
+[2020.04.14-07.10.23:070][835]Cmd: DELETE
+[2020.04.14-07.10.23:070][835]Cmd: ACTOR DELETE
+[2020.04.14-07.10.23:072][835]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.04.14-07.10.23:099][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.04.14-07.10.23:099][835]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.04.14-07.10.23:417][872]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube28)
+[2020.04.14-07.10.23:516][879]Cmd: DELETE
+[2020.04.14-07.10.23:516][879]Cmd: ACTOR DELETE
+[2020.04.14-07.10.23:518][879]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.04.14-07.10.23:542][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.04.14-07.10.23:543][879]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.04.14-07.10.23:788][907]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube23)
+[2020.04.14-07.10.23:845][910]Cmd: DELETE
+[2020.04.14-07.10.23:845][910]Cmd: ACTOR DELETE
+[2020.04.14-07.10.23:847][910]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.04.14-07.10.23:873][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.04.14-07.10.23:873][910]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.04.14-07.10.24:092][935]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube24)
+[2020.04.14-07.10.24:190][943]Cmd: DELETE
+[2020.04.14-07.10.24:190][943]Cmd: ACTOR DELETE
+[2020.04.14-07.10.24:192][943]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.04.14-07.10.24:217][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.04.14-07.10.24:218][943]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.04.14-07.10.25:396][ 80]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube34)
+[2020.04.14-07.10.25:448][ 82]Cmd: DELETE
+[2020.04.14-07.10.25:448][ 82]Cmd: ACTOR DELETE
+[2020.04.14-07.10.25:449][ 82]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.04.14-07.10.25:477][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.04.14-07.10.25:478][ 82]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.04.14-07.10.25:730][111]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube33)
+[2020.04.14-07.10.25:844][120]Cmd: DELETE
+[2020.04.14-07.10.25:844][120]Cmd: ACTOR DELETE
+[2020.04.14-07.10.25:846][120]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.04.14-07.10.25:873][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.04.14-07.10.25:874][120]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.04.14-07.10.26:094][146]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube29)
+[2020.04.14-07.10.26:446][181]Cmd: DELETE
+[2020.04.14-07.10.26:446][181]Cmd: ACTOR DELETE
+[2020.04.14-07.10.26:448][181]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.04.14-07.10.26:477][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.04.14-07.10.26:477][181]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.04.14-07.10.27:035][247]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube31)
+[2020.04.14-07.10.27:643][311]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube30)
+[2020.04.14-07.10.27:754][320]Cmd: DELETE
+[2020.04.14-07.10.27:754][320]Cmd: ACTOR DELETE
+[2020.04.14-07.10.27:757][320]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.04.14-07.10.27:783][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.04.14-07.10.27:783][320]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.04.14-07.10.28:046][349]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube26)
+[2020.04.14-07.10.28:150][357]Cmd: DELETE
+[2020.04.14-07.10.28:150][357]Cmd: ACTOR DELETE
+[2020.04.14-07.10.28:152][357]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.04.14-07.10.28:179][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.04.14-07.10.28:179][357]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.04.14-07.10.28:792][429]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube38)
+[2020.04.14-07.10.28:877][435]Cmd: DELETE
+[2020.04.14-07.10.28:877][435]Cmd: ACTOR DELETE
+[2020.04.14-07.10.28:879][435]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.04.14-07.10.28:905][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.04.14-07.10.28:906][435]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.04.14-07.10.29:147][462]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube39)
+[2020.04.14-07.10.29:189][463]Cmd: DELETE
+[2020.04.14-07.10.29:190][463]Cmd: ACTOR DELETE
+[2020.04.14-07.10.29:192][463]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.04.14-07.10.29:218][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.04.14-07.10.29:219][463]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.04.14-07.10.29:464][491]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube40)
+[2020.04.14-07.10.29:548][497]Cmd: DELETE
+[2020.04.14-07.10.29:548][497]Cmd: ACTOR DELETE
+[2020.04.14-07.10.29:550][497]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.04.14-07.10.29:575][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.04.14-07.10.29:576][497]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.04.14-07.10.30:410][596]LogEditorViewport: Clicking on Actor (LMB): lasercube1_C (lasercube1)
+[2020.04.14-07.10.31:980][773]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube31)
+[2020.04.14-07.10.32:363][813]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube27)
+[2020.04.14-07.10.32:717][850]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube25)
+[2020.04.14-07.10.46:101][161]Cmd: TRANSACTION UNDO
+[2020.04.14-07.10.46:101][161]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.14-07.10.46:573][207]Cmd: TRANSACTION UNDO
+[2020.04.14-07.10.46:573][207]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.14-07.10.50:469][651]LogEditorViewport: Clicking on Actor (LMB): Gun_BP_C (Gun_BP)
+[2020.04.14-07.10.58:170][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.10.59:046][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.04.14-07.10.59:051][609]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.11.00:086][609]LogSlate: Window 'Save Content' being destroyed
+[2020.04.14-07.11.00:092][609]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2020.04.14-07.11.00:092][609]PIE: Warning: PIE failed because map save was canceled
+[2020.04.14-07.11.00:094][609]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.11.01:348][751]LogSlate: Window 'Message Log' being destroyed
+[2020.04.14-07.11.01:352][751]LogSlate: Window 'Message Log' being destroyed
+[2020.04.14-07.11.02:481][878]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.11.02:520][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.04.14-07.11.02:714][878]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame14916C15846AC2466445F6E8C7523ABBB.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1.umap'
+[2020.04.14-07.11.02:751][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGame1/MiniGame1_BuiltData" FILE="C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1_BuiltData.uasset" SILENT=true
+[2020.04.14-07.11.02:891][878]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame1_BuiltData29453B9249819AA5F35BF0AE1A511FD4.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1_BuiltData.uasset'
+[2020.04.14-07.11.03:173][906]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.11.04:528][ 59]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.11.04:528][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-07.11.04:528][ 59]PIE: New page: SIE session: MiniGame1 (14 Apr 2020 11:11:04 pm)
+[2020.04.14-07.11.04:528][ 59]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-07.11.04:536][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007425s)
+[2020.04.14-07.11.04:536][ 59]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-07.11.04:536][ 59]LogPlayLevel: PIE: World Init took: (0.000465s)
+[2020.04.14-07.11.04:536][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.007998s)
+[2020.04.14-07.11.04:562][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.04.14-07.11.04:587][ 59]LogInit: XAudio2 using 'Speakers (G433 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-07.11.04:597][ 59]LogInit: FAudioDevice initialized.
+[2020.04.14-07.11.04:597][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.11.04:628][ 59]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-07.11.04:628][ 59]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-07.11.04:629][ 59]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-15.11.04
+[2020.04.14-07.11.04:629][ 59]LogWorld: Bringing up level for play took: 0.000905
+[2020.04.14-07.11.04:641][ 59]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.14-07.11.04:644][ 59]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 -0.493
+[2020.04.14-07.11.04:659][ 59]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.11.40:415][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.11.40:470][225]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.11.40:470][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.11.40:497][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-07.11.40:497][225]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.11.40:527][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.11.40:531][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.04.14-07.11.40:577][229]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.04.14-07.11.59:040][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.11.59:095][170]LogTemp: Repeating last play command: Simulate
+[2020.04.14-07.11.59:110][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.11.59:110][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-07.11.59:110][170]PIE: New page: SIE session: MiniGame1 (14 Apr 2020 11:11:59 pm)
+[2020.04.14-07.11.59:110][170]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-07.11.59:118][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007440s)
+[2020.04.14-07.11.59:118][170]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-07.11.59:118][170]LogPlayLevel: PIE: World Init took: (0.000430s)
+[2020.04.14-07.11.59:118][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.007977s)
+[2020.04.14-07.11.59:146][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.04.14-07.11.59:171][170]LogInit: XAudio2 using 'Speakers (G433 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-07.11.59:182][170]LogInit: FAudioDevice initialized.
+[2020.04.14-07.11.59:209][170]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-07.11.59:209][170]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-07.11.59:210][170]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-15.11.59
+[2020.04.14-07.11.59:210][170]LogWorld: Bringing up level for play took: 0.001018
+[2020.04.14-07.11.59:222][170]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.14-07.11.59:224][170]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 0.088
+[2020.04.14-07.11.59:226][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.10:705][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.12.10:749][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.10:749][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.12.10:783][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-07.12.10:784][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.10:815][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.12.10:818][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.04.14-07.12.10:857][488]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.04.14-07.12.13:081][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.12.13:139][739]LogTemp: Repeating last play command: Simulate
+[2020.04.14-07.12.13:155][739]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.13:155][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-07.12.13:155][739]PIE: New page: SIE session: MiniGame1 (14 Apr 2020 11:12:13 pm)
+[2020.04.14-07.12.13:155][739]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-07.12.13:163][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007672s)
+[2020.04.14-07.12.13:163][739]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-07.12.13:163][739]LogPlayLevel: PIE: World Init took: (0.000493s)
+[2020.04.14-07.12.13:163][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.008279s)
+[2020.04.14-07.12.13:192][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.04.14-07.12.13:217][739]LogInit: XAudio2 using 'Speakers (G433 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-07.12.13:227][739]LogInit: FAudioDevice initialized.
+[2020.04.14-07.12.13:258][739]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-07.12.13:258][739]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-07.12.13:260][739]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-15.12.13
+[2020.04.14-07.12.13:260][739]LogWorld: Bringing up level for play took: 0.001349
+[2020.04.14-07.12.13:272][739]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.14-07.12.13:274][739]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 0.138
+[2020.04.14-07.12.13:275][739]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.18:999][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.12.19:061][387]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.19:061][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.12.19:093][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-07.12.19:094][387]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.19:126][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.12.19:129][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.04.14-07.12.19:171][390]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.04.14-07.12.19:601][441]LogTemp: Repeating last play command: Simulate
+[2020.04.14-07.12.19:617][441]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.19:617][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-07.12.19:617][441]PIE: New page: SIE session: MiniGame1 (14 Apr 2020 11:12:19 pm)
+[2020.04.14-07.12.19:618][441]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-07.12.19:625][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008300s)
+[2020.04.14-07.12.19:626][441]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-07.12.19:626][441]LogPlayLevel: PIE: World Init took: (0.000475s)
+[2020.04.14-07.12.19:626][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.008915s)
+[2020.04.14-07.12.19:652][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.04.14-07.12.19:678][441]LogInit: XAudio2 using 'Speakers (G433 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-07.12.19:688][441]LogInit: FAudioDevice initialized.
+[2020.04.14-07.12.19:720][441]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-07.12.19:720][441]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-07.12.19:721][441]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-15.12.19
+[2020.04.14-07.12.19:721][441]LogWorld: Bringing up level for play took: 0.001120
+[2020.04.14-07.12.19:733][441]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.14-07.12.19:735][441]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 0.599
+[2020.04.14-07.12.19:737][441]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.26:668][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.12.26:724][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.26:725][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.12.26:757][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-07.12.26:757][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.26:792][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.12.26:794][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.04.14-07.12.26:830][211]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.04.14-07.12.27:125][246]LogTemp: Repeating last play command: Simulate
+[2020.04.14-07.12.27:155][246]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.27:155][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-07.12.27:155][246]PIE: New page: SIE session: MiniGame1 (14 Apr 2020 11:12:27 pm)
+[2020.04.14-07.12.27:156][246]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-07.12.27:166][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010202s)
+[2020.04.14-07.12.27:166][246]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-07.12.27:167][246]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2020.04.14-07.12.27:167][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.011111s)
+[2020.04.14-07.12.27:192][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.04.14-07.12.27:228][246]LogInit: XAudio2 using 'Speakers (G433 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-07.12.27:238][246]LogInit: FAudioDevice initialized.
+[2020.04.14-07.12.27:270][246]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-07.12.27:270][246]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-07.12.27:271][246]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-15.12.27
+[2020.04.14-07.12.27:272][246]LogWorld: Bringing up level for play took: 0.001101
+[2020.04.14-07.12.27:284][246]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.14-07.12.27:287][246]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 0.15
+[2020.04.14-07.12.27:288][246]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.29:285][476]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.29:286][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.12.29:314][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-07.12.29:315][476]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.29:347][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.12.29:349][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.04.14-07.12.29:389][480]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.04.14-07.12.29:689][515]LogTemp: Repeating last play command: Simulate
+[2020.04.14-07.12.29:705][515]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.29:705][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-07.12.29:705][515]PIE: New page: SIE session: MiniGame1 (14 Apr 2020 11:12:29 pm)
+[2020.04.14-07.12.29:705][515]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-07.12.29:713][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008601s)
+[2020.04.14-07.12.29:714][515]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-07.12.29:714][515]LogPlayLevel: PIE: World Init took: (0.000445s)
+[2020.04.14-07.12.29:714][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.009163s)
+[2020.04.14-07.12.29:741][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.04.14-07.12.29:771][515]LogInit: XAudio2 using 'Speakers (G433 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-07.12.29:781][515]LogInit: FAudioDevice initialized.
+[2020.04.14-07.12.29:811][515]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-07.12.29:811][515]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-07.12.29:812][515]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-15.12.29
+[2020.04.14-07.12.29:812][515]LogWorld: Bringing up level for play took: 0.000942
+[2020.04.14-07.12.29:824][515]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.14-07.12.29:826][515]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 0.69
+[2020.04.14-07.12.29:828][515]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.33:341][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.12.33:409][912]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.33:409][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.12.33:442][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-07.12.33:442][912]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.33:475][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.12.33:478][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.04.14-07.12.33:513][915]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.04.14-07.12.33:826][950]LogTemp: Repeating last play command: Simulate
+[2020.04.14-07.12.33:842][950]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.33:842][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-07.12.33:842][950]PIE: New page: SIE session: MiniGame1 (14 Apr 2020 11:12:33 pm)
+[2020.04.14-07.12.33:842][950]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-07.12.33:849][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007161s)
+[2020.04.14-07.12.33:850][950]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-07.12.33:850][950]LogPlayLevel: PIE: World Init took: (0.000474s)
+[2020.04.14-07.12.33:850][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.007746s)
+[2020.04.14-07.12.33:877][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.04.14-07.12.33:902][950]LogInit: XAudio2 using 'Speakers (G433 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-07.12.33:911][950]LogInit: FAudioDevice initialized.
+[2020.04.14-07.12.33:938][950]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-07.12.33:938][950]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-07.12.33:940][950]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-15.12.33
+[2020.04.14-07.12.33:940][950]LogWorld: Bringing up level for play took: 0.001568
+[2020.04.14-07.12.33:952][950]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.14-07.12.33:954][950]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 0.818
+[2020.04.14-07.12.33:955][950]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.51:707][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.12.51:766][989]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.51:766][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.12.51:799][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-07.12.51:800][989]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.12.51:830][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.12.51:832][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.04.14-07.12.51:880][993]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.04.14-07.12.53:588][177]LogEditorViewport: Clicking on Actor (LMB): lasercube1_C (lasercube1)
+[2020.04.14-07.12.58:405][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.13.00:444][922]LogTemp: Repeating last play command: Simulate
+[2020.04.14-07.13.00:459][922]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.13.00:459][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-07.13.00:459][922]PIE: New page: SIE session: MiniGame1 (14 Apr 2020 11:13:00 pm)
+[2020.04.14-07.13.00:459][922]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-07.13.00:468][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008640s)
+[2020.04.14-07.13.00:468][922]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-07.13.00:468][922]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2020.04.14-07.13.00:468][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.009296s)
+[2020.04.14-07.13.00:495][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.04.14-07.13.00:521][922]LogInit: XAudio2 using 'Speakers (G433 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-07.13.00:530][922]LogInit: FAudioDevice initialized.
+[2020.04.14-07.13.00:558][922]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-07.13.00:558][922]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-07.13.00:559][922]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-15.13.00
+[2020.04.14-07.13.00:559][922]LogWorld: Bringing up level for play took: 0.000913
+[2020.04.14-07.13.00:571][922]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.14-07.13.00:573][922]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 -0.564
+[2020.04.14-07.13.00:587][922]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.13.04:561][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.13.04:617][355]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.13.04:618][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.13.04:654][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-07.13.04:655][355]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.13.04:686][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.13.04:689][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.04.14-07.13.04:720][358]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.04.14-07.13.09:497][906]LogEditorViewport: Clicking on Actor (LMB): lasercube1_C (lasercube1)
+[2020.04.14-07.13.16:807][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.13.16:829][709]LogTemp: Repeating last play command: Simulate
+[2020.04.14-07.13.16:846][709]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.13.16:847][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-07.13.16:847][709]PIE: New page: SIE session: MiniGame1 (14 Apr 2020 11:13:16 pm)
+[2020.04.14-07.13.16:847][709]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-07.13.16:853][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007276s)
+[2020.04.14-07.13.16:854][709]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-07.13.16:854][709]LogPlayLevel: PIE: World Init took: (0.000451s)
+[2020.04.14-07.13.16:854][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.007833s)
+[2020.04.14-07.13.16:881][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.04.14-07.13.16:906][709]LogInit: XAudio2 using 'Speakers (G433 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-07.13.16:916][709]LogInit: FAudioDevice initialized.
+[2020.04.14-07.13.16:943][709]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-07.13.16:943][709]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-07.13.16:944][709]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-15.13.16
+[2020.04.14-07.13.16:944][709]LogWorld: Bringing up level for play took: 0.000957
+[2020.04.14-07.13.16:956][709]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.14-07.13.16:958][709]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 -0.178
+[2020.04.14-07.13.16:972][709]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.13.22:952][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.13.23:015][347]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.13.23:016][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.13.23:045][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-07.13.23:046][347]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.13.23:076][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.13.23:079][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.04.14-07.13.23:118][351]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.04.14-07.17.10:853][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.17.10:965][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.04.14-07.17.11:164][694]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame11C066BAD4BEB174EFEB79B9F24C8A589.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1.umap'
+[2020.04.14-07.17.11:202][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGame1/MiniGame1_BuiltData" FILE="C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1_BuiltData.uasset" SILENT=true
+[2020.04.14-07.17.11:352][694]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame1_BuiltDataE2EB020C4AD79692092361A4C06BCBBD.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/MiniGame1/MiniGame1_BuiltData.uasset'
+[2020.04.14-07.22.56:417][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.23.15:590][729]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.04.14-07.23.15:879][729]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 121 classes and 0 folders.
+[2020.04.14-07.23.16:718][729]LogSlate: Took 0.006108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.14-07.28.44:348][478]LogSlate: Took 0.004395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.14-07.28.48:253][815]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.04.14-07.28.48:483][815]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.04.14-07.28.48:684][815]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MotionControllerPawn35B7BFE44B67CF43AFA81FAE130D7012.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.04.14-07.28.49:889][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.29.51:070][479]LogSlate: Window 'Tutorials' being destroyed
+[2020.04.14-07.29.52:684][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.30.23:117][ 48]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.04.14-07.30.23:326][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.04.14-07.30.23:518][ 48]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MotionControllerPawn75CA0CD6485CA6BEBC5DC6A2E2BB1D17.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.04.14-07.30.24:062][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.30.24:279][ 78]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MotionControllerPawn3513055548754386B42C29B4AF414F13.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.04.14-07.30.34:489][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.30.34:526][592]LogTemp: Repeating last play command: Simulate
+[2020.04.14-07.30.34:559][592]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.30.34:559][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-07.30.34:560][592]PIE: New page: SIE session: MiniGame1 (14 Apr 2020 11:30:34 pm)
+[2020.04.14-07.30.34:560][592]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-07.30.34:576][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016469s)
+[2020.04.14-07.30.34:577][592]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-07.30.34:577][592]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2020.04.14-07.30.34:577][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.017219s)
+[2020.04.14-07.30.34:613][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.04.14-07.30.34:640][592]LogInit: XAudio2 using 'Speakers (G433 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-07.30.34:650][592]LogInit: FAudioDevice initialized.
+[2020.04.14-07.30.34:685][592]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-07.30.34:685][592]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-07.30.34:686][592]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-15.30.34
+[2020.04.14-07.30.34:686][592]LogWorld: Bringing up level for play took: 0.000974
+[2020.04.14-07.30.34:698][592]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.14-07.30.34:701][592]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 -0.436
+[2020.04.14-07.30.34:702][592]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.30.41:632][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.30.41:706][937]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.30.41:706][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.30.41:750][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-07.30.41:750][937]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.30.41:789][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.30.41:793][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.04.14-07.30.41:893][938]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.04.14-07.30.43:928][ 47]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.30.43:929][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-07.30.43:929][ 47]LogHMD: Initializing OVRPlugin session
+[2020.04.14-07.30.44:023][ 47]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.04.14-07.30.44:024][ 47]PIE: New page: PIE session: MiniGame1 (14 Apr 2020 11:30:44 pm)
+[2020.04.14-07.30.44:024][ 47]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-07.30.44:033][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008873s)
+[2020.04.14-07.30.44:033][ 47]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-07.30.44:033][ 47]LogPlayLevel: PIE: World Init took: (0.000571s)
+[2020.04.14-07.30.44:033][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.009582s)
+[2020.04.14-07.30.44:071][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.04.14-07.30.44:106][ 47]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-07.30.44:116][ 47]LogInit: FAudioDevice initialized.
+[2020.04.14-07.30.44:126][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.30.44:186][ 47]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-07.30.44:187][ 47]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-07.30.44:188][ 47]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-15.30.44
+[2020.04.14-07.30.44:189][ 47]LogWorld: Bringing up level for play took: 0.001463
+[2020.04.14-07.30.44:211][ 47]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 1.074
+[2020.04.14-07.30.44:212][ 47]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.30.44:213][ 47]LogEngine: Changing dynamic resolution state.
+[2020.04.14-07.30.44:239][ 47]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2020.04.14-07.30.52:047][357]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.30.52:109][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.30.52:170][357]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.30.52:188][357]LogSlate: Window 'Project3_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.14-07.30.52:241][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-07.30.52:241][357]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.30.52:293][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.04.14-07.30.52:411][358]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.04.14-07.30.52:411][358]LogEngine: Changing dynamic resolution state.
+[2020.04.14-07.30.54:632][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.31.31:064][187]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MotionControllerPawnBB54E67949F9A830B14519A30AC2BD3D.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.04.14-07.31.33:113][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.31.33:185][341]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.04.14-07.31.33:406][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.04.14-07.31.34:373][387]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MotionControllerPawnEEDF523B4A50A287B1E521B12075CCA8.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.04.14-07.31.34:721][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.31.34:774][413]LogTemp: Repeating last play command: VR Preview
+[2020.04.14-07.31.34:808][413]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.31.34:808][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-07.31.34:808][413]LogHMD: Initializing OVRPlugin session
+[2020.04.14-07.31.34:902][413]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.04.14-07.31.34:903][413]PIE: New page: PIE session: MiniGame1 (14 Apr 2020 11:31:34 pm)
+[2020.04.14-07.31.34:903][413]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-07.31.34:913][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009657s)
+[2020.04.14-07.31.34:914][413]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-07.31.34:914][413]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2020.04.14-07.31.34:914][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.010414s)
+[2020.04.14-07.31.34:951][413]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.04.14-07.31.34:990][413]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-07.31.34:999][413]LogInit: FAudioDevice initialized.
+[2020.04.14-07.31.35:008][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.31.35:070][413]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-07.31.35:070][413]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-07.31.35:071][413]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-15.31.35
+[2020.04.14-07.31.35:071][413]LogWorld: Bringing up level for play took: 0.001048
+[2020.04.14-07.31.35:089][413]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 -0.047
+[2020.04.14-07.31.35:090][413]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.31.35:090][413]LogEngine: Changing dynamic resolution state.
+[2020.04.14-07.31.35:176][413]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2020.04.14-07.31.55:251][712]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.31.55:315][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.31.55:362][712]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.31.55:390][712]LogSlate: Window 'Project3_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.14-07.31.55:441][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-07.31.55:442][712]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.31.55:487][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.04.14-07.31.55:604][713]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.04.14-07.31.55:604][713]LogEngine: Changing dynamic resolution state.
+[2020.04.14-07.32.10:615][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.32.23:506][501]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.04.14-07.32.23:718][501]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.04.14-07.32.23:910][501]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MotionControllerPawn72873D4B414D0513E7954DBE9993C01B.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.04.14-07.32.24:811][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.33.42:912][452]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.04.14-07.33.43:133][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.04.14-07.33.43:341][452]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MotionControllerPawn422A173745FDB9C4DF1B089A733659BD.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.04.14-07.33.43:804][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.33.44:059][488]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MotionControllerPawnAF576EA14CD44ACA59763A8E5DC21A8B.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.04.14-07.33.44:599][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.33.44:631][530]LogTemp: Repeating last play command: VR Preview
+[2020.04.14-07.33.44:672][530]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.33.44:672][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-07.33.44:672][530]LogHMD: Initializing OVRPlugin session
+[2020.04.14-07.33.44:766][530]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.04.14-07.33.44:767][530]PIE: New page: PIE session: MiniGame1 (14 Apr 2020 11:33:44 pm)
+[2020.04.14-07.33.44:767][530]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-07.33.44:776][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009380s)
+[2020.04.14-07.33.44:777][530]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-07.33.44:777][530]LogPlayLevel: PIE: World Init took: (0.000465s)
+[2020.04.14-07.33.44:777][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.009975s)
+[2020.04.14-07.33.44:815][530]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.04.14-07.33.44:845][530]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-07.33.44:855][530]LogInit: FAudioDevice initialized.
+[2020.04.14-07.33.44:873][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.33.44:930][530]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-07.33.44:930][530]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-07.33.44:931][530]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-15.33.44
+[2020.04.14-07.33.44:932][530]LogWorld: Bringing up level for play took: 0.001461
+[2020.04.14-07.33.44:950][530]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 -0.187
+[2020.04.14-07.33.44:951][530]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.33.44:951][530]LogEngine: Changing dynamic resolution state.
+[2020.04.14-07.33.45:045][530]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2020.04.14-07.33.53:056][988]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.33.53:125][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.33.53:190][988]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.33.53:218][988]LogSlate: Window 'Project3_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.14-07.33.53:270][988]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-07.33.53:270][988]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.33.53:315][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.04.14-07.33.53:418][989]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.04.14-07.33.53:419][989]LogEngine: Changing dynamic resolution state.
+[2020.04.14-07.34.05:675][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.35.43:141][838]LogEditorTransaction: Undo Create Reroute Node
+[2020.04.14-07.36.54:276][832]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MotionControllerPawnA660DF054C8D7676AD8478941E84BA2A.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.04.14-07.36.54:446][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.36.54:509][848]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.04.14-07.36.54:723][848]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.04.14-07.36.56:042][924]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MotionControllerPawn7F0302A5414C2ADF04C14FBD7124077F.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.04.14-07.36.56:674][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.36.56:740][964]LogTemp: Repeating last play command: VR Preview
+[2020.04.14-07.36.56:790][964]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.36.56:790][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-07.36.56:790][964]LogHMD: Initializing OVRPlugin session
+[2020.04.14-07.36.56:889][964]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.04.14-07.36.56:890][964]PIE: New page: PIE session: MiniGame1 (14 Apr 2020 11:36:56 pm)
+[2020.04.14-07.36.56:890][964]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-07.36.56:901][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010569s)
+[2020.04.14-07.36.56:901][964]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-07.36.56:901][964]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2020.04.14-07.36.56:901][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.011287s)
+[2020.04.14-07.36.56:943][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.04.14-07.36.56:977][964]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-07.36.56:990][964]LogInit: FAudioDevice initialized.
+[2020.04.14-07.36.57:000][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.36.57:058][964]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-07.36.57:058][964]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-07.36.57:060][964]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-15.36.57
+[2020.04.14-07.36.57:060][964]LogWorld: Bringing up level for play took: 0.001611
+[2020.04.14-07.36.57:079][964]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 -0.058
+[2020.04.14-07.36.57:080][964]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.36.57:080][964]LogEngine: Changing dynamic resolution state.
+[2020.04.14-07.36.57:169][964]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2020.04.14-07.37.19:192][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.37.19:252][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.37.19:313][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.37.19:361][947]LogSlate: Window 'Project3_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.14-07.37.19:421][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-07.37.19:421][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.37.19:476][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.04.14-07.37.19:605][948]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.04.14-07.37.19:605][948]LogEngine: Changing dynamic resolution state.
+[2020.04.14-07.37.37:118][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.37.37:386][152]LogTemp: Repeating last play command: VR Preview
+[2020.04.14-07.37.37:405][152]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.37.37:405][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-07.37.37:405][152]LogHMD: Initializing OVRPlugin session
+[2020.04.14-07.37.37:499][152]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.04.14-07.37.37:500][152]PIE: New page: PIE session: MiniGame1 (14 Apr 2020 11:37:37 pm)
+[2020.04.14-07.37.37:500][152]LogPlayLevel: Creating play world package: /Game/MiniGame1/UEDPIE_0_MiniGame1
+[2020.04.14-07.37.37:509][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008977s)
+[2020.04.14-07.37.37:510][152]LogAIModule: Creating AISystem for world MiniGame1
+[2020.04.14-07.37.37:510][152]LogPlayLevel: PIE: World Init took: (0.000508s)
+[2020.04.14-07.37.37:510][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame1/MiniGame1.MiniGame1 to /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 (0.009621s)
+[2020.04.14-07.37.37:548][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.04.14-07.37.37:588][152]LogInit: XAudio2 using 'Headphones (2- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-07.37.37:596][152]LogInit: FAudioDevice initialized.
+[2020.04.14-07.37.37:604][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.37.37:671][152]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.14-07.37.37:671][152]LogLoad: Game class is 'GameModeBase'
+[2020.04.14-07.37.37:673][152]LogWorld: Bringing World /Game/MiniGame1/UEDPIE_0_MiniGame1.MiniGame1 up for play (max tick rate 0) at 2020.04.14-15.37.37
+[2020.04.14-07.37.37:673][152]LogWorld: Bringing up level for play took: 0.001355
+[2020.04.14-07.37.37:701][152]PIE: Play in editor start time for /Game/MiniGame1/UEDPIE_0_MiniGame1 0.564
+[2020.04.14-07.37.37:701][152]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.37.37:703][152]LogEngine: Changing dynamic resolution state.
+[2020.04.14-07.37.37:718][152]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2020.04.14-07.37.59:124][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.37.59:186][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-07.37.59:230][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-07.37.59:279][ 12]LogSlate: Window 'Project3_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.14-07.37.59:331][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-07.37.59:331][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel' has LevelScriptBlueprint '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1' with GeneratedClass '/Game/MiniGame1/MiniGame1.MiniGame1_C' with ClassGeneratedBy '/Game/MiniGame1/MiniGame1.MiniGame1:PersistentLevel.MiniGame1'
+[2020.04.14-07.37.59:375][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.04.14-07.37.59:497][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.04.14-07.37.59:497][ 13]LogEngine: Changing dynamic resolution state.
+[2020.04.14-07.38.24:248][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-07.40.12:510][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.14-07.40.12:797][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MiniGame1_Auto1D4B5A52B456633907A66B4AE3887A5CE.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/MiniGame1_Auto1.umap'
+[2020.04.14-07.40.12:800][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MiniGame1/MiniGame1' took 0.326
+[2020.04.14-07.40.12:800][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.326
+[2020.04.14-07.40.12:801][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_M08] ([1] browsable assets)...
+[2020.04.14-07.40.12:814][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_M08.Color_M08]
+[2020.04.14-07.40.12:814][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_M08]
+[2020.04.14-07.40.12:903][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_M08_Auto16677642A4A50A18CBB5FEA9DDF15B6A9.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_M08_Auto1.uasset'
+[2020.04.14-07.40.12:905][ 20]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2020.04.14-07.40.12:905][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2020.04.14-07.40.13:077][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/MotionControllerPawn_Auto1DE50415B4B9D059B00BC549EF77876D1.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto1.uasset'
+[2020.04.14-07.40.13:079][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/FrontColor_001] ([1] browsable assets)...
+[2020.04.14-07.40.13:088][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/FrontColor_001.FrontColor_001]
+[2020.04.14-07.40.13:088][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/FrontColor_001]
+[2020.04.14-07.40.13:179][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/FrontColor_001_Auto1A46E735A4C4512FC8F8BBCA370A8916E.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/FrontColor_001_Auto1.uasset'
+[2020.04.14-07.40.13:181][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_H06] ([1] browsable assets)...
+[2020.04.14-07.40.13:189][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_H06.Color_H06]
+[2020.04.14-07.40.13:189][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_H06]
+[2020.04.14-07.40.13:277][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_H06_Auto1D46CBB954BF882F08205F1AEF50C90B7.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_H06_Auto1.uasset'
+[2020.04.14-07.40.13:279][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_I01] ([1] browsable assets)...
+[2020.04.14-07.40.13:287][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_I01.Color_I01]
+[2020.04.14-07.40.13:287][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_I01]
+[2020.04.14-07.40.13:373][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_I01_Auto12F291AE04D1224A95A9B5CB2639AF05F.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_I01_Auto1.uasset'
+[2020.04.14-07.40.13:374][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_M02] ([1] browsable assets)...
+[2020.04.14-07.40.13:384][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_M02.Color_M02]
+[2020.04.14-07.40.13:384][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_M02]
+[2020.04.14-07.40.13:470][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_M02_Auto1B7C767954A51125BC0E163994AD418A0.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_M02_Auto1.uasset'
+[2020.04.14-07.40.13:472][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/FrontColor_003] ([1] browsable assets)...
+[2020.04.14-07.40.13:480][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/FrontColor_003.FrontColor_003]
+[2020.04.14-07.40.13:480][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/FrontColor_003]
+[2020.04.14-07.40.13:566][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/FrontColor_003_Auto11BBAE3E34620F7614E6622AC1C113748.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/FrontColor_003_Auto1.uasset'
+[2020.04.14-07.40.13:568][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_M03] ([1] browsable assets)...
+[2020.04.14-07.40.13:576][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_M03.Color_M03]
+[2020.04.14-07.40.13:576][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_M03]
+[2020.04.14-07.40.13:663][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_M03_Auto173F456FC428F508C3C633389FB194C9E.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_M03_Auto1.uasset'
+[2020.04.14-07.40.13:664][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_M08_001] ([1] browsable assets)...
+[2020.04.14-07.40.13:673][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_M08_001.Color_M08_001]
+[2020.04.14-07.40.13:673][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_M08_001]
+[2020.04.14-07.40.13:762][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_M08_001_Auto125F2CBAD47F018A28487D9851967CC2A.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_M08_001_Auto1.uasset'
+[2020.04.14-07.40.13:763][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/FrontColor_002] ([1] browsable assets)...
+[2020.04.14-07.40.13:771][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/FrontColor_002.FrontColor_002]
+[2020.04.14-07.40.13:771][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/FrontColor_002]
+[2020.04.14-07.40.13:856][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/FrontColor_002_Auto1FB7328EE452D91BEE04CAAA3CAD58241.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/FrontColor_002_Auto1.uasset'
+[2020.04.14-07.40.13:859][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_A05] ([1] browsable assets)...
+[2020.04.14-07.40.13:867][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_A05.Color_A05]
+[2020.04.14-07.40.13:867][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_A05]
+[2020.04.14-07.40.13:959][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_A05_Auto1B621757A4E13039C92787AB253629F18.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_A05_Auto1.uasset'
+[2020.04.14-07.40.13:961][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_C05] ([1] browsable assets)...
+[2020.04.14-07.40.13:971][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_C05.Color_C05]
+[2020.04.14-07.40.13:971][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_C05]
+[2020.04.14-07.40.14:058][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_C05_Auto1445B305C4B15A445D3D8029057976635.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_C05_Auto1.uasset'
+[2020.04.14-07.40.14:060][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_D01] ([1] browsable assets)...
+[2020.04.14-07.40.14:068][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_D01.Color_D01]
+[2020.04.14-07.40.14:068][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_D01]
+[2020.04.14-07.40.14:158][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_D01_Auto183BE25A04044343CD878F49E4DB72F85.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_D01_Auto1.uasset'
+[2020.04.14-07.40.14:160][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_E05] ([1] browsable assets)...
+[2020.04.14-07.40.14:168][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_E05.Color_E05]
+[2020.04.14-07.40.14:168][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_E05]
+[2020.04.14-07.40.14:257][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_E05_Auto1CD2DBC5548FBF3504D740EB6094CC3BE.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_E05_Auto1.uasset'
+[2020.04.14-07.40.14:259][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_EO5] ([1] browsable assets)...
+[2020.04.14-07.40.14:268][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_EO5.Color_EO5]
+[2020.04.14-07.40.14:268][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_EO5]
+[2020.04.14-07.40.14:360][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_EO5_Auto1CDCB79B64B0DEB203743A98DCB41C5A1.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_EO5_Auto1.uasset'
+[2020.04.14-07.40.14:363][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_F05] ([1] browsable assets)...
+[2020.04.14-07.40.14:372][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_F05.Color_F05]
+[2020.04.14-07.40.14:372][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_F05]
+[2020.04.14-07.40.14:462][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_F05_Auto1817428EF43EB232D837E5498AEAAFCDC.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_F05_Auto1.uasset'
+[2020.04.14-07.40.14:464][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_H01] ([1] browsable assets)...
+[2020.04.14-07.40.14:472][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_H01.Color_H01]
+[2020.04.14-07.40.14:472][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_H01]
+[2020.04.14-07.40.14:563][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_H01_Auto15E8738664C83FBBD962400A9001248A5.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_H01_Auto1.uasset'
+[2020.04.14-07.40.14:565][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_H05] ([1] browsable assets)...
+[2020.04.14-07.40.14:573][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_H05.Color_H05]
+[2020.04.14-07.40.14:573][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_H05]
+[2020.04.14-07.40.14:666][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_H05_Auto1434CF12D48033EE37B2D26AC2A2F606D.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_H05_Auto1.uasset'
+[2020.04.14-07.40.14:668][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_H08] ([1] browsable assets)...
+[2020.04.14-07.40.14:677][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_H08.Color_H08]
+[2020.04.14-07.40.14:677][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_H08]
+[2020.04.14-07.40.14:768][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_H08_Auto13FA62A5743848FB8ED1DE99DFF266171.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_H08_Auto1.uasset'
+[2020.04.14-07.40.14:770][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_I05] ([1] browsable assets)...
+[2020.04.14-07.40.14:778][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_I05.Color_I05]
+[2020.04.14-07.40.14:778][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_I05]
+[2020.04.14-07.40.14:871][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_I05_Auto1878FB0D14431A2BC7D7D0AB70C7EE7D1.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_I05_Auto1.uasset'
+[2020.04.14-07.40.14:873][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_L16] ([1] browsable assets)...
+[2020.04.14-07.40.14:882][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_L16.Color_L16]
+[2020.04.14-07.40.14:882][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_L16]
+[2020.04.14-07.40.14:974][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_L16_Auto12E48E7704BE17076EDCDC5890AC8CF03.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_L16_Auto1.uasset'
+[2020.04.14-07.40.14:977][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_M01] ([1] browsable assets)...
+[2020.04.14-07.40.14:985][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_M01.Color_M01]
+[2020.04.14-07.40.14:985][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_M01]
+[2020.04.14-07.40.15:078][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_M01_Auto11DCF232C48638A2E2DCA5F9F75A1EAEE.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_M01_Auto1.uasset'
+[2020.04.14-07.40.15:080][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/FrontColor] ([1] browsable assets)...
+[2020.04.14-07.40.15:088][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/FrontColor.FrontColor]
+[2020.04.14-07.40.15:088][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/FrontColor]
+[2020.04.14-07.40.15:181][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/FrontColor_Auto17EA94A5B444784C559E8919063523CC2.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/FrontColor_Auto1.uasset'
+[2020.04.14-07.40.15:183][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_B01] ([1] browsable assets)...
+[2020.04.14-07.40.15:192][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_B01.Color_B01]
+[2020.04.14-07.40.15:192][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_B01]
+[2020.04.14-07.40.15:283][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_B01_Auto175914E97430EFF4374670EB2C7AD30EF.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_B01_Auto1.uasset'
+[2020.04.14-07.40.15:285][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame1/UpdatedWorld/Color_M07] ([1] browsable assets)...
+[2020.04.14-07.40.15:294][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MiniGame1/UpdatedWorld/Color_M07.Color_M07]
+[2020.04.14-07.40.15:294][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame1/UpdatedWorld/Color_M07]
+[2020.04.14-07.40.15:387][ 20]LogSavePackage: Moving 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Color_M07_Auto1FE677C4E4583C909D654A69BFA016E09.tmp' to 'C:/Users/pivot/Documents/GitHub/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/MiniGame1/UpdatedWorld/Color_M07_Auto1.uasset'
+[2020.04.14-07.40.15:388][ 20]LogFileHelpers: Auto-saving content packages took 2.587

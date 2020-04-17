@@ -1,0 +1,929 @@
+﻿Log file open, 04/10/20 12:01:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project3_VR
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.715329
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Unreal/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.10-04.01.47:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.10-04.01.47:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.10-04.01.47:748][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.10-04.01.47:756][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.10-04.01.47:756][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.10-04.01.47:757][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.10-04.01.47:758][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.10-04.01.47:758][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.10-04.01.47:778][  0]LogHAL: Display: Platform has ~ 16 GB [17122951168 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.04.10-04.01.47:779][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.10-04.01.47:779][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.04.10-04.01.47:779][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Scalability.ini]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.10-04.01.47:780][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.10-04.01.47:784][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.10-04.01.47:784][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.10-04.01.47:784][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Config/Windows/Engine.ini]
+[2020.04.10-04.01.47:785][  0]LogInit: Computer: SPIKESPC
+[2020.04.10-04.01.47:785][  0]LogInit: User: mike
+[2020.04.10-04.01.47:785][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.10-04.01.47:785][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.10-04.01.47:785][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.10-04.01.47:785][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.10-04.01.47:785][  0]LogMemory: Process Physical Memory: 97.90 MB used, 97.91 MB peak
+[2020.04.10-04.01.47:785][  0]LogMemory: Process Virtual Memory: 89.84 MB used, 89.84 MB peak
+[2020.04.10-04.01.47:785][  0]LogMemory: Physical Memory: 6913.19 MB used,  9416.53 MB free, 16329.72 MB total
+[2020.04.10-04.01.47:785][  0]LogMemory: Virtual Memory: 4660.70 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.04.10-04.01.47:990][  0]LogInit: Using OS detected language (en-US).
+[2020.04.10-04.01.47:990][  0]LogInit: Using OS detected locale (en-AU).
+[2020.04.10-04.01.47:992][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.10-04.01.48:250][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.10-04.01.48:339][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.10-04.01.48:339][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.10-04.01.53:457][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.10-04.01.53:620][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.04.10-04.01.53:620][  0]LogD3D11RHI:       8088/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.10-04.01.53:624][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.10-04.01.53:624][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.10-04.01.53:624][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.10-04.01.53:632][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.10-04.01.53:633][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.10-04.01.53:633][  0]LogWindows: EnumDisplayDevices:
+[2020.04.10-04.01.53:633][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.04.10-04.01.53:633][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.04.10-04.01.53:633][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.04.10-04.01.53:633][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.04.10-04.01.53:634][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.10-04.01.53:634][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.04.10-04.01.53:634][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.04.10-04.01.53:634][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.04.10-04.01.53:634][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.04.10-04.01.53:681][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.10-04.01.53:701][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.10-04.01.53:702][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.10-04.01.53:702][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.10-04.01.53:713][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.10-04.01.54:398][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.10-04.01.54:415][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.10-04.01.54:440][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.10-04.01.54:465][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.10-04.01.54:503][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.10-04.01.54:535][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.10-04.01.54:571][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.10-04.01.54:606][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.10-04.01.54:634][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.10-04.01.54:765][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.10-04.01.54:765][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.10-04.01.54:765][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.10-04.01.54:765][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.10-04.01.54:765][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.10-04.01.54:765][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.10-04.01.54:765][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.10-04.01.54:765][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.10-04.01.54:765][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.10-04.01.54:765][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.10-04.01.54:765][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.10-04.01.54:765][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.10-04.01.54:765][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.10-04.01.54:765][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.10-04.01.54:765][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.10-04.01.54:765][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.10-04.01.54:765][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.10-04.01.54:765][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.10-04.01.54:779][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.10-04.01.54:885][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.10-04.01.54:885][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.10-04.01.54:926][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.10-04.01.54:926][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.10-04.01.54:953][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.10-04.01.54:981][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.10-04.01.55:010][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.10-04.01.55:045][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.10-04.01.55:105][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.10-04.01.55:105][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.10-04.01.55:105][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.10-04.01.55:180][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.10-04.01.55:523][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Intermediate/Shaders/WorkingDirectory/172/).
+[2020.04.10-04.01.55:524][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mikeb/AppData/Local/Temp/UnrealShaderWorkingDir/40DBDB9F45BCB5E3C6F8378E46A2362F/'.
+[2020.04.10-04.01.55:525][  0]LogXGEController: Cleaning working directory: C:/Users/mikeb/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.10-04.01.55:526][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.10-04.01.55:526][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.10-04.01.55:526][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.10-04.01.58:125][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.10-04.01.58:342][  0]LogDerivedDataCache: Loaded boot cache 0.22s 72MB C:/Users/mikeb/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.10-04.01.58:342][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mikeb/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.04.10-04.01.58:342][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.10-04.01.58:342][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.10-04.01.58:342][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.10-04.01.58:342][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.10-04.01.58:363][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.10-04.01.58:363][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.10-04.01.58:363][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.10-04.01.58:375][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mikeb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.10-04.01.58:375][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.10-04.01.58:375][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.10-04.01.58:396][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.10-04.01.58:401][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.10-04.01.58:418][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.10-04.01.58:651][  0]LogAssetRegistry: FAssetRegistry took 0.0344 seconds to start up
+[2020.04.10-04.01.59:081][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.10-04.01.59:558][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.10-04.01.59:558][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.10-04.01.59:558][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.10-04.01.59:558][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.10-04.01.59:558][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.10-04.01.59:609][  0]LogNetVersion: Project3_VR 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 867328552)
+[2020.04.10-04.02.00:680][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.048884 seconds
+[2020.04.10-04.02.00:687][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.04.10-04.02.00:687][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.04.10-04.02.00:687][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.10-04.02.04:589][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.10-04.02.04:618][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.10-04.02.04:940][  0]SourceControl: Source control is disabled
+[2020.04.10-04.02.04:941][  0]SourceControl: Source control is disabled
+[2020.04.10-04.02.04:962][  0]SourceControl: Source control is disabled
+[2020.04.10-04.02.04:978][  0]SourceControl: Source control is disabled
+[2020.04.10-04.02.05:573][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.10-04.02.05:953][  0]LogOcInput: OculusInput pre-init called
+[2020.04.10-04.02.07:442][  0]LogEngine: Initializing Engine...
+[2020.04.10-04.02.07:444][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-69584F10
+[2020.04.10-04.02.07:446][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.04.10-04.02.07:775][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.10-04.02.07:817][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.10-04.02.07:886][  0]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.10-04.02.07:911][  0]LogInit: FAudioDevice initialized.
+[2020.04.10-04.02.07:912][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.10-04.02.08:036][  0]LogDerivedDataCache: Saved boot cache 0.13s 72MB C:/Users/mikeb/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.10-04.02.08:047][  0]LogInit: Texture streaming: Enabled
+[2020.04.10-04.02.08:109][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.10-04.02.08:288][  0]LogInit: Transaction tracking system initialized
+[2020.04.10-04.02.08:386][  0]BlueprintLog: New page: Editor Load
+[2020.04.10-04.02.08:782][  0]LocalizationService: Localization service is disabled
+[2020.04.10-04.02.09:600][  0]LogFileCache: Scanning file cache for directory 'E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/' took 0.02s
+[2020.04.10-04.02.09:600][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.10-04.02.09:600][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.10-04.02.10:412][  0]SourceControl: Source control is disabled
+[2020.04.10-04.02.10:413][  0]Cmd: MAP LOAD FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/HubWorld/HubWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.10-04.02.10:414][  0]LightingResults: New page: Lighting Build
+[2020.04.10-04.02.10:420][  0]MapCheck: New page: Map Check
+[2020.04.10-04.02.10:420][  0]LightingResults: New page: Lighting Build
+[2020.04.10-04.02.10:446][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.04.10-04.02.11:584][  0]LogLinker: Warning: Asset '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.04.10-04.02.11:590][  0]LogLinker: Warning: Asset '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/MSPresets/MSTextures/Albedo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.04.10-04.02.11:595][  0]LogLinker: Warning: Asset '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/MSPresets/MSTextures/Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.04.10-04.02.11:600][  0]LogLinker: Warning: Asset '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/MSPresets/MSTextures/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.04.10-04.02.12:339][  0]LogAIModule: Creating AISystem for world HubWorld
+[2020.04.10-04.02.12:366][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.10-04.02.12:404][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.04.10-04.02.12:404][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.10-04.02.12:404][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2020.04.10-04.02.12:404][  0]LogFileHelpers: Loading map 'HubWorld' took 1.992
+[2020.04.10-04.02.12:565][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-04.02.12:571][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-04.02.12:577][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-04.02.12:583][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-04.02.12:604][  0]LogCollectionManager: Loaded 0 collections in 0.000618 seconds
+[2020.04.10-04.02.12:621][  0]LogFileCache: Scanning file cache for directory 'E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Collections/' took 0.01s
+[2020.04.10-04.02.12:622][  0]LogFileCache: Scanning file cache for directory 'E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Developers/mike/Collections/' took 0.00s
+[2020.04.10-04.02.12:622][  0]LogFileCache: Scanning file cache for directory 'E:/TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Collections/' took 0.00s
+[2020.04.10-04.02.12:622][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.04.10-04.02.12:629][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2754 classes and 671 folders.
+[2020.04.10-04.02.12:634][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.10-04.02.12:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:668][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:684][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:708][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:713][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:733][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:757][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:762][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:768][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:773][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:778][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:783][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:805][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.10-04.02.12:941][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.10-04.02.13:057][  0]LogSlate: Took 0.004231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.10-04.02.13:064][  0]LogSlate: Took 0.004366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.10-04.02.13:070][  0]LogSlate: Took 0.004620 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.10-04.02.13:165][  0]LogRenderer: Reallocating scene render targets to support 1116x696 Format 26 NumSamples 1 (Frame:1).
+[2020.04.10-04.02.13:253][  0]LogSlate: Took 0.007260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.10-04.02.13:337][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.10-04.02.13:337][  0]LogLoad: (Engine Initialization) Total time: 30.19 seconds
+[2020.04.10-04.02.13:337][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.10-04.02.13:392][  0]LogAssetRegistry: Asset discovery search completed in 14.7629 seconds
+[2020.04.10-04.02.13:395][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.04.10-04.02.13:395][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
+[2020.04.10-04.02.13:401][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.10-04.02.42:369][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.02.56:710][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.04.10-04.02.56:790][634]LogAIModule: Creating AISystem for world Tutorial
+[2020.04.10-04.03.01:865][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.03.02:076][155]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.10-04.03.02:083][155]LogAssetEditorManager: Opening Asset editor for World /Game/HubWorld/Tutorial.Tutorial
+[2020.04.10-04.03.02:107][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.04.10-04.03.03:312][155]LogSlate: Window 'Save Content' being destroyed
+[2020.04.10-04.03.03:318][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HubWorld/Tutorial" FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/HubWorld/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.10-04.03.03:360][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.04.10-04.03.03:600][155]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Tutorial5AA86D694F24E1BC7BB8D5837BEA5842.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/HubWorld/Tutorial.umap'
+[2020.04.10-04.03.03:609][155]LogFileHelpers: Saving map 'Tutorial' took 0.290
+[2020.04.10-04.03.03:618][155]Cmd: MAP LOAD FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/HubWorld/Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.10-04.03.03:618][155]LightingResults: New page: Lighting Build
+[2020.04.10-04.03.03:619][155]LoadErrors: New page: Loading map: Tutorial.umap
+[2020.04.10-04.03.03:620][155]MapCheck: New page: Map Check
+[2020.04.10-04.03.03:620][155]LightingResults: New page: Lighting Build
+[2020.04.10-04.03.03:647][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.04.10-04.03.03:708][155]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.10-04.03.03:734][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.04.10-04.03.03:759][155]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.10-04.03.03:759][155]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2020.04.10-04.03.03:760][155]LogFileHelpers: Loading map 'Tutorial' took 0.142
+[2020.04.10-04.03.05:030][279]LogAssetEditorManager: Opening Asset editor for World /Game/HubWorld/Tutorial.Tutorial
+[2020.04.10-04.03.05:052][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.04.10-04.03.05:052][279]Cmd: MAP LOAD FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/HubWorld/Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.10-04.03.05:052][279]LightingResults: New page: Lighting Build
+[2020.04.10-04.03.05:052][279]LoadErrors: New page: Loading map: Tutorial.umap
+[2020.04.10-04.03.05:054][279]MapCheck: New page: Map Check
+[2020.04.10-04.03.05:054][279]LightingResults: New page: Lighting Build
+[2020.04.10-04.03.05:079][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.04.10-04.03.05:112][279]LogAIModule: Creating AISystem for world Tutorial
+[2020.04.10-04.03.05:198][279]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.10-04.03.05:225][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.04.10-04.03.05:250][279]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.10-04.03.05:250][279]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.08ms to complete.
+[2020.04.10-04.03.05:250][279]LogFileHelpers: Loading map 'Tutorial' took 0.198
+[2020.04.10-04.03.11:148][857]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2020.04.10-04.03.14:612][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.07.14:385][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.07.33:654][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.04.10-04.07.42:327][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.04.10-04.08.06:305][962]LogSlate: Window 'Content Browser 2' being destroyed
+[2020.04.10-04.08.24:725][574]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.10-04.08.25:747][695]LogMetaData: Removing '/Game/Tutorial/LaserCube.SKEL_LaserCube_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/LaserCube.PackageMetaData'
+[2020.04.10-04.08.25:747][695]LogMetaData: Removing '/Game/Tutorial/LaserCube.LaserCube_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/LaserCube.PackageMetaData'
+[2020.04.10-04.08.25:747][695]LogMetaData: Removing '/Game/Tutorial/LaserCube.SKEL_LaserCube_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/LaserCube.PackageMetaData'
+[2020.04.10-04.08.25:747][695]LogMetaData: Removing '/Game/Tutorial/LaserCube.SKEL_LaserCube_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/VirtualRealityBP/Blueprints/LaserCube.PackageMetaData'
+[2020.04.10-04.08.25:747][695]LogMetaData: Removing '/Game/Tutorial/LaserCube.SKEL_LaserCube_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/LaserCube.PackageMetaData'
+[2020.04.10-04.08.25:747][695]LogMetaData: Removing '/Game/Tutorial/LaserCube.SKEL_LaserCube_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/LaserCube.PackageMetaData'
+[2020.04.10-04.08.25:753][695]LogMetaData: Removing '/Game/Tutorial/Gun.SKEL_Gun_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Gun.PackageMetaData'
+[2020.04.10-04.08.25:753][695]LogMetaData: Removing '/Game/Tutorial/Gun.Gun_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Gun.PackageMetaData'
+[2020.04.10-04.08.25:753][695]LogMetaData: Removing '/Game/Tutorial/Gun.SKEL_Gun_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Gun.PackageMetaData'
+[2020.04.10-04.08.25:753][695]LogMetaData: Removing '/Game/Tutorial/Gun.SKEL_Gun_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Gun.PackageMetaData'
+[2020.04.10-04.08.25:753][695]LogMetaData: Removing '/Game/Tutorial/Gun.SKEL_Gun_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Gun.PackageMetaData'
+[2020.04.10-04.08.25:753][695]LogMetaData: Removing '/Game/Tutorial/Gun.SKEL_Gun_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Gun.PackageMetaData'
+[2020.04.10-04.08.25:777][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tutorial/LaserCube" FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/LaserCube.uasset" SILENT=true
+[2020.04.10-04.08.25:798][695]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/LaserCube647EC9054A89CD2CBD1D02B540D8B3AB.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/LaserCube.uasset'
+[2020.04.10-04.08.25:809][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tutorial/Gun" FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/Gun.uasset" SILENT=true
+[2020.04.10-04.08.25:829][695]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Gun986D45714B5A5CC89380FBA3E84B3730.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/Gun.uasset'
+[2020.04.10-04.08.25:959][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.04.10-04.08.25:980][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.04.10-04.08.26:005][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.04.10-04.08.26:026][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.04.10-04.08.37:357][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.04.10-04.08.37:358][732]LogMetaData: Removing '/Game/Tutorial/Tutorial.Tutorial_C' ref from Metadata '/Game/HubWorld/Tutorial.PackageMetaData'
+[2020.04.10-04.08.37:358][732]LogMetaData: Removing '/Game/Tutorial/Tutorial.SKEL_Tutorial_C' ref from Metadata '/Game/HubWorld/Tutorial.PackageMetaData'
+[2020.04.10-04.08.37:370][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tutorial/Tutorial" FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.10-04.08.37:393][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.04.10-04.08.37:623][732]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/TutorialFD653C6340B3EB03BC4663A86CB6A6FC.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/Tutorial.umap'
+[2020.04.10-04.08.37:647][732]LogFileHelpers: Saving map 'Tutorial' took 0.278
+[2020.04.10-04.08.37:727][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.04.10-04.08.37:754][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.04.10-04.08.37:776][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.04.10-04.09.04:998][ 51]LogSlate: Window 'Content Browser' being destroyed
+[2020.04.10-04.09.15:008][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.09.16:814][112]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Tutorial/LaserCube.LaserCube
+[2020.04.10-04.09.17:136][112]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.04.10-04.09.17:862][112]LogSlate: Took 0.004178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.10-04.09.17:922][113]LogSlate: Took 0.004861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.10-04.09.37:462][898]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1
+[2020.04.10-04.12.00:180][486]LogHMD: SteamVR Shutting down.
+[2020.04.10-04.12.00:802][510]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{f9137854-121f-4758-9158-534187af1d31} was removed. Shutting down audio device.
+[2020.04.10-04.12.00:949][510]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID PRO USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.04.10-04.12.01:053][511]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID PRO USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.04.10-04.13.04:425][978]BlueprintLog: New page: Compile LaserCube
+[2020.04.10-04.13.04:563][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.04.10-04.13.05:991][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tutorial/LaserCube" FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/LaserCube.uasset" SILENT=true
+[2020.04.10-04.13.06:058][141]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/LaserCubeEBD8131C4676E5F2FA82B192664B93CA.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/LaserCube.uasset'
+[2020.04.10-04.13.33:661][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tutorial/LaserCube" FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/LaserCube.uasset" SILENT=true
+[2020.04.10-04.13.33:690][440]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/LaserCube0604250642FA59AE34020B850D08B5CF.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/LaserCube.uasset'
+[2020.04.10-04.14.01:912][726]LogRenderer: Reallocating scene render targets to support 1144x940 Format 26 NumSamples 1 (Frame:1).
+[2020.04.10-04.14.06:776][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.14.08:056][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.15.03:499][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.15.20:696][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.15.28:538][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.21.29:633][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.04.10-04.21.29:633][167]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Tutorial/Tutorial' took 0.032
+[2020.04.10-04.21.29:634][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/lasercube1] ([1] browsable assets)...
+[2020.04.10-04.21.29:642][167]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/lasercube1.lasercube1]
+[2020.04.10-04.21.29:642][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/lasercube1]
+[2020.04.10-04.21.29:687][167]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/lasercube1_Auto11ED1180C457BADF3AC80B9BC7C96B7AA.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/lasercube1_Auto1.uasset'
+[2020.04.10-04.21.29:687][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tutorial/LaserCube] ([1] browsable assets)...
+[2020.04.10-04.21.29:695][167]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Tutorial/LaserCube.LaserCube]
+[2020.04.10-04.21.29:695][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tutorial/LaserCube]
+[2020.04.10-04.21.29:737][167]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/LaserCube_Auto1A392A514482174965CFA58A42EE94B9A.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/Tutorial/LaserCube_Auto1.uasset'
+[2020.04.10-04.21.29:737][167]LogFileHelpers: Auto-saving content packages took 0.103
+[2020.04.10-04.21.31:924][428]Cmd: TRANSACTION UNDO
+[2020.04.10-04.21.31:924][428]LogEditorTransaction: Undo Move Node
+[2020.04.10-04.21.32:486][488]Cmd: TRANSACTION UNDO
+[2020.04.10-04.21.32:486][488]LogEditorTransaction: Undo Create Reroute Node
+[2020.04.10-04.26.15:863][262]Cmd: TRANSACTION UNDO
+[2020.04.10-04.26.15:863][262]LogEditorTransaction: Undo Create Pin Link
+[2020.04.10-04.26.17:269][425]LogEditorTransaction: Undo Move Node
+[2020.04.10-04.26.17:617][462]LogEditorTransaction: Undo Create Pin Link
+[2020.04.10-04.26.17:933][500]LogEditorTransaction: Undo Break Pin Links
+[2020.04.10-04.26.18:200][527]LogEditorTransaction: Undo Create Pin Link
+[2020.04.10-04.26.19:305][655]LogEditorTransaction: Undo Create Pin Link
+[2020.04.10-04.26.19:726][701]LogEditorTransaction: Undo Create Pin Link
+[2020.04.10-04.26.39:928][113]BlueprintLog: New page: Compile LaserCube
+[2020.04.10-04.26.40:068][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.04.10-04.26.40:709][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tutorial/LaserCube" FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/LaserCube.uasset" SILENT=true
+[2020.04.10-04.26.40:758][183]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/LaserCube103D595946812F051D5DC6AAD76E5CB5.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/LaserCube.uasset'
+[2020.04.10-04.26.47:452][980]BlueprintLog: New page: Compile LaserCube
+[2020.04.10-04.26.47:587][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.04.10-04.26.48:319][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tutorial/LaserCube" FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/LaserCube.uasset" SILENT=true
+[2020.04.10-04.26.48:358][ 61]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/LaserCube9E7C5DB34945D7259771C1B4CF7B42DA.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/LaserCube.uasset'
+[2020.04.10-04.28.07:873][557]BlueprintLog: New page: Compile LaserCube
+[2020.04.10-04.28.08:010][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.04.10-04.28.09:032][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tutorial/LaserCube" FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/LaserCube.uasset" SILENT=true
+[2020.04.10-04.28.09:073][673]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/LaserCube45CC7CDA44361AE051EE99A99C37323D.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/LaserCube.uasset'
+[2020.04.10-04.28.11:743][990]LogSlate: Window 'LaserCube' being destroyed
+[2020.04.10-04.28.14:174][276]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/lasercube140B4827B4D486E261094579FA756B0E0.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/VirtualRealityBP/Blueprints/lasercube1.uasset'
+[2020.04.10-04.30.58:813][691]Cmd: SELECT NONE
+[2020.04.10-04.31.00:559][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.31.07:672][176]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.10-04.31.20:349][437]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/SnappingTile.SnappingTile
+[2020.04.10-04.31.32:526][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.31.36:760][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.32.12:213][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.04.10-04.32.12:214][ 12]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Tutorial/Tutorial' took 0.033
+[2020.04.10-04.32.12:214][ 12]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/SnappingTile] ([1] browsable assets)...
+[2020.04.10-04.32.12:224][ 12]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/SnappingTile.SnappingTile]
+[2020.04.10-04.32.12:224][ 12]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/SnappingTile]
+[2020.04.10-04.32.12:241][ 12]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/SnappingTile_Auto222B6BEC84BBACB653AEE7D905FEE1088.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/SnappingTile_Auto2.uasset'
+[2020.04.10-04.32.12:241][ 12]LogFileHelpers: Auto-saving content packages took 0.027
+[2020.04.10-04.33.31:064][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.33.40:249][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.35.44:124][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.36.14:133][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.36.24:434][613]LogMaterial: Display: Missing cached shader map for material M_Hologram, compiling. 
+[2020.04.10-04.36.24:455][613]LogMaterial: Display: Missing cached shader map for material M_Hologram, compiling. 
+[2020.04.10-04.36.39:077][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.36.47:858][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.36.59:380][783]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.10-04.37.13:351][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.37.19:466][564]LogEditorTransaction: Undo Modify Component(s)
+[2020.04.10-04.37.35:815][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.37.35:958][  4]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/SnappingTile1B551534490D44C7C2CFBC8575F9185A.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/VirtualRealityBP/Blueprints/SnappingTile.uasset'
+[2020.04.10-04.37.49:877][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.38.25:462][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.38.57:350][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.39.19:698][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.39.38:240][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.39.55:156][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.42.06:740][952]BlueprintLog: New page: Compile SnappingTile
+[2020.04.10-04.42.06:889][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.04.10-04.42.07:383][998]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/SnappingTile35BDABDF43964533DDA628801BDACC8E.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/VirtualRealityBP/Blueprints/SnappingTile.uasset'
+[2020.04.10-04.43.00:850][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.04.10-04.43.00:850][976]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Tutorial/Tutorial' took 0.029
+[2020.04.10-04.43.00:851][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/SnappingTile] ([1] browsable assets)...
+[2020.04.10-04.43.00:868][976]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/SnappingTile.SnappingTile]
+[2020.04.10-04.43.00:868][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/SnappingTile]
+[2020.04.10-04.43.00:891][976]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/SnappingTile_Auto360FB055D4D14CD69F35A0798278F38CB.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/SnappingTile_Auto3.uasset'
+[2020.04.10-04.43.00:892][976]LogFileHelpers: Auto-saving content packages took 0.041
+[2020.04.10-04.44.56:166][147]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/SnappingTile6077CDEB44AE6FECE44EFBBC0D571CE6.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/VirtualRealityBP/Blueprints/SnappingTile.uasset'
+[2020.04.10-04.44.57:013][234]BlueprintLog: New page: Compile SnappingTile
+[2020.04.10-04.44.57:145][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.04.10-04.45.05:636][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.45.26:908][964]LogSlate: Window 'Content Browser 2' being destroyed
+[2020.04.10-04.45.37:305][992]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.10-04.45.44:293][674]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.10-04.45.45:280][792]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.10-04.45.45:284][792]LogMetaData: Removing '/Game/Tutorial/SnappingTile.SnappingTile:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/SnappingTile.PackageMetaData'
+[2020.04.10-04.45.45:284][792]LogMetaData: Removing '/Game/Tutorial/SnappingTile.SKEL_SnappingTile_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/SnappingTile.PackageMetaData'
+[2020.04.10-04.45.45:284][792]LogMetaData: Removing '/Game/Tutorial/SnappingTile.SnappingTile_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/SnappingTile.PackageMetaData'
+[2020.04.10-04.45.45:284][792]LogMetaData: Removing '/Game/Tutorial/SnappingTile.SnappingTile:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/SnappingTile.PackageMetaData'
+[2020.04.10-04.45.45:284][792]LogMetaData: Removing '/Game/Tutorial/SnappingTile.SnappingTile:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/SnappingTile.PackageMetaData'
+[2020.04.10-04.45.45:284][792]LogMetaData: Removing '/Game/Tutorial/SnappingTile.SnappingTile:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VirtualRealityBP/Blueprints/SnappingTile.PackageMetaData'
+[2020.04.10-04.45.45:284][792]LogMetaData: Removing '/Game/Tutorial/SnappingTile.SnappingTile_C:Box' ref from Metadata '/Game/VirtualRealityBP/Blueprints/SnappingTile.PackageMetaData'
+[2020.04.10-04.45.45:284][792]LogMetaData: Removing '/Game/Tutorial/SnappingTile.SnappingTile_C:Slot' ref from Metadata '/Game/VirtualRealityBP/Blueprints/SnappingTile.PackageMetaData'
+[2020.04.10-04.45.45:284][792]LogMetaData: Removing '/Game/Tutorial/SnappingTile.SnappingTile_C:Cube' ref from Metadata '/Game/VirtualRealityBP/Blueprints/SnappingTile.PackageMetaData'
+[2020.04.10-04.45.45:284][792]LogMetaData: Removing '/Game/Tutorial/SnappingTile.SKEL_SnappingTile_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/SnappingTile.PackageMetaData'
+[2020.04.10-04.45.45:284][792]LogMetaData: Removing '/Game/Tutorial/SnappingTile.SKEL_SnappingTile_C:Box' ref from Metadata '/Game/VirtualRealityBP/Blueprints/SnappingTile.PackageMetaData'
+[2020.04.10-04.45.45:284][792]LogMetaData: Removing '/Game/Tutorial/SnappingTile.SKEL_SnappingTile_C:Slot' ref from Metadata '/Game/VirtualRealityBP/Blueprints/SnappingTile.PackageMetaData'
+[2020.04.10-04.45.45:284][792]LogMetaData: Removing '/Game/Tutorial/SnappingTile.SKEL_SnappingTile_C:Cube' ref from Metadata '/Game/VirtualRealityBP/Blueprints/SnappingTile.PackageMetaData'
+[2020.04.10-04.45.45:284][792]LogMetaData: Removing '/Game/Tutorial/SnappingTile.SKEL_SnappingTile_C:BndEvt__Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/VirtualRealityBP/Blueprints/SnappingTile.PackageMetaData'
+[2020.04.10-04.45.45:285][792]LogMetaData: Removing '/Game/Tutorial/SnappingTile.SKEL_SnappingTile_C:BndEvt__Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/VirtualRealityBP/Blueprints/SnappingTile.PackageMetaData'
+[2020.04.10-04.45.45:293][792]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.10-04.45.45:303][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tutorial/SnappingTile" FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/SnappingTile.uasset" SILENT=true
+[2020.04.10-04.45.45:322][792]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/SnappingTileF408F802401329624698959608DAAB93.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/SnappingTile.uasset'
+[2020.04.10-04.45.45:330][792]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.10-04.45.45:473][792]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.10-04.45.45:502][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.04.10-04.45.45:532][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.04.10-04.45.45:558][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.04.10-04.45.46:088][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.45.57:551][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.46.02:261][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.46.10:247][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.46.10:376][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tutorial/SnappingTile" FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/SnappingTile.uasset" SILENT=true
+[2020.04.10-04.46.10:393][ 17]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/SnappingTile1BD12578491BB44B36CC2DB9F04DC665.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/SnappingTile.uasset'
+[2020.04.10-04.46.10:765][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.46.11:215][ 99]BlueprintLog: New page: Compile SnappingTile
+[2020.04.10-04.46.11:349][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.04.10-04.46.15:994][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tutorial/LaserCube" FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/LaserCube.uasset" SILENT=true
+[2020.04.10-04.46.16:036][543]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/LaserCube6C0B609E4FD6D752794822817AC01D19.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/LaserCube.uasset'
+[2020.04.10-04.46.17:748][698]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.10-04.46.20:261][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.46.21:896][ 83]LogSlate: Window 'LaserCube' being destroyed
+[2020.04.10-04.46.21:901][ 83]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.10-04.46.22:596][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.46.25:252][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.46.36:661][579]Cmd: SELECT NONE
+[2020.04.10-04.46.38:459][736]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2020.04.10-04.46.39:398][820]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2020.04.10-04.46.39:921][871]Cmd: SELECT NONE
+[2020.04.10-04.46.40:490][927]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2020.04.10-04.46.42:182][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.46.44:370][291]LogEditorViewport: Clicking on Actor (LMB): SnappingTile_C (SnappingTile)
+[2020.04.10-04.46.50:587][933]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.10-04.46.51:329][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.10-04.46.51:331][ 22]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Tutorial/SnappingTile.SnappingTile
+[2020.04.10-04.46.58:069][746]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_0 via property Slot, but TRASH_StaticMeshComponent_0 is pending kill
+	SnappingTile_C /Engine/Transient.World_14:PersistentLevel.SnappingTile_C_0
+	Function /Game/Tutorial/SnappingTile.SnappingTile_C:ExecuteUbergraph_SnappingTile:0017
+[2020.04.10-04.47.06:940][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tutorial/SnappingTile" FILE="../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/SnappingTile.uasset" SILENT=true
+[2020.04.10-04.47.06:962][690]LogSavePackage: Moving '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Saved/SnappingTileC344A6724A9EA1570F3AEC9EDD5E2A11.tmp' to '../../../../../TheSquire/GDS210.3-Alternate-Realities/Project3_VR/Content/Tutorial/SnappingTile.uasset'
+[2020.04.10-04.47.07:426][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.47.07:528][749]BlueprintLog: New page: Compile SnappingTile
+[2020.04.10-04.47.07:668][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.04.10-04.47.09:191][903]LogSlate: Window 'SnappingTile' being destroyed
+[2020.04.10-04.47.11:062][ 86]Cmd: SELECT NONE
+[2020.04.10-04.47.19:920][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.47.22:242][207]LogActorFactory: Actor Factory created Cube
+[2020.04.10-04.47.22:914][262]LogActorFactory: Actor Factory created Cube
+[2020.04.10-04.47.26:098][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.47.26:799][634]Cmd: SELECT NONE
+[2020.04.10-04.47.30:697][ 24]Cmd: SELECT NONE
+[2020.04.10-04.47.33:066][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.47.36:367][584]LogEditorViewport: Clicking on Actor (LMB): LaserCube_C (LaserCube)
+[2020.04.10-04.47.36:585][604]Cmd: SELECT NONE
+[2020.04.10-04.47.38:471][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-04.47.38:598][800]LogTemp: Repeating last play command: VR Preview
+[2020.04.10-04.47.38:678][800]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2020.04.10-04.47.38:679][800]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.10-04.47.38:679][800]LogPlayLevel: [PlayLevel] Compiling Gun before play...
+[2020.04.10-04.47.38:810][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.04.10-04.47.38:810][800]LogPlayLevel: PlayLevel: Blueprint regeneration took 130 ms (1 blueprints)
+[2020.04.10-04.47.38:811][800]PIE: New page: PIE session: Tutorial (10 Apr 2020 8:47:38 pm)
+[2020.04.10-04.47.38:822][800]LogPlayLevel: Creating play world package: /Game/Tutorial/UEDPIE_0_Tutorial
+[2020.04.10-04.47.38:844][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021526s)
+[2020.04.10-04.47.38:844][800]LogAIModule: Creating AISystem for world Tutorial
+[2020.04.10-04.47.38:844][800]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2020.04.10-04.47.38:844][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tutorial/Tutorial.Tutorial to /Game/Tutorial/UEDPIE_0_Tutorial.Tutorial (0.022258s)
+[2020.04.10-04.47.38:868][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.04.10-04.47.38:910][800]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID PRO USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.04.10-04.47.38:917][800]LogInit: FAudioDevice initialized.
+[2020.04.10-04.47.38:923][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-04.47.41:704][800]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-69584F10
+[2020.04.10-04.47.41:747][800]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.04.10-04.47.41:747][800]LogLoad: Game class is 'GameModeBase'
+[2020.04.10-04.47.41:755][800]LogWorld: Bringing World /Game/Tutorial/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2020.04.10-12.47.41
+[2020.04.10-04.47.41:756][800]LogWorld: Bringing up level for play took: 0.007699
+[2020.04.10-04.47.41:793][800]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.04.10-04.47.41:819][800]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.04.10-04.47.41:819][800]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.04.10-04.47.41:822][800]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.04.10-04.47.41:822][800]LogOutputDevice: Warning: 
+
+Script Stack (5 frames):
+BP_MotionController_C.SetupRoomScaleOutline
+BP_MotionController_C.ExecuteUbergraph_BP_MotionController
+BP_MotionController_C.ReceiveBeginPlay
+MotionControllerPawn_C.ExecuteUbergraph_MotionControllerPawn
+MotionControllerPawn_C.ReceiveBeginPlay
+
+[2020.04.10-04.47.42:487][800]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.665 s
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: 
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Math\Matrix.cpp] [Line: 8]
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: Stack: 
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffe0888d386 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffe084e7894 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffde927aaba UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffde9ab8ae8 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffde9af06b4 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffe117ebac8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119e00e2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119fcbc1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119fe98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119d5efb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119fe6a9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119fe98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119d5efb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119fe6a9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119fe98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119fe378 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffe117ebac8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119fdf07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffde9339ff3 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffde9307358 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffde9311af6 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffde9336b2b UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffde931ddcb UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffde998ac6f UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffde9364596 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffe117ebac8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:487][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119e00e2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119fcbc1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffe11a14be6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119fe98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119d5efb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119fe6a9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119fe98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119fe378 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffe117ebac8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffe119fdf07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffde9339ff3 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffde9307358 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffde9311af6 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffdea42cb99 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffde9992911 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffdea3e754e UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffde99599af UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffdf4f5be44 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffdf4f7b044 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffdf4f9319f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffdf4a6fc4a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffdf528d396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ff7153d6bb1 UE4Editor.exe!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ff7153e554c UE4Editor.exe!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ff7153e55ca UE4Editor.exe!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ff7153f316c UE4Editor.exe!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ff7153f5b8e UE4Editor.exe!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffe4ec47bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: [Callstack] 0x00007ffe4fa0ced1 ntdll.dll!UnknownFunction []
+[2020.04.10-04.47.42:488][800]LogOutputDevice: Error: 
+[2020.04.10-04.47.42:494][800]LogStats:                SubmitErrorReport -  0.000 s
